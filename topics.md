@@ -754,6 +754,7 @@
 
 ## others 
 
+- [dieseltravis/awesome-stars](https://github.com/dieseltravis/awesome-stars) - my stars
 - [BrobstonCreations/yet-another-smart-vent](https://github.com/BrobstonCreations/yet-another-smart-vent) - 
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
