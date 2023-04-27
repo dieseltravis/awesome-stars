@@ -607,6 +607,7 @@
 
 ## Others 
 
+- [dieseltravis/awesome-stars](https://github.com/dieseltravis/awesome-stars) - my stars
 - [BrobstonCreations/yet-another-smart-vent](https://github.com/BrobstonCreations/yet-another-smart-vent) - 
 - [egladman/keebs.pretty](https://github.com/egladman/keebs.pretty) - KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers
 - [tmk/keyboard_parts.pretty](https://github.com/tmk/keyboard_parts.pretty) - KiCad modules for keyboard design
