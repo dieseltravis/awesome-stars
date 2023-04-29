@@ -607,6 +607,7 @@
 
 ## Others 
 
+- [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [dieseltravis/awesome-stars](https://github.com/dieseltravis/awesome-stars) - my stars
 - [BrobstonCreations/yet-another-smart-vent](https://github.com/BrobstonCreations/yet-another-smart-vent) - 
 - [egladman/keebs.pretty](https://github.com/egladman/keebs.pretty) - KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers
