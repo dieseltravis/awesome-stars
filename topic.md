@@ -761,6 +761,7 @@
 
 ## others 
 
+- [RaulBejarano/Ultimate-Toroidal-Propeller-Generator](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator) - The Ultimate Toroidal Propeller Generator is an open source project that provides a way to generate STL files of toroidal drone propellers.
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [dieseltravis/awesome-stars](https://github.com/dieseltravis/awesome-stars) - my stars
 - [BrobstonCreations/yet-another-smart-vent](https://github.com/BrobstonCreations/yet-another-smart-vent) - 
