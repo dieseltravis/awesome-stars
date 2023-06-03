@@ -199,7 +199,7 @@
 - [amalmathewtech/ATtiny_LED_Matrix_Display_Badge](https://github.com/amalmathewtech/ATtiny_LED_Matrix_Display_Badge) - An ATtiny85 based badge size PCB that can display alphabets and numbers .
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [CoretechR/ESP32-WiFi-Robot](https://github.com/CoretechR/ESP32-WiFi-Robot) - 
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [SensorsIot/IR-Babelfish](https://github.com/SensorsIot/IR-Babelfish) - 
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [Creality3DPrinting/CR-10S](https://github.com/Creality3DPrinting/CR-10S) - The famous, large build area, all-metal 3D printer from Creality3D
