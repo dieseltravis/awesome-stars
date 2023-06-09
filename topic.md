@@ -289,6 +289,7 @@
 
 ## csharp 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
@@ -351,6 +352,7 @@
 
 ## dotnet 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [DanielArgent/Tomen](https://github.com/DanielArgent/Tomen) - Toml parser for .NET
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
@@ -474,6 +476,7 @@
 
 ## good-first-issue 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## google 
@@ -1524,6 +1527,7 @@
 
 ## windows 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
