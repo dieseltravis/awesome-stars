@@ -631,7 +631,7 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [Minecatr/nibble-zmk-config](https://github.com/Minecatr/nibble-zmk-config) - 
 - [nullbitsco/docs](https://github.com/nullbitsco/docs) - Online documentation (build guides, user manuals, etc) for nullbits products.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [HorayNarea/WarriorVM](https://github.com/HorayNarea/WarriorVM) - auto-updating ArchiveTeam Warrior VM
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
