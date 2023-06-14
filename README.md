@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [dieseltravis/arduino-projects](https://github.com/dieseltravis/arduino-projects) - a bunch of test projects
