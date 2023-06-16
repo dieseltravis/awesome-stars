@@ -55,6 +55,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Stylus](#stylus)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -101,7 +102,6 @@
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [martinwhitaker/pcmemtest](https://github.com/martinwhitaker/pcmemtest) - A memory tester for x86 and x86-64 computers (rewrite of memtest86+)
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [openmiko/openmiko](https://github.com/openmiko/openmiko) - Open source firmware for Ingenic T20 based devices such as WyzeCam V2, Xiaomi Xiaofang 1S, iSmartAlarm's Spot+ and others.
 - [Scrumplesplunge/aoc2020](https://github.com/Scrumplesplunge/aoc2020) - Advent of Code 2020 solutions, in plain C, using no libraries, not even the standard library.
@@ -921,6 +921,10 @@
 
 - [lynnandtonic/airport-codes](https://github.com/lynnandtonic/airport-codes) - ✈️ Making sense of those three-letter airport codes.
 - [whyaz/whyaz](https://github.com/whyaz/whyaz) - 🌵Reasons to love Arizona
+
+## Swift 
+
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 
 ## TypeScript 
 
