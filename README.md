@@ -563,7 +563,7 @@
 
 ## Jupyter Notebook 
 
-- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
+- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstations.
 
 ## KiCad Layout 
 
