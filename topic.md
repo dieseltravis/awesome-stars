@@ -440,6 +440,7 @@
 
 ## git 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
