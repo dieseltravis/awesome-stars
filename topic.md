@@ -29,7 +29,6 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
-- [data-visualization](#data-visualization)
 - [design](#design)
 - [discord](#discord)
 - [docker](#docker)
@@ -323,10 +322,6 @@
 ## dart 
 
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
-
-## data-visualization 
-
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 
 ## design 
 
