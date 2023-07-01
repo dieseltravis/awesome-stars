@@ -775,6 +775,7 @@
 
 ## others 
 
+- [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [RaulBejarano/Ultimate-Toroidal-Propeller-Generator](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator) - The Ultimate Toroidal Propeller Generator is an open source project that provides a way to generate STL files of toroidal drone propellers.
