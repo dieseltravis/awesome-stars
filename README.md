@@ -110,7 +110,6 @@
 - [protodomemusic/mmml](https://github.com/protodomemusic/mmml) - Micro Music Macro Language - An MML Implementation for 1-Bit Music on AVR Microcontrollers
 - [MrChromebox/SeaBIOS](https://github.com/MrChromebox/SeaBIOS) - 
 - [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
-- [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [axoloti/axoloti](https://github.com/axoloti/axoloti) - Sketching embedded digital audio
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [akafugu/xmas](https://github.com/akafugu/xmas) - XMAS Blinking Christmas Decoration Firmware (ATTiny13A)
@@ -944,6 +943,7 @@
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
+- [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [itslenny/slack-emoji-import](https://github.com/itslenny/slack-emoji-import) - Simple bulk emoji importer for slack
