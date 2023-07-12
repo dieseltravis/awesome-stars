@@ -608,7 +608,7 @@
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
