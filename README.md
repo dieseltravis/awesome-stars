@@ -89,6 +89,7 @@
 
 ## C 
 
+- [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
 - [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver for general MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
@@ -613,6 +614,9 @@
 
 ## Others 
 
+- [lafentres/pizza-sob-emoji](https://github.com/lafentres/pizza-sob-emoji) - Pizza sob emoji for Slack
+- [lafentres/goose-honk-emoji](https://github.com/lafentres/goose-honk-emoji) - Goose honk emoji for Slack
+- [lafentres/cowboy-cat-emoji](https://github.com/lafentres/cowboy-cat-emoji) - Cowboy cat emoji for Slack
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [dieseltravis/awesome-stars](https://github.com/dieseltravis/awesome-stars) - my stars
 - [BrobstonCreations/yet-another-smart-vent](https://github.com/BrobstonCreations/yet-another-smart-vent) - 
