@@ -663,6 +663,7 @@
 
 ## linux 
 
+- [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver for general MCU and Linux.
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -775,6 +776,9 @@
 
 ## others 
 
+- [lafentres/pizza-sob-emoji](https://github.com/lafentres/pizza-sob-emoji) - Pizza sob emoji for Slack
+- [lafentres/goose-honk-emoji](https://github.com/lafentres/goose-honk-emoji) - Goose honk emoji for Slack
+- [lafentres/cowboy-cat-emoji](https://github.com/lafentres/cowboy-cat-emoji) - Cowboy cat emoji for Slack
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
