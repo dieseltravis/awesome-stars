@@ -114,6 +114,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -1468,6 +1469,10 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+
+## termux 
+
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## testing 
 
