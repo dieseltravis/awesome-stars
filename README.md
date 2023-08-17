@@ -614,6 +614,7 @@
 
 ## Others 
 
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [lafentres/pizza-sob-emoji](https://github.com/lafentres/pizza-sob-emoji) - Pizza sob emoji for Slack
 - [lafentres/goose-honk-emoji](https://github.com/lafentres/goose-honk-emoji) - Goose honk emoji for Slack
 - [lafentres/cowboy-cat-emoji](https://github.com/lafentres/cowboy-cat-emoji) - Cowboy cat emoji for Slack
