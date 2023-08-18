@@ -776,6 +776,7 @@
 
 ## others 
 
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [lafentres/pizza-sob-emoji](https://github.com/lafentres/pizza-sob-emoji) - Pizza sob emoji for Slack
 - [lafentres/goose-honk-emoji](https://github.com/lafentres/goose-honk-emoji) - Goose honk emoji for Slack
