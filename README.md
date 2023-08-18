@@ -936,6 +936,7 @@
 
 ## TypeScript 
 
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [pkreissel/fedifeed](https://github.com/pkreissel/fedifeed) - Display Mastodon Posts in a curated feed with an user-customisable algorithm
 - [satchelspencer/repsyps](https://github.com/satchelspencer/repsyps) - realtime playback and synchronization of periodic signals... or music
