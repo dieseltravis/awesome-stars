@@ -33,6 +33,7 @@
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [NSIS](#nsis)
 - [OCaml](#ocaml)
@@ -346,7 +347,6 @@
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [MLTSHP/mltshp-patterns](https://github.com/MLTSHP/mltshp-patterns) - Pattern Library for MLTSHP Apps
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
-- [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [WICG/urlpattern](https://github.com/WICG/urlpattern) - The URLPattern API provides a web platform primitive for matching URLs.
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [CoretechR/ZeroBot](https://github.com/CoretechR/ZeroBot) - Raspberry Pi Zero FPV Robot
@@ -589,6 +589,10 @@
 - [keplerproject/xavante](https://github.com/keplerproject/xavante) - Xavante is a Lua HTTP 1.1 Web server that uses a modular architecture based on URI mapped handlers.
 - [SmartArduino/DoitCar](https://github.com/SmartArduino/DoitCar) - AP and STA source code
 
+## MDX 
+
+- [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+
 ## Makefile 
 
 - [BleuLlama/Playdate-Stuff](https://github.com/BleuLlama/Playdate-Stuff) - Various fonts I've made and other stuff for the Playdate, Pulp, etc
@@ -656,7 +660,6 @@
 - [GalliumOS/galliumos-distro](https://github.com/GalliumOS/galliumos-distro) - Docs, issues, and artwork sources for GalliumOS
 - [mcauser/YX8018-solar-led-driver](https://github.com/mcauser/YX8018-solar-led-driver) - YX8018 LED driver in Bunnings Lytworx solar garden LED lights
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
-- [CarnetApp/CarnetDocumentation](https://github.com/CarnetApp/CarnetDocumentation) - 
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -912,6 +915,7 @@
 - [paulirish/git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [trouch/CreawsomeMod](https://github.com/trouch/CreawsomeMod) - Modification for Ultimaker Cura
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
+- [CarnetApp/CarnetDocumentation](https://github.com/CarnetApp/CarnetDocumentation) - 
 - [Howchoo/pi-power-button](https://github.com/Howchoo/pi-power-button) - Scripts useful for the Pi power button
 - [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
