@@ -943,6 +943,7 @@
 
 ## TypeScript 
 
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [pkreissel/fedifeed](https://github.com/pkreissel/fedifeed) - Display Mastodon Posts in a curated feed with an user-customisable algorithm
