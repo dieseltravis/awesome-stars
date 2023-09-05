@@ -311,6 +311,7 @@
 
 ## GDScript 
 
+- [Minecatr/Opsotx](https://github.com/Minecatr/Opsotx) - fps game
 - [fcazalet/godot-version-management](https://github.com/fcazalet/godot-version-management) - This addon is for developpers that want a centralized place for version naming / build number and then display it in game.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 
