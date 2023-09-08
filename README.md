@@ -142,7 +142,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [DanielArgent/Tomen](https://github.com/DanielArgent/Tomen) - Toml parser for .NET
