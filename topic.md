@@ -1178,7 +1178,7 @@
 - [google/namebench](https://github.com/google/namebench) - namebench
 - [getify/stable-timers](https://github.com/getify/stable-timers) - timers with less race conditions
 - [jeyoder/StuffInSpace](https://github.com/jeyoder/StuffInSpace) - A real-time interactive WebGL visualisation of objects in Earth orbit
-- [sferik/twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
+- [sferik/twitter-ruby](https://github.com/sferik/twitter-ruby) - A Ruby interface to the Twitter API.
 - [jquery-archive/css-chassis](https://github.com/jquery-archive/css-chassis) - An attempt at creating an open standard for both CSS and JavaScript UI libraries.
 - [kylemacey/repo-contrib-graph](https://github.com/kylemacey/repo-contrib-graph) - Repository Contribution Graphs in your terminal!
 - [jonmagic/csv2md](https://github.com/jonmagic/csv2md) - Convert csv into a GitHub Flavored Markdown table
@@ -1239,7 +1239,7 @@
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [malsup/cycle2](https://github.com/malsup/cycle2) - 2nd gen cycling
 - [shaniber/recipes](https://github.com/shaniber/recipes) - My Recipes
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [WhiteHouse/api-standards](https://github.com/WhiteHouse/api-standards) - 
 - [starfishmod/jquery-oembed-all](https://github.com/starfishmod/jquery-oembed-all) - A fork with improvements of the jquery-oembed project
 - [theonion/fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
