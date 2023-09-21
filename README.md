@@ -852,12 +852,12 @@
 - [ckolderup/wasted-exe](https://github.com/ckolderup/wasted-exe) - A bot to turn any GIF into a GTA-style "wasted" GIF
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [TwP/pixelbot](https://github.com/TwP/pixelbot) - Tasty integration of neopixels and web services
-- [sferik/twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
+- [sferik/twitter-ruby](https://github.com/sferik/twitter-ruby) - A Ruby interface to the Twitter API.
 - [jonmagic/csv2md](https://github.com/jonmagic/csv2md) - Convert csv into a GitHub Flavored Markdown table
 - [jgoz/vagrant-jekyll](https://github.com/jgoz/vagrant-jekyll) - Vagrant configuration & provisioning for jekyll projects
 - [mispy-archive/twitter_ebooks](https://github.com/mispy-archive/twitter_ebooks) - Better twitterbots for all your friends~
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [dieseltravis/Jekyll-S3](https://github.com/dieseltravis/Jekyll-S3) - This is a static site generator that incorporates best practices for web performance, such as versioning static assets, CSS minification, JS compilation, GZIP compression, and usage of a CDN for stati
 - [ebello/jekyll-perf](https://github.com/ebello/jekyll-perf) - A static site generator that incorporates best practices for web performance, such as versioning static assets, CSS minification, JS compilation, GZIP compression, and usage of a CDN for static assets
 - [htty/htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers.
