@@ -120,7 +120,6 @@
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [mike-rankin/ESP8266_OLED_Display](https://github.com/mike-rankin/ESP8266_OLED_Display) - ESP8266 Oled Display
 - [wemos/Arduino_XI](https://github.com/wemos/Arduino_XI) - Arduino core for WEMOS XI Boards
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [obdev/v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers
 - [adafruit/Adafruit-Trinket-USB](https://github.com/adafruit/Adafruit-Trinket-USB) - Arduino libraries allowing Trinket to act as USB devices
 - [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
@@ -219,6 +218,7 @@
 - [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
 - [wemos/WEMOS_SHT3x_Arduino_Library](https://github.com/wemos/WEMOS_SHT3x_Arduino_Library) - 
 - [nkolban/ESP32_BLE_Arduino](https://github.com/nkolban/ESP32_BLE_Arduino) - The library source for the ESP32 BLE support for Arduino.
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
 - [0xPIT/encoder](https://github.com/0xPIT/encoder) - Atmel AVR C++ RotaryEncoder Implementation
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
