@@ -350,6 +350,7 @@
 - [MLTSHP/mltshp-patterns](https://github.com/MLTSHP/mltshp-patterns) - Pattern Library for MLTSHP Apps
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 - [WICG/urlpattern](https://github.com/WICG/urlpattern) - The URLPattern API provides a web platform primitive for matching URLs.
+- [wishlephant/wishlephant-extension](https://github.com/wishlephant/wishlephant-extension) - A browser extension for wishlephant
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [CoretechR/ZeroBot](https://github.com/CoretechR/ZeroBot) - Raspberry Pi Zero FPV Robot
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -432,7 +433,6 @@
 - [evgeni/qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
 - [vicmora/MMM-GoogleMapsTraffic](https://github.com/vicmora/MMM-GoogleMapsTraffic) - A raspberry pi MagicMirror module that displays a map, centered at provided coordinates, with Google Maps Traffic information.
 - [espruino/BangleApps](https://github.com/espruino/BangleApps) - Bangle.js App Loader (and Apps)
-- [wishlephant/wishlephant-extension](https://github.com/wishlephant/wishlephant-extension) - A browser extension for wishlephant
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [BBarbour-Dev/vue-express-auth0](https://github.com/BBarbour-Dev/vue-express-auth0) - Express app that serves up Vue.js app. Uses Auth0 for client side auth and to protect api routes.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
