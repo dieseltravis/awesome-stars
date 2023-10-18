@@ -349,7 +349,7 @@
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [MLTSHP/mltshp-patterns](https://github.com/MLTSHP/mltshp-patterns) - Pattern Library for MLTSHP Apps
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
-- [WICG/urlpattern](https://github.com/WICG/urlpattern) - The URLPattern API provides a web platform primitive for matching URLs.
+- [whatwg/urlpattern](https://github.com/whatwg/urlpattern) - URL Pattern Standard
 - [wishlephant/wishlephant-extension](https://github.com/wishlephant/wishlephant-extension) - A browser extension for wishlephant
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [CoretechR/ZeroBot](https://github.com/CoretechR/ZeroBot) - Raspberry Pi Zero FPV Robot
