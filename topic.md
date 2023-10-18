@@ -930,7 +930,7 @@
 - [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) - Prusa3D specific settings for the Slic3r Prusa Edition
 - [witnessmenow/ScrollingLEDMatrixTelegram](https://github.com/witnessmenow/ScrollingLEDMatrixTelegram) - Send messages to a LED Matrix display through Telegram. Inspired by a tweet from Smarter Every Day
 - [Scrumplesplunge/aoc2020](https://github.com/Scrumplesplunge/aoc2020) - Advent of Code 2020 solutions, in plain C, using no libraries, not even the standard library.
-- [WICG/urlpattern](https://github.com/WICG/urlpattern) - The URLPattern API provides a web platform primitive for matching URLs.
+- [whatwg/urlpattern](https://github.com/whatwg/urlpattern) - URL Pattern Standard
 - [lanewinfield/zoomout](https://github.com/lanewinfield/zoomout) - a pull switch (or BYO button) that gets you out of video calls, quick
 - [knbixby/adventofcode2020](https://github.com/knbixby/adventofcode2020) - 2020 Advent of Code
 - [tckmn/polyaoc-2020](https://github.com/tckmn/polyaoc-2020) - solutions to advent of code 2020 puzzles in many languages
