@@ -22,6 +22,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -277,6 +278,10 @@
 ## compiler 
 
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
+
+## computer-science 
+
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 
 ## config 
 
@@ -790,6 +795,7 @@
 
 ## others 
 
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
@@ -948,7 +954,6 @@
 - [ChrisWarwick/WakeOnLan](https://github.com/ChrisWarwick/WakeOnLan) - Sends Wake-on-Lan Magic Packets to the specified Mac addresses
 - [defund12/defund12.org](https://github.com/defund12/defund12.org) - defund12.org
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [mbbroberg/awesome-zoom-backgrounds](https://github.com/mbbroberg/awesome-zoom-backgrounds) - A community repo for humors
 - [emilyvelasco/The-Orb-synthesizer](https://github.com/emilyvelasco/The-Orb-synthesizer) - 
 - [Cederb/Faceshield.nu](https://github.com/Cederb/Faceshield.nu) - Backup repo for the Faceshield.nu project. Please see http://faceshield.nu for information.
