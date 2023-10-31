@@ -90,6 +90,7 @@
 
 ## C 
 
+- [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
@@ -572,6 +573,7 @@
 
 ## Jupyter Notebook 
 
+- [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstations.
 
 ## KiCad Layout 
