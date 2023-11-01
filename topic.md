@@ -1279,7 +1279,7 @@
 - [jakearchibald/appcache-demo](https://github.com/jakearchibald/appcache-demo) - 
 - [jmpressjs/jmpress.js](https://github.com/jmpressjs/jmpress.js) - A jQuery plugin to build a website on the infinite canvas
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+- [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [voodootikigod/logo.js](https://github.com/voodootikigod/logo.js) - A community logo for JS
 - [ganeshtoday/yammerfall](https://github.com/ganeshtoday/yammerfall) - Yammerfall is a continuous stream of messages on Yammer, the private social network for your company. It is designed for display on screens in public areas or during events. Yammerfall is primarily an
 - [RedWolves/Complex-UIs-with-jQuery-UI-in-Windows-8](https://github.com/RedWolves/Complex-UIs-with-jQuery-UI-in-Windows-8) - Porting the Complex UI with jQuery UI code to Windows 8 Metro App. To Do app based off Script Junkie article below.
