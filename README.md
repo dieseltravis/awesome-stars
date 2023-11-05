@@ -90,6 +90,7 @@
 
 ## C 
 
+- [witnessmenow/Spotify-Diy-Thing](https://github.com/witnessmenow/Spotify-Diy-Thing) - Something similar to the Spotify Car Thing, built with a cheap ESP32 Screen
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
@@ -181,6 +182,8 @@
 
 ## C++ 
 
+- [schreibfaul1/ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) - With this library You can easily build a WebRadio with a ESP32 board and a mp3-module.  See: https://www.youtube.com/watch?v=u4u9NvZvWRk
+- [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
