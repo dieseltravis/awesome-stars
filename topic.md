@@ -164,6 +164,7 @@
 
 ## arduino 
 
+- [davetcc/tcMenu](https://github.com/davetcc/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [schreibfaul1/ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) - With this library You can easily build a WebRadio with a ESP32 board and a mp3-module.  See: https://www.youtube.com/watch?v=u4u9NvZvWRk
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
 - [PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
@@ -592,6 +593,7 @@
 
 ## iot 
 
+- [davetcc/tcMenu](https://github.com/davetcc/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
