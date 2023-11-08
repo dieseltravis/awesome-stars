@@ -383,6 +383,7 @@
 
 ## Java 
 
+- [davetcc/tcMenu](https://github.com/davetcc/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
