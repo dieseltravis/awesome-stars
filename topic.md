@@ -39,6 +39,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
 - [firefox](#firefox)
@@ -164,6 +165,7 @@
 
 ## arduino 
 
+- [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
 - [davetcc/tcMenu](https://github.com/davetcc/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [schreibfaul1/ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) - With this library You can easily build a WebRadio with a ESP32 board and a mp3-module.  See: https://www.youtube.com/watch?v=u4u9NvZvWRk
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
@@ -401,6 +403,10 @@
 - [lambtron/emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
+
+## emulator 
+
+- [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
 
 ## es6 
 
@@ -799,6 +805,10 @@
 
 ## others 
 
+- [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
+- [karawin/Ka-Radio](https://github.com/karawin/Ka-Radio) - A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix
+- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
+- [durasj/webamp-desktop](https://github.com/durasj/webamp-desktop) - Experimental cross-platform (Win, Mac, Linux) desktop version of Winamp 2.9 reimplementation - Webamp
 - [witnessmenow/Spotify-Diy-Thing](https://github.com/witnessmenow/Spotify-Diy-Thing) - Something similar to the Spotify Car Thing, built with a cheap ESP32 Screen
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
