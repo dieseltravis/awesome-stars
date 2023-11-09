@@ -7,6 +7,7 @@
 
 - [ApacheConf](#apacheconf)
 - [Arduino](#arduino)
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -76,6 +77,10 @@
 - [mibus/MibusArduino](https://github.com/mibus/MibusArduino) - My Arduino hacks
 - [bitchwhocodes/TweetHeart](https://github.com/bitchwhocodes/TweetHeart) - Repo for basic Node script that uses the Twitter Streaming API and hits a sparkcore device
 
+## Assembly 
+
+- [karawin/Ka-Radio](https://github.com/karawin/Ka-Radio) - A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix
+
 ## Astro 
 
 - [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -90,6 +95,8 @@
 
 ## C 
 
+- [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
+- [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
 - [witnessmenow/Spotify-Diy-Thing](https://github.com/witnessmenow/Spotify-Diy-Thing) - Something similar to the Spotify Car Thing, built with a cheap ESP32 Screen
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
@@ -401,6 +408,7 @@
 
 ## JavaScript 
 
+- [durasj/webamp-desktop](https://github.com/durasj/webamp-desktop) - Experimental cross-platform (Win, Mac, Linux) desktop version of Winamp 2.9 reimplementation - Webamp
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
@@ -763,6 +771,7 @@
 
 ## Python 
 
+- [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
