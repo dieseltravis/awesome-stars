@@ -805,6 +805,7 @@
 
 ## others 
 
+- [e2002/yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
 - [brainsmoke/svgconvert](https://github.com/brainsmoke/svgconvert) - Convert SVGs to kicad modules/zones
 - [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
 - [karawin/Ka-Radio](https://github.com/karawin/Ka-Radio) - A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix
