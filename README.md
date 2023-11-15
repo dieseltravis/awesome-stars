@@ -189,6 +189,7 @@
 
 ## C++ 
 
+- [e2002/yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
 - [schreibfaul1/ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) - With this library You can easily build a WebRadio with a ESP32 board and a mp3-module.  See: https://www.youtube.com/watch?v=u4u9NvZvWRk
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
