@@ -102,7 +102,7 @@
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
-- [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver for general MCU and Linux.
+- [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver library for general MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [DHowett/framework-ec](https://github.com/DHowett/framework-ec) - Embedded Controller firmware for the Framework Laptop
@@ -391,6 +391,7 @@
 
 ## Java 
 
+- [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
 - [davetcc/tcMenu](https://github.com/davetcc/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
