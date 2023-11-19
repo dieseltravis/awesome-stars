@@ -805,6 +805,7 @@
 
 ## others 
 
+- [hexeguitar/ESP32_TFT_PIO](https://github.com/hexeguitar/ESP32_TFT_PIO) - Example project for the ESP32-2432S028 "Cheap Yellow Display" board.
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
 - [e2002/yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
 - [brainsmoke/svgconvert](https://github.com/brainsmoke/svgconvert) - Convert SVGs to kicad modules/zones
