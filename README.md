@@ -641,6 +641,7 @@
 
 ## Others 
 
+- [hexeguitar/ESP32_TFT_PIO](https://github.com/hexeguitar/ESP32_TFT_PIO) - Example project for the ESP32-2432S028 "Cheap Yellow Display" board.
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
