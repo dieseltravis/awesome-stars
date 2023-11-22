@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ApacheConf](#apacheconf)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -61,10 +60,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-
-## ApacheConf 
-
-- [h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - DEPRECATED - A front-end template that helps you build fast, modern mobile web apps.
 
 ## Arduino 
 
@@ -733,7 +728,6 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [iLama/general_shenanigans](https://github.com/iLama/general_shenanigans) - This is just a basic and uninteresting bot that enjoys shenanigans
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-- [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 - [mhoye/Bespoke_IO](https://github.com/mhoye/Bespoke_IO) - 
 - [jquery/testswarm](https://github.com/jquery/testswarm) - Distributed continuous integration testing for JavaScript.
