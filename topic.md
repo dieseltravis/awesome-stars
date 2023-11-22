@@ -1119,7 +1119,6 @@
 - [samuelcole/MarchBNB](https://github.com/samuelcole/MarchBNB) - Home sharing app for Marchers
 - [IdleHandsProject/esp_ornaments](https://github.com/IdleHandsProject/esp_ornaments) - The best way to spread Christmas cheer is to upload it to the internet!
 - [neveragaindottech/neveragaindottech.github.io](https://github.com/neveragaindottech/neveragaindottech.github.io) - Source files for the neveragain.tech site
-- [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [imposters-handbook/feedback](https://github.com/imposters-handbook/feedback) - General typos, issues, clarifications etc for The Imposter's Handbook
 - [jsha/blocktogether](https://github.com/jsha/blocktogether) - Share your blocks and subscribe to others'
@@ -1317,7 +1316,6 @@
 - [mikehostetler/amplify](https://github.com/mikehostetler/amplify) - AmplifyJS
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [meebo/embed-code](https://github.com/meebo/embed-code) - 
-- [h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - DEPRECATED - A front-end template that helps you build fast, modern mobile web apps.
 - [h5bp/server-configs](https://github.com/h5bp/server-configs) - Boilerplate configurations for various web servers.
 - [driverdan/cssess](https://github.com/driverdan/cssess) - JS tool to scan websites for unused CSS selectors
 - [yatil/accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - While most browsers work all right with the new semantic elements of HTML5, they don’t add the ARIA accessibility attributes that the specification demands. This small JavaScript adds those attributes
