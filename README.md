@@ -638,6 +638,7 @@
 
 ## Others 
 
+- [GuySie/cyd-thermostat](https://github.com/GuySie/cyd-thermostat) - ESPHome based thermostat controller for Cheap Yellow Display (CYD)
 - [hexeguitar/ESP32_TFT_PIO](https://github.com/hexeguitar/ESP32_TFT_PIO) - Example project for the ESP32-2432S028 "Cheap Yellow Display" board.
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
