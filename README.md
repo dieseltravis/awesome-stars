@@ -407,6 +407,7 @@
 
 ## JavaScript 
 
+- [dieseltravis/aoc2023](https://github.com/dieseltravis/aoc2023) - javascript 🎄 Advent of Code 2023 using 🎏 Glitch 🎏
 - [durasj/webamp-desktop](https://github.com/durasj/webamp-desktop) - Experimental cross-platform (Win, Mac, Linux) desktop version of Winamp 2.9 reimplementation - Webamp
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
