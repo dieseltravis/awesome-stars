@@ -617,6 +617,7 @@
 
 ## javascript 
 
+- [dieseltravis/aoc2023](https://github.com/dieseltravis/aoc2023) - javascript 🎄 Advent of Code 2023 using 🎏 Glitch 🎏
 - [dieseltravis/aoc2018](https://github.com/dieseltravis/aoc2018) - javascript 🎄 Advent of Code 2018 using 🎏 Glitch 🎏
 - [dieseltravis/aoc2019](https://github.com/dieseltravis/aoc2019) - javascript 🎄 Advent of Code 2019 using 🎏 Glitch 🎏
 - [dieseltravis/aoc2020](https://github.com/dieseltravis/aoc2020) - javascript 🎄 Advent of Code 2020 using 🎏 Glitch 🎏
