@@ -971,7 +971,7 @@
 - [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Chrome extension to bulk download all your Bandcamp purchases
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
-- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 50,000 supported emoji mashups as part of Google's Emoji Kitche
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [pkreissel/fedifeed](https://github.com/pkreissel/fedifeed) - Display Mastodon Posts in a curated feed with an user-customisable algorithm
