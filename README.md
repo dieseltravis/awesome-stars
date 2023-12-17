@@ -99,7 +99,7 @@
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
-- [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver library for general MCU and Linux.
+- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full function driver library for general MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [DHowett/framework-ec](https://github.com/DHowett/framework-ec) - Embedded Controller firmware for the Framework Laptop
@@ -194,6 +194,7 @@
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [dieseltravis/arduino-projects](https://github.com/dieseltravis/arduino-projects) - a bunch of test projects
+- [dieseltravis/esp32-projects](https://github.com/dieseltravis/esp32-projects) - arduino projects for esp32 based boards
 - [dieseltravis/esp8266-projects](https://github.com/dieseltravis/esp8266-projects) - collection of projects that I used the esp8266 for
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [forkineye/ESPixelStick](https://github.com/forkineye/ESPixelStick) - Firmware for the ESPixelStick
@@ -657,7 +658,6 @@
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [hyperion-project/hyperion.docs](https://github.com/hyperion-project/hyperion.docs) - The official documentation for Hyperion
 - [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
-- [dieseltravis/esp32-projects](https://github.com/dieseltravis/esp32-projects) - arduino projects for esp32 based boards
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [MLTSHP/Logo-and-Design-Assets](https://github.com/MLTSHP/Logo-and-Design-Assets) - Logo, buttons, profile pics and style guide for mltshp
 - [UberGuidoZ/Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - A collective of different IRs for the Flipper (maintained)
