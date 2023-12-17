@@ -239,7 +239,7 @@
 
 ## c 
 
-- [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver library for general MCU and Linux.
+- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full function driver library for general MCU and Linux.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
@@ -698,7 +698,7 @@
 
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
-- [hepingood/ws2812b](https://github.com/hepingood/ws2812b) - WS2812B full function driver library for general MCU and Linux.
+- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full function driver library for general MCU and Linux.
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
@@ -809,6 +809,7 @@
 
 ## others 
 
+- [wz2b/micropython-layered-neopixels](https://github.com/wz2b/micropython-layered-neopixels) - 
 - [GuySie/cyd-thermostat](https://github.com/GuySie/cyd-thermostat) - ESPHome based thermostat controller for Cheap Yellow Display (CYD)
 - [TheNitek/ESP32-Cheap-Yellow-Display](https://github.com/TheNitek/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [ImpulseAdventure/GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder) - Cross-platform drag & drop GUI builder for GUIslice
