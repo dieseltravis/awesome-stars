@@ -809,6 +809,7 @@
 
 ## others 
 
+- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wz2b/micropython-layered-neopixels](https://github.com/wz2b/micropython-layered-neopixels) - 
 - [GuySie/cyd-thermostat](https://github.com/GuySie/cyd-thermostat) - ESPHome based thermostat controller for Cheap Yellow Display (CYD)
 - [TheNitek/ESP32-Cheap-Yellow-Display](https://github.com/TheNitek/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
