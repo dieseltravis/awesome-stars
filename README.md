@@ -598,6 +598,7 @@
 
 ## Kotlin 
 
+- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [thomasboyt/jam-buds](https://github.com/thomasboyt/jam-buds) - come on and share this jam with me
 
 ## Lua 
