@@ -330,6 +330,7 @@
 
 ## Go 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -774,6 +775,7 @@
 
 ## Python 
 
+- [RCayre/mirage](https://github.com/RCayre/mirage) - Mirage is a powerful and modular framework dedicated to the security analysis of wireless communications.
 - [wz2b/micropython-layered-neopixels](https://github.com/wz2b/micropython-layered-neopixels) - 
 - [brainsmoke/svgconvert](https://github.com/brainsmoke/svgconvert) - Convert SVGs to kicad modules/zones
 - [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
