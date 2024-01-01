@@ -814,6 +814,7 @@
 
 ## others 
 
+- [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https (insecure mode) and chunked streams and parses the metadata. Compiles in the Arduino IDE.
 - [RCayre/mirage](https://github.com/RCayre/mirage) - Mirage is a powerful and modular framework dedicated to the security analysis of wireless communications.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wz2b/micropython-layered-neopixels](https://github.com/wz2b/micropython-layered-neopixels) - 
