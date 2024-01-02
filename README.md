@@ -454,7 +454,7 @@
 - [evgeni/qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
 - [vicmora/MMM-GoogleMapsTraffic](https://github.com/vicmora/MMM-GoogleMapsTraffic) - A raspberry pi MagicMirror module that displays a map, centered at provided coordinates, with Google Maps Traffic information.
 - [espruino/BangleApps](https://github.com/espruino/BangleApps) - Bangle.js App Loader (and Apps)
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [BBarbour-Dev/vue-express-auth0](https://github.com/BBarbour-Dev/vue-express-auth0) - Express app that serves up Vue.js app. Uses Auth0 for client side auth and to protect api routes.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018) - Advent of Code 2018 :christmas_tree: JavaScript Solutions - Adrienne Style
