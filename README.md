@@ -353,7 +353,6 @@
 
 ## HTML 
 
-- [NeoApplications/Trading-Application](https://github.com/NeoApplications/Trading-Application) - Trading Application For PC x32 - x64 system support
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth) - 
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
@@ -396,6 +395,7 @@
 
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
 - [davetcc/tcMenu](https://github.com/davetcc/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
+- [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -645,6 +645,7 @@
 
 ## Others 
 
+- [gjashley/CYD-ESPHome-Sensors](https://github.com/gjashley/CYD-ESPHome-Sensors) - Sample ESPHome YAML for CYD with BME680, PMSA003i i2c sensors and SH1106 i2c display
 - [GuySie/cyd-thermostat](https://github.com/GuySie/cyd-thermostat) - ESPHome based thermostat controller for Cheap Yellow Display (CYD)
 - [hexeguitar/ESP32_TFT_PIO](https://github.com/hexeguitar/ESP32_TFT_PIO) - Example project for the ESP32-2432S028 "Cheap Yellow Display" board.
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
