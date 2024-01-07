@@ -138,6 +138,7 @@
 
 ## android 
 
+- [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
@@ -811,6 +812,7 @@
 
 ## others 
 
+- [gjashley/CYD-ESPHome-Sensors](https://github.com/gjashley/CYD-ESPHome-Sensors) - Sample ESPHome YAML for CYD with BME680, PMSA003i i2c sensors and SH1106 i2c display
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https (insecure mode) and chunked streams and parses the metadata. Compiles in the Arduino IDE.
@@ -833,7 +835,6 @@
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
-- [NeoApplications/Trading-Application](https://github.com/NeoApplications/Trading-Application) - Trading Application For PC x32 - x64 system support
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
