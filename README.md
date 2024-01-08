@@ -645,6 +645,7 @@
 
 ## Others 
 
+- [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) - Voron Trident CoreXY 3D Printer design
 - [gjashley/CYD-ESPHome-Sensors](https://github.com/gjashley/CYD-ESPHome-Sensors) - Sample ESPHome YAML for CYD with BME680, PMSA003i i2c sensors and SH1106 i2c display
 - [GuySie/cyd-thermostat](https://github.com/GuySie/cyd-thermostat) - ESPHome based thermostat controller for Cheap Yellow Display (CYD)
 - [hexeguitar/ESP32_TFT_PIO](https://github.com/hexeguitar/ESP32_TFT_PIO) - Example project for the ESP32-2432S028 "Cheap Yellow Display" board.
