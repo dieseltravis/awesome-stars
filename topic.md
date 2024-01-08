@@ -812,6 +812,7 @@
 
 ## others 
 
+- [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) - Voron Trident CoreXY 3D Printer design
 - [gjashley/CYD-ESPHome-Sensors](https://github.com/gjashley/CYD-ESPHome-Sensors) - Sample ESPHome YAML for CYD with BME680, PMSA003i i2c sensors and SH1106 i2c display
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
