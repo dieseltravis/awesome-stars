@@ -518,7 +518,7 @@
 - [timoxley/npm-run](https://github.com/timoxley/npm-run) - Run locally-installed node module executables.
 - [bitchwhocodes/project-oxford-webcam](https://github.com/bitchwhocodes/project-oxford-webcam) - 
 - [TenetPartners/react-seed](https://github.com/TenetPartners/react-seed) - A test driven seed repo for React apps
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [wesbos/React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
 - [electronoora/webaudio-mod-player](https://github.com/electronoora/webaudio-mod-player) - MOD/S3M/XM module player for Web Audio
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
