@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https (insecure mode) and chunked streams and parses the metadata. Compiles in the Arduino IDE.
 - [cheerlights/esp8266_neopixel_strip](https://github.com/cheerlights/esp8266_neopixel_strip) - This sketch periodically checks the CheerLights color that is stored in ThingSpeak channel 1417 and sets the color of each pixel of a WS2812-based NeoPixel strip.
