@@ -977,6 +977,7 @@
 
 ## TypeScript 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Chrome extension to bulk download all your Bandcamp purchases
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
