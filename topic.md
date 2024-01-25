@@ -821,6 +821,7 @@
 
 ## others 
 
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [SamuelMarks/libgourou](https://github.com/SamuelMarks/libgourou) - libgourou is a free implementation of Adobe's ADEPT protocol used to add DRM on ePub/PDF files… forked from https://indefero.soutade.fr/p/libgourou
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
