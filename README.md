@@ -36,6 +36,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [NSIS](#nsis)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [OpenSCAD](#openscad)
 - [Others](#others)
@@ -634,6 +635,10 @@
 ## NSIS 
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
+
+## Nix 
+
+- [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 
 ## OCaml 
 
