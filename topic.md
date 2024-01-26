@@ -1113,7 +1113,7 @@
 - [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine, TikTok, Dailymotion, Microsoft Stream or VideoPress video id from a url or embed string.
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [notwaldorf/emojillate](https://github.com/notwaldorf/emojillate) - :camera::art: Pixellate an image into emoji
-- [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - p5.js Web Editor, officially launched!
+- [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
 - [ruby-hyperloop/todo-tutorial](https://github.com/ruby-hyperloop/todo-tutorial) - The project has moved to Hyperstack!! - Build a todo app using Ruby Hyperloop
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [AdySan/ESPSocket](https://github.com/AdySan/ESPSocket) - Websockets for ESP8266/Arduino
