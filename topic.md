@@ -129,6 +129,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -743,6 +744,7 @@
 
 ## mastodon 
 
+- [mauforonda/mastodon_digest](https://github.com/mauforonda/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 - [Lynnesbian/OCRbot](https://github.com/Lynnesbian/OCRbot) - An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances
@@ -821,6 +823,7 @@
 
 ## others 
 
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [SamuelMarks/libgourou](https://github.com/SamuelMarks/libgourou) - libgourou is a free implementation of Adobe's ADEPT protocol used to add DRM on ePub/PDF files… forked from https://indefero.soutade.fr/p/libgourou
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
@@ -1618,6 +1621,10 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
 - [htty/htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers.
+
+## web-development 
+
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 
 ## webapp 
 
