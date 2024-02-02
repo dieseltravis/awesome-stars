@@ -100,7 +100,7 @@
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
-- [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - 
+- [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - DXX Raytracer is a fork of the DXX Retro project for Windows. DXX Raytracer uses modern raytracing techniques to update the graphics of the beloved retro game known as Descent.
 - [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full function driver library for general MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
@@ -655,6 +655,7 @@
 
 ## Others 
 
+- [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
 - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) - Voron Trident CoreXY 3D Printer design
 - [gjashley/CYD-ESPHome-Sensors](https://github.com/gjashley/CYD-ESPHome-Sensors) - Sample ESPHome YAML for CYD with BME680, PMSA003i i2c sensors and SH1106 i2c display
 - [GuySie/cyd-thermostat](https://github.com/GuySie/cyd-thermostat) - ESPHome based thermostat controller for Cheap Yellow Display (CYD)
