@@ -374,7 +374,6 @@
 ## dotnet 
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-- [DanielArgent/Tomen](https://github.com/DanielArgent/Tomen) - Toml parser for .NET
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
@@ -826,6 +825,8 @@
 
 ## others 
 
+- [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
+- [Envious-Data/Env-KB](https://github.com/Envious-Data/Env-KB) - A custom mechanical keyboard inspired by the CFTKB Mysterium utilizing the Raspberry Pi Pico
 - [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
 - [GNOME/gnome-characters](https://github.com/GNOME/gnome-characters) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-characters
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
