@@ -153,7 +153,6 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-- [DanielArgent/Tomen](https://github.com/DanielArgent/Tomen) - Toml parser for .NET
 - [paiden/Nett](https://github.com/paiden/Nett) - .Net library for TOML
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
@@ -188,6 +187,7 @@
 
 ## C++ 
 
+- [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [SamuelMarks/libgourou](https://github.com/SamuelMarks/libgourou) - libgourou is a free implementation of Adobe's ADEPT protocol used to add DRM on ePub/PDF files… forked from https://indefero.soutade.fr/p/libgourou
 - [thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
@@ -790,6 +790,7 @@
 
 ## Python 
 
+- [Envious-Data/Env-KB](https://github.com/Envious-Data/Env-KB) - A custom mechanical keyboard inspired by the CFTKB Mysterium utilizing the Raspberry Pi Pico
 - [mauforonda/mastodon_digest](https://github.com/mauforonda/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [RCayre/mirage](https://github.com/RCayre/mirage) - Mirage is a powerful and modular framework dedicated to the security analysis of wireless communications.
