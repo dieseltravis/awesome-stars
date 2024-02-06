@@ -607,6 +607,7 @@
 
 ## Kotlin 
 
+- [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [thomasboyt/jam-buds](https://github.com/thomasboyt/jam-buds) - come on and share this jam with me
 
@@ -790,6 +791,7 @@
 
 ## Python 
 
+- [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [Envious-Data/Env-KB](https://github.com/Envious-Data/Env-KB) - A custom mechanical keyboard inspired by the CFTKB Mysterium utilizing the Raspberry Pi Pico
 - [mauforonda/mastodon_digest](https://github.com/mauforonda/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
