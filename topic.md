@@ -829,6 +829,7 @@
 
 ## others 
 
+- [tronikos/opower](https://github.com/tronikos/opower) - A Python library for getting historical and forecasted usage/cost from utilities that use opower.com such as PG&E
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [Envious-Data/Env-KB](https://github.com/Envious-Data/Env-KB) - A custom mechanical keyboard inspired by the CFTKB Mysterium utilizing the Raspberry Pi Pico
 - [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
