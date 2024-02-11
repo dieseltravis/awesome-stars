@@ -687,7 +687,6 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [Minecatr/nibble-zmk-config](https://github.com/Minecatr/nibble-zmk-config) - 
 - [nullbitsco/docs](https://github.com/nullbitsco/docs) - Online documentation (build guides, user manuals, etc) for nullbits products.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [HorayNarea/WarriorVM](https://github.com/HorayNarea/WarriorVM) - auto-updating ArchiveTeam Warrior VM
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
@@ -885,6 +884,7 @@
 
 ## Ruby 
 
+- [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
 - [davidcelis/sparkles](https://github.com/davidcelis/sparkles) - ✨ Recognize teammates in slack by awarding them sparkles!
 - [tckmn/polyaoc-2020](https://github.com/tckmn/polyaoc-2020) - solutions to advent of code 2020 puzzles in many languages
@@ -1006,6 +1006,7 @@
 - [virejdasani/InYourFace](https://github.com/virejdasani/InYourFace) - In Your Face shows you Doom 'Ouch Faces' that correlate to the number of errors in your code!
 - [selfagency/mastodont](https://github.com/selfagency/mastodont) - CLI blocklist importer for Mastodon admins
 - [microsoft/roosterjs](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [blockprotocol/blockprotocol](https://github.com/blockprotocol/blockprotocol) - ✨ The open-source standard for blocks. From @hashintel
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [LongTengDao/j-toml](https://github.com/LongTengDao/j-toml) - A Node.js implementation of TOML written by LongTengDao. Belong to "Plan J".／龙腾道为汤小明语写的 Node.js 实现。从属于“简计划”。
