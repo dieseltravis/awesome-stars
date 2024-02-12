@@ -787,6 +787,7 @@
 
 ## music 
 
+- [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
 - [wntrblm/Big_Honking_Button](https://github.com/wntrblm/Big_Honking_Button) - A simple Eurorack sampler and performance module in a silly package.
