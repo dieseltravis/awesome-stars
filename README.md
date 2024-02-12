@@ -187,6 +187,7 @@
 
 ## C++ 
 
+- [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [SamuelMarks/libgourou](https://github.com/SamuelMarks/libgourou) - libgourou is a free implementation of Adobe's ADEPT protocol used to add DRM on ePub/PDF files… forked from https://indefero.soutade.fr/p/libgourou
@@ -267,6 +268,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
 - [EthicalSource/hippocratic-license](https://github.com/EthicalSource/hippocratic-license) - An ethical license for open source.
@@ -929,7 +931,6 @@
 
 ## SCSS 
 
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 
