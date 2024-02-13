@@ -627,6 +627,7 @@
 
 ## MDX 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 
 ## Makefile 
@@ -995,6 +996,7 @@
 
 ## TypeScript 
 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Chrome extension to bulk download all your Bandcamp purchases
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
