@@ -1137,7 +1137,7 @@
 - [sladey/node-oauth](https://github.com/sladey/node-oauth) - OAuth wrapper for node.js
 - [18F/crime-data-explorer](https://github.com/18F/crime-data-explorer) - Moved to https://github.com/fbi-cde
 - [dmfilipenko/timezones.json](https://github.com/dmfilipenko/timezones.json) - Full list of timezones
-- [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine, TikTok, Dailymotion, Microsoft Stream or VideoPress video id from a url or embed string.
+- [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine, VideoPress, TikTok, Microsoft Stream, Loom or Dailymotion video id from a url or embed string.
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [notwaldorf/emojillate](https://github.com/notwaldorf/emojillate) - :camera::art: Pixellate an image into emoji
 - [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
