@@ -491,7 +491,7 @@
 - [ciaranj/node-oauth](https://github.com/ciaranj/node-oauth) - OAuth wrapper for node.js
 - [sladey/node-oauth](https://github.com/sladey/node-oauth) - OAuth wrapper for node.js
 - [dmfilipenko/timezones.json](https://github.com/dmfilipenko/timezones.json) - Full list of timezones
-- [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine, TikTok, Dailymotion, Microsoft Stream or VideoPress video id from a url or embed string.
+- [radiovisual/get-video-id](https://github.com/radiovisual/get-video-id) - Get the YouTube, Vimeo, Vine, VideoPress, TikTok, Microsoft Stream, Loom or Dailymotion video id from a url or embed string.
 - [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [AdySan/ESPSocket](https://github.com/AdySan/ESPSocket) - Websockets for ESP8266/Arduino
