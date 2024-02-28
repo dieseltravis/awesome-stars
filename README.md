@@ -150,6 +150,7 @@
 
 ## C# # 
 
+- [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -339,6 +340,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
