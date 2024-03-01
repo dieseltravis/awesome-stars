@@ -420,6 +420,7 @@
 
 ## JavaScript 
 
+- [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [dieseltravis/aoc2023](https://github.com/dieseltravis/aoc2023) - javascript 🎄 Advent of Code 2023 using 🎏 Glitch 🎏
 - [durasj/webamp-desktop](https://github.com/durasj/webamp-desktop) - Experimental cross-platform (Win, Mac, Linux) desktop version of Winamp 2.9 reimplementation - Webamp
