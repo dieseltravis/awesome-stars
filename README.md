@@ -155,7 +155,7 @@
 - [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [paiden/Nett](https://github.com/paiden/Nett) - .Net library for TOML
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
@@ -664,6 +664,7 @@
 
 ## Others 
 
+- [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
 - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) - Voron Trident CoreXY 3D Printer design
