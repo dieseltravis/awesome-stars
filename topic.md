@@ -540,6 +540,7 @@
 
 ## hacktoberfest 
 
+- [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [rocdev-foundation/home](https://github.com/rocdev-foundation/home) - 
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -638,6 +639,7 @@
 
 ## javascript 
 
+- [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [dieseltravis/aoc2023](https://github.com/dieseltravis/aoc2023) - javascript 🎄 Advent of Code 2023 using 🎏 Glitch 🎏
 - [dieseltravis/aoc2018](https://github.com/dieseltravis/aoc2018) - javascript 🎄 Advent of Code 2018 using 🎏 Glitch 🎏
 - [dieseltravis/aoc2019](https://github.com/dieseltravis/aoc2019) - javascript 🎄 Advent of Code 2019 using 🎏 Glitch 🎏
@@ -847,6 +849,7 @@
 
 ## others 
 
+- [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints) - Ergogen v4 footprints
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
