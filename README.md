@@ -91,6 +91,7 @@
 
 ## C 
 
+- [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [GNOME/gnome-characters](https://github.com/GNOME/gnome-characters) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-characters
@@ -422,6 +423,7 @@
 
 ## JavaScript 
 
+- [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints) - Ergogen v4 footprints
 - [rocdev-foundation/home](https://github.com/rocdev-foundation/home) - 
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
