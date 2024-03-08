@@ -343,6 +343,7 @@
 
 ## Go 
 
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -667,6 +668,7 @@
 
 ## Others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
 - [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
