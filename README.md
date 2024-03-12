@@ -18,6 +18,7 @@
 - [CoffeeScript](#coffeescript)
 - [Cuda](#cuda)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -317,6 +318,10 @@
 
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+
+## Dockerfile 
+
+- [open-eats/OpenEats](https://github.com/open-eats/OpenEats) - :pizza: Self Hosted Recipe Management App :hamburger:
 
 ## Eagle 
 
@@ -849,7 +854,6 @@
 - [xtream1101/humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download you Humble Bundle Library
 - [acritelli/rucksack](https://github.com/acritelli/rucksack) - A place to store your useful one-liners
 - [pixray/pixray](https://github.com/pixray/pixray) - 
-- [open-eats/OpenEats](https://github.com/open-eats/OpenEats) - :pizza: Self Hosted Recipe Management App :hamburger:
 - [wntrblm/Big_Honking_Button](https://github.com/wntrblm/Big_Honking_Button) - A simple Eurorack sampler and performance module in a silly package.
 - [chatrat12/layerdisplay](https://github.com/chatrat12/layerdisplay) - Plugin for Octoprint that displays what layer a print job is on.
 - [cp2004/Octoprint-Upgrade-To-Py3](https://github.com/cp2004/Octoprint-Upgrade-To-Py3) - A script to move an existing OctoPrint install from Python 2 to Python 3
@@ -929,7 +933,7 @@
 ## Rust 
 
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [DrewTChrist/nibble-rp2040-rs](https://github.com/DrewTChrist/nibble-rp2040-rs) - This is a Keyberon based firmware for the Nibble keyboard paired with different RP2040 boards.
