@@ -429,6 +429,7 @@
 
 ## JavaScript 
 
+- [Virginia2244/ergogen_footprints](https://github.com/Virginia2244/ergogen_footprints) - Addititonal footprints for the ergogen keyboard generator
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [ceoloide/ergogen-footprints](https://github.com/ceoloide/ergogen-footprints) - Ergogen v4 footprints
 - [rocdev-foundation/home](https://github.com/rocdev-foundation/home) - 
@@ -673,6 +674,7 @@
 
 ## Others 
 
+- [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Various KiCAD footprints for mechanical keyboard parts
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
