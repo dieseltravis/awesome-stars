@@ -850,6 +850,8 @@
 
 ## others 
 
+- [Virginia2244/ergogen_footprints](https://github.com/Virginia2244/ergogen_footprints) - Addititonal footprints for the ergogen keyboard generator
+- [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
