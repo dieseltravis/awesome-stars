@@ -852,6 +852,8 @@
 
 ## others 
 
+- [adafruit/Adafruit-KB2040-PCB](https://github.com/adafruit/Adafruit-KB2040-PCB) - EagleCAD PCB files for Adafruit KB2040
+- [dieseltravis/travis-ergogen-2024](https://github.com/dieseltravis/travis-ergogen-2024) - Travis's first Ergogen keyboard
 - [g200kg/kicad-lib-arduino](https://github.com/g200kg/kicad-lib-arduino) - 
 - [crides/kleeb](https://github.com/crides/kleeb) - Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
@@ -1180,7 +1182,6 @@
 - [berkmancenter/tmulk](https://github.com/berkmancenter/tmulk) - Twitter mass bulk download
 - [ajacksified/hubot-plusplus](https://github.com/ajacksified/hubot-plusplus) - Welcome to Hubot, where the points don't matter
 - [MLTSHP/mltshp](https://github.com/MLTSHP/mltshp) - Source for the application that runs mltshp.com
-- [iLama/general_shenanigans](https://github.com/iLama/general_shenanigans) - This is just a basic and uninteresting bot that enjoys shenanigans
 - [MLTSHP/mltshp_migration](https://github.com/MLTSHP/mltshp_migration) - A meta-repo for migration issues, and content related to the migration.
 - [MLTSHP/welcome](https://github.com/MLTSHP/welcome) - A welcoming project to point newcomers to everywhere they need to be in the MLTSHP world.
 - [ivey/slack-tldr](https://github.com/ivey/slack-tldr) - Custom +tldr command for Slack to keep per-channel lists of notes
