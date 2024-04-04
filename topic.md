@@ -852,6 +852,7 @@
 
 ## others 
 
+- [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [adafruit/Adafruit-KB2040-PCB](https://github.com/adafruit/Adafruit-KB2040-PCB) - EagleCAD PCB files for Adafruit KB2040
 - [dieseltravis/travis-ergogen-2024](https://github.com/dieseltravis/travis-ergogen-2024) - Travis's first Ergogen keyboard
