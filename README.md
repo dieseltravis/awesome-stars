@@ -679,6 +679,7 @@
 
 ## Others 
 
+- [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [adafruit/Adafruit-KB2040-PCB](https://github.com/adafruit/Adafruit-KB2040-PCB) - EagleCAD PCB files for Adafruit KB2040
 - [g200kg/kicad-lib-arduino](https://github.com/g200kg/kicad-lib-arduino) - 
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
