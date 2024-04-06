@@ -454,7 +454,6 @@
 - [matthewmcvickar/oblique-questions-bot](https://github.com/matthewmcvickar/oblique-questions-bot) - A bot that posts questions without context.
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
-- [opentdf/secure-cycle](https://github.com/opentdf/secure-cycle) - A secure period and symptom tracking app powered by OpenTDF
 - [sdetweil/MMM-GoogleMapsTraffic](https://github.com/sdetweil/MMM-GoogleMapsTraffic) - A raspberry pi MagicMirror module that displays a map, centered at provided coordinates, with Google Maps Traffic information.
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [jasoncoon/led-mapper](https://github.com/jasoncoon/led-mapper) - An online tool to generate and visualize maps for irregular and/or gapped LED layouts, for use with FastLED, Pixelblaze and other libraries.
@@ -679,6 +678,7 @@
 
 ## Others 
 
+- [sadekbaroudi/keyboard-guides](https://github.com/sadekbaroudi/keyboard-guides) - 
 - [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [adafruit/Adafruit-KB2040-PCB](https://github.com/adafruit/Adafruit-KB2040-PCB) - EagleCAD PCB files for Adafruit KB2040
 - [g200kg/kicad-lib-arduino](https://github.com/g200kg/kicad-lib-arduino) - 
