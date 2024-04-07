@@ -372,6 +372,7 @@
 
 ## HTML 
 
+- [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [dieseltravis/travis-ergogen-2024](https://github.com/dieseltravis/travis-ergogen-2024) - Travis's first Ergogen keyboard
 - [MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth) - 
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
