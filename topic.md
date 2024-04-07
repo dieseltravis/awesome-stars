@@ -849,6 +849,7 @@
 
 ## others 
 
+- [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [sadekbaroudi/keyboard-guides](https://github.com/sadekbaroudi/keyboard-guides) - 
 - [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
