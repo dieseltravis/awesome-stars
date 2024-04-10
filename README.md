@@ -679,6 +679,7 @@
 
 ## Others 
 
+- [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [sadekbaroudi/keyboard-guides](https://github.com/sadekbaroudi/keyboard-guides) - 
 - [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [adafruit/Adafruit-KB2040-PCB](https://github.com/adafruit/Adafruit-KB2040-PCB) - EagleCAD PCB files for Adafruit KB2040
