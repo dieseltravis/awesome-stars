@@ -849,6 +849,7 @@
 
 ## others 
 
+- [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [sadekbaroudi/keyboard-guides](https://github.com/sadekbaroudi/keyboard-guides) - 
 - [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
