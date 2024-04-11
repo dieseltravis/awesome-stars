@@ -755,7 +755,7 @@
 - [MLTSHP/mltshp_migration](https://github.com/MLTSHP/mltshp_migration) - A meta-repo for migration issues, and content related to the migration.
 - [MLTSHP/welcome](https://github.com/MLTSHP/welcome) - A welcoming project to point newcomers to everywhere they need to be in the MLTSHP world.
 - [metmuseum/openaccess](https://github.com/metmuseum/openaccess) - The Metropolitan Museum of Art's Open Access Initiative
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [imposters-handbook/feedback](https://github.com/imposters-handbook/feedback) - General typos, issues, clarifications etc for The Imposter's Handbook
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [caseyohara/campfire-sounds](https://github.com/caseyohara/campfire-sounds) - Previews of the sounds you can play in Campfire
