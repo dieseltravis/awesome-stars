@@ -1009,7 +1009,6 @@
 - [todbot/circuitpython-tricks](https://github.com/todbot/circuitpython-tricks) - Some CircuitPython tricks, mostly reminders to myself
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone
-- [corbindavenport/wii-shop-extension](https://github.com/corbindavenport/wii-shop-extension) - Browser extension that plays the Wii Shop theme when you visit shopping websites.
 - [BlitzCityDIY/Peanuts-Snow-Globe](https://github.com/BlitzCityDIY/Peanuts-Snow-Globe) - MakeCode to use with a Circuit Playground Express board.
 - [BleuLlama/Scrollytroller](https://github.com/BleuLlama/Scrollytroller) - A crank-based controller for use with PlayDate's Pulp web player development tool
 - [th3dstudio/UnifiedFirmware](https://github.com/th3dstudio/UnifiedFirmware) - Unified Firmware 2.0 is the latest easy to use firmware for select 3D printers and boards from TH3D Studio. Both 8 bit and 32 bit based machines/boards are supported thanks to being built on Marlin 2.
