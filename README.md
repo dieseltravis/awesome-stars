@@ -193,7 +193,6 @@
 
 ## C++ 
 
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
@@ -461,7 +460,6 @@
 - [jasoncoon/led-mapper](https://github.com/jasoncoon/led-mapper) - An online tool to generate and visualize maps for irregular and/or gapped LED layouts, for use with FastLED, Pixelblaze and other libraries.
 - [ticky/internet-ti.me](https://github.com/ticky/internet-ti.me) - ⌚️ Internet Time reference and converter site
 - [coollabsio/fonts](https://github.com/coollabsio/fonts) - A privacy-friendly drop-in replacement for Google Fonts
-- [corbindavenport/wii-shop-extension](https://github.com/corbindavenport/wii-shop-extension) - Browser extension that plays the Wii Shop theme when you visit shopping websites.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -947,6 +945,7 @@
 
 ## Rust 
 
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
