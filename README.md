@@ -92,7 +92,6 @@
 
 ## C 
 
-- [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
@@ -372,6 +371,7 @@
 
 ## HTML 
 
+- [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [dieseltravis/travis-ergogen-2024](https://github.com/dieseltravis/travis-ergogen-2024) - Travis's first Ergogen keyboard
 - [MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth) - 
