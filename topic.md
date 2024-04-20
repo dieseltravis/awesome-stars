@@ -850,6 +850,7 @@
 
 ## others 
 
+- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
