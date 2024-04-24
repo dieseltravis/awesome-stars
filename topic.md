@@ -39,6 +39,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
@@ -409,6 +410,12 @@
 
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [derrickreimer/level](https://github.com/derrickreimer/level) - Team communication optimized for deep work
+
+## embedded 
+
+- [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
+- [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
+- [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 
 ## emoji 
 
