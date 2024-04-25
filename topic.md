@@ -857,6 +857,8 @@
 
 ## others 
 
+- [Woovie/useful-ergogen-components](https://github.com/Woovie/useful-ergogen-components) - ergogen components for keyboard design
+- [Woovie/viktus-sinne-plate](https://github.com/Woovie/viktus-sinne-plate) - A plate for the Viktus Sinne made in ergogen
 - [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
