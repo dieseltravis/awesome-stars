@@ -857,6 +857,7 @@
 
 ## others 
 
+- [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
 - [Woovie/useful-ergogen-components](https://github.com/Woovie/useful-ergogen-components) - ergogen components for keyboard design
 - [Woovie/viktus-sinne-plate](https://github.com/Woovie/viktus-sinne-plate) - A plate for the Viktus Sinne made in ergogen
 - [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
