@@ -858,6 +858,7 @@
 
 ## others 
 
+- [hominoids/SBC_Case_Builder](https://github.com/hominoids/SBC_Case_Builder) - Autonomous SBC case generation using SBC Model Framework
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
 - [Woovie/useful-ergogen-components](https://github.com/Woovie/useful-ergogen-components) - ergogen components for keyboard design
 - [Woovie/viktus-sinne-plate](https://github.com/Woovie/viktus-sinne-plate) - A plate for the Viktus Sinne made in ergogen
