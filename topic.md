@@ -863,6 +863,8 @@
 
 ## others 
 
+- [derek-palmer/backup-github-to-s3](https://github.com/derek-palmer/backup-github-to-s3) - Github action that backups up your Github repos to AWS S3
+- [Brianfit/woke-respect](https://github.com/Brianfit/woke-respect) - 
 - [FKcaps/mbk-footprints](https://github.com/FKcaps/mbk-footprints) - PCB Footprints and plate cutouts for all MBK sizes
 - [dumbeau/AutoHotPie](https://github.com/dumbeau/AutoHotPie) - Radial menus in Windows, aka PIE MENYOOS!
 - [zzeneg/stront](https://github.com/zzeneg/stront) - Split keyboard with 38 keys, LCD display and Cirque trackpad
