@@ -863,6 +863,8 @@
 
 ## others 
 
+- [labtroll/PCB-Design-Limits](https://github.com/labtroll/PCB-Design-Limits) - A set of PCB designs that shows off the real-world limits for manufacturing capabilities including silkscreen and copper line and text sizes
+- [labtroll/KiCad-DesignRules](https://github.com/labtroll/KiCad-DesignRules) - JLCPCB Design Rules implemented as Custom Rules in a .kicad_dru file
 - [derek-palmer/backup-github-to-s3](https://github.com/derek-palmer/backup-github-to-s3) - Github action that backups up your Github repos to AWS S3
 - [Brianfit/woke-respect](https://github.com/Brianfit/woke-respect) - 
 - [FKcaps/mbk-footprints](https://github.com/FKcaps/mbk-footprints) - PCB Footprints and plate cutouts for all MBK sizes
