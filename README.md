@@ -436,6 +436,8 @@
 
 ## JavaScript 
 
+- [nigel-daniels/MMM-AirNow](https://github.com/nigel-daniels/MMM-AirNow) - MagicMirror 2 module to show air quality based on the US AirNow API.
+- [vincep5/MMM-Pollen](https://github.com/vincep5/MMM-Pollen) - MagicMirror module to get the pollen.com forecast for your zipcode
 - [ImStuBTW/65crimes](https://github.com/ImStuBTW/65crimes) - An unusual 65% keyboard layout experiment.
 - [derek-palmer/backup-github-to-s3](https://github.com/derek-palmer/backup-github-to-s3) - Github action that backups up your Github repos to AWS S3
 - [Brianfit/woke-respect](https://github.com/Brianfit/woke-respect) - 
