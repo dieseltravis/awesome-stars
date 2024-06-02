@@ -863,6 +863,7 @@
 
 ## others 
 
+- [rschenk/tern](https://github.com/rschenk/tern) - 30-key hot swap keyboard based on the Hummingbird
 - [CFenner/MMM-AirQuality](https://github.com/CFenner/MMM-AirQuality) - A module for the MagicMirror to display a location's air quality index.
 - [nigel-daniels/MMM-AirNow](https://github.com/nigel-daniels/MMM-AirNow) - MagicMirror 2 module to show air quality based on the US AirNow API.
 - [vincep5/MMM-Pollen](https://github.com/vincep5/MMM-Pollen) - MagicMirror module to get the pollen.com forecast for your zipcode
