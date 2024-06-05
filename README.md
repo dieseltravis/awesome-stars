@@ -690,6 +690,7 @@
 
 ## Others 
 
+- [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [labtroll/KiCad-DesignRules](https://github.com/labtroll/KiCad-DesignRules) - JLCPCB Design Rules implemented as Custom Rules in a .kicad_dru file
 - [FKcaps/mbk-footprints](https://github.com/FKcaps/mbk-footprints) - PCB Footprints and plate cutouts for all MBK sizes
 - [zzeneg/stront](https://github.com/zzeneg/stront) - Split keyboard with 38 keys, LCD display and Cirque trackpad
