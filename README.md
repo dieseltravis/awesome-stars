@@ -1007,6 +1007,7 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [labtroll/PCB-Design-Limits](https://github.com/labtroll/PCB-Design-Limits) - A set of PCB designs that shows off the real-world limits for manufacturing capabilities including silkscreen and copper line and text sizes
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
