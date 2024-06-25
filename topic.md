@@ -870,6 +870,7 @@
 
 ## others 
 
+- [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
 - [infused-kim/kb_ergogen_fp](https://github.com/infused-kim/kb_ergogen_fp) - Keyboard footprints for ergogen
 - [OUTOFDARTSSHOP/Rival-Juno-Blaster](https://github.com/OUTOFDARTSSHOP/Rival-Juno-Blaster) - Files for the Juno from Out of Darts.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
