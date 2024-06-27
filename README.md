@@ -842,6 +842,7 @@
 
 ## Python 
 
+- [MLTSHP/best-of-mltshp-bot](https://github.com/MLTSHP/best-of-mltshp-bot) - Posts new feed items to Mastodon
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
