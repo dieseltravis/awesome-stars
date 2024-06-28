@@ -353,7 +353,7 @@
 
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -692,6 +692,7 @@
 
 ## Others 
 
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [OUTOFDARTSSHOP/Rival-Juno-Blaster](https://github.com/OUTOFDARTSSHOP/Rival-Juno-Blaster) - Files for the Juno from Out of Darts.
 - [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [labtroll/KiCad-DesignRules](https://github.com/labtroll/KiCad-DesignRules) - JLCPCB Design Rules implemented as Custom Rules in a .kicad_dru file
@@ -822,6 +823,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [Spaatz965/MyPoSH](https://github.com/Spaatz965/MyPoSH) - 
 - [ChrisWarwick/WakeOnLan](https://github.com/ChrisWarwick/WakeOnLan) - Sends Wake-on-Lan Magic Packets to the specified Mac addresses
