@@ -875,6 +875,7 @@
 
 ## others 
 
+- [ArchiveTeam/Ubuntu-Warrior](https://github.com/ArchiveTeam/Ubuntu-Warrior) - Scripts to build and boot warrior virtual machine containing Docker
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [MLTSHP/best-of-mltshp-bot](https://github.com/MLTSHP/best-of-mltshp-bot) - Posts new feed items to Mastodon
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
