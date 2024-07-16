@@ -92,6 +92,7 @@
 
 ## C 
 
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
