@@ -438,6 +438,7 @@
 
 ## JavaScript 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [infused-kim/kb_ergogen_fp](https://github.com/infused-kim/kb_ergogen_fp) - Keyboard footprints for ergogen
 - [rschenk/tern](https://github.com/rschenk/tern) - 30-key hot swap keyboard based on the Hummingbird
 - [CFenner/MMM-AirQuality](https://github.com/CFenner/MMM-AirQuality) - A module for the MagicMirror to display a location's air quality index.
