@@ -699,7 +699,7 @@
 - [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [labtroll/KiCad-DesignRules](https://github.com/labtroll/KiCad-DesignRules) - JLCPCB Design Rules implemented as Custom Rules in a .kicad_dru file
 - [FKcaps/mbk-footprints](https://github.com/FKcaps/mbk-footprints) - PCB Footprints and plate cutouts for all MBK sizes
-- [zzeneg/stront](https://github.com/zzeneg/stront) - Split keyboard with 38 keys, LCD display and Cirque trackpad
+- [zzeneg/stront](https://github.com/zzeneg/stront) - Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
 - [Woovie/useful-ergogen-components](https://github.com/Woovie/useful-ergogen-components) - ergogen components for keyboard design
 - [Woovie/viktus-sinne-plate](https://github.com/Woovie/viktus-sinne-plate) - A plate for the Viktus Sinne made in ergogen
 - [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
@@ -1066,7 +1066,7 @@
 - [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Chrome extension to bulk download all your Bandcamp purchases
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
-- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 50,000 supported emoji mashups as part of Google's Emoji Kitche
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
