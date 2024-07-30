@@ -702,7 +702,6 @@
 - [zzeneg/stront](https://github.com/zzeneg/stront) - Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
 - [Woovie/useful-ergogen-components](https://github.com/Woovie/useful-ergogen-components) - ergogen components for keyboard design
 - [Woovie/viktus-sinne-plate](https://github.com/Woovie/viktus-sinne-plate) - A plate for the Viktus Sinne made in ergogen
-- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [sadekbaroudi/keyboard-guides](https://github.com/sadekbaroudi/keyboard-guides) - 
 - [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [adafruit/Adafruit-KB2040-PCB](https://github.com/adafruit/Adafruit-KB2040-PCB) - EagleCAD PCB files for Adafruit KB2040
@@ -1020,6 +1019,7 @@
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [labtroll/PCB-Design-Limits](https://github.com/labtroll/PCB-Design-Limits) - A set of PCB designs that shows off the real-world limits for manufacturing capabilities including silkscreen and copper line and text sizes
+- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
 - [sdetweil/MagicMirror-backup-restore](https://github.com/sdetweil/MagicMirror-backup-restore) - scripts for backing up magicmirror config and module github urls  and using that to restore at a later time
