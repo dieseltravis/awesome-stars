@@ -694,7 +694,6 @@
 
 ## Others 
 
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [OUTOFDARTSSHOP/Rival-Juno-Blaster](https://github.com/OUTOFDARTSSHOP/Rival-Juno-Blaster) - Files for the Juno from Out of Darts.
 - [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [labtroll/KiCad-DesignRules](https://github.com/labtroll/KiCad-DesignRules) - JLCPCB Design Rules implemented as Custom Rules in a .kicad_dru file
@@ -803,6 +802,7 @@
 ## PHP 
 
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
