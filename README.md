@@ -194,6 +194,7 @@
 
 ## C++ 
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
@@ -377,6 +378,7 @@
 
 ## HTML 
 
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [dieseltravis/travis-ergogen-2024](https://github.com/dieseltravis/travis-ergogen-2024) - Travis's first Ergogen keyboard
