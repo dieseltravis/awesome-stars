@@ -264,7 +264,7 @@
 - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [hwiguna/g33k](https://github.com/hwiguna/g33k) - Personal code, mostly for my YouTube channel
 - [luaforge/lua-studio](https://github.com/luaforge/lua-studio) - Lua Studio is a simple IDE for Lua. It consists of an editor with syntax coloring, and an integrated debugger. Debugger can step into, step over, step out of the routine, or stop at a breakpoint.Thi
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [Comer352L/FreeSSM](https://github.com/Comer352L/FreeSSM) - 
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [aspnet/dnx](https://github.com/aspnet/dnx) - OBSOLETE - see readme
