@@ -511,7 +511,6 @@
 - [cabal-club/cabal-core](https://github.com/cabal-club/cabal-core) - Core database and replication for cabal.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [Wattenberger/d3-examples](https://github.com/Wattenberger/d3-examples) - 
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
@@ -899,7 +898,7 @@
 - [acritelli/rucksack](https://github.com/acritelli/rucksack) - A place to store your useful one-liners
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [wntrblm/Big_Honking_Button](https://github.com/wntrblm/Big_Honking_Button) - A simple Eurorack sampler and performance module in a silly package.
-- [chatrat12/layerdisplay](https://github.com/chatrat12/layerdisplay) - Plugin for Octoprint that displays what layer a print job is on.
+- [prgmatic/layerdisplay](https://github.com/prgmatic/layerdisplay) - Plugin for Octoprint that displays what layer a print job is on.
 - [cp2004/Octoprint-Upgrade-To-Py3](https://github.com/cp2004/Octoprint-Upgrade-To-Py3) - A script to move an existing OctoPrint install from Python 2 to Python 3
 - [protontypes/continuous-reforestation](https://github.com/protontypes/continuous-reforestation) - Make continuous reforestation part of your daily workflow :deciduous_tree:
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
@@ -1090,6 +1089,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [itslenny/slack-emoji-import](https://github.com/itslenny/slack-emoji-import) - Simple bulk emoji importer for slack
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
