@@ -1118,7 +1118,7 @@
 - [travisbrown/octocrabby](https://github.com/travisbrown/octocrabby) - Tools for managing GitHub block lists
 - [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccin
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
-- [chatrat12/layerdisplay](https://github.com/chatrat12/layerdisplay) - Plugin for Octoprint that displays what layer a print job is on.
+- [prgmatic/layerdisplay](https://github.com/prgmatic/layerdisplay) - Plugin for Octoprint that displays what layer a print job is on.
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [geekmomprojects/fiber-optic-hyperbolic-paraboloid](https://github.com/geekmomprojects/fiber-optic-hyperbolic-paraboloid) - design files for an illuminated hyperbolic paraboloid ruled with illuminated fiber optic cables
 - [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) - Prusa3D specific settings for the Slic3r Prusa Edition
