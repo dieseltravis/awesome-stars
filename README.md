@@ -84,7 +84,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [AyrA/ZipBomb](https://github.com/AyrA/ZipBomb) - About an old technology that still screws up some anti virus software
 - [nodemcu/nodemcu-devkit](https://github.com/nodemcu/nodemcu-devkit) - A development kit for NodeMCU firmware
 - [nhirata/flash-batch](https://github.com/nhirata/flash-batch) - Flash batch file for Windows
