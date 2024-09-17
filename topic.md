@@ -1387,7 +1387,7 @@
 - [jonmagic/csv2md](https://github.com/jonmagic/csv2md) - Convert csv into a GitHub Flavored Markdown table
 - [Supervisor/initscripts](https://github.com/Supervisor/initscripts) - User-contributed OS init scripts for Supervisor
 - [hhroc/yellr-server](https://github.com/hhroc/yellr-server) - Server for yellr project
-- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [jkphl/iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@j
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [lynnandtonic/airport-codes](https://github.com/lynnandtonic/airport-codes) - ✈️ Making sense of those three-letter airport codes.
