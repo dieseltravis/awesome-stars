@@ -102,6 +102,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [operating-system](#operating-system)
 - [others](#others)
 - [p2p](#p2p)
@@ -891,6 +892,10 @@
 ## open-source 
 
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+
+## openai 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## operating-system 
 
