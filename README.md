@@ -649,6 +649,7 @@
 
 ## Lua 
 
+- [BleuLlama/Playdate-Stuff](https://github.com/BleuLlama/Playdate-Stuff) - Various fonts I've made and other stuff for the Playdate, Pulp, etc
 - [devyte/nodemcu-platform](https://github.com/devyte/nodemcu-platform) - A platform to serve as a base for nodemcu-firmware Lua applications
 - [marcoskirsch/nodemcu-httpserver](https://github.com/marcoskirsch/nodemcu-httpserver) - A (very) simple web server written in Lua for the ESP8266 firmware NodeMCU.
 - [SimpleSimonsSolutions/NodeMCUWebServer](https://github.com/SimpleSimonsSolutions/NodeMCUWebServer) - NodeMCU ESP8266 WebServer
@@ -666,7 +667,6 @@
 
 ## Makefile 
 
-- [BleuLlama/Playdate-Stuff](https://github.com/BleuLlama/Playdate-Stuff) - Various fonts I've made and other stuff for the Playdate, Pulp, etc
 - [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project) - Start your Arduino projects right out of the box
 - [OpenELEC/OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv) - OpenELEC - The living room PC for everyone
 - [esp8266/source-code-examples](https://github.com/esp8266/source-code-examples) - Examples of code for the ESP8266
