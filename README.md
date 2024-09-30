@@ -1068,7 +1068,7 @@
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Chrome extension to bulk download all your Bandcamp purchases
+- [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Browser extension to bulk download all your Bandcamp purchases
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
