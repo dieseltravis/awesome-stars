@@ -286,7 +286,7 @@
 
 ## chrome-extension 
 
-- [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Chrome extension to bulk download all your Bandcamp purchases
+- [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Browser extension to bulk download all your Bandcamp purchases
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
