@@ -904,6 +904,7 @@
 
 ## others 
 
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [mcguirepr89/BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 4B, 3B+, and 0W2 built on the TFLite version of BirdNET.
