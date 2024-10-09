@@ -197,6 +197,7 @@
 - [crashworks3d/Iron_Man_Servo](https://github.com/crashworks3d/Iron_Man_Servo) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
@@ -357,7 +358,6 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
