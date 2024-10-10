@@ -197,7 +197,6 @@
 - [crashworks3d/Iron_Man_Servo](https://github.com/crashworks3d/Iron_Man_Servo) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [ZeroZeroOne-dev/00Key](https://github.com/ZeroZeroOne-dev/00Key) - 00Key a 75% keyboard
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
@@ -238,7 +237,7 @@
 - [Creality3DPrinting/CR-10S](https://github.com/Creality3DPrinting/CR-10S) - The famous, large build area, all-metal 3D printer from Creality3D
 - [probonopd/ESP8266HueEmulator](https://github.com/probonopd/ESP8266HueEmulator) - Emulate a Philips Hue bridge running on an ESP8266 using the Arduino IDE.
 - [platisd/hackathon-pcb-trophy](https://github.com/platisd/hackathon-pcb-trophy) - A cool trophy for the winners of your Hackathon
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic Art Projects", most involving electronics or an Arduino in one way or another!
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [jkb-git/ESP32Servo](https://github.com/jkb-git/ESP32Servo) - Arduino-compatible servo library for the ESP32
 - [me-no-dev/ESPAsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) - Async TCP Library for ESP8266
 - [me-no-dev/AsyncTCP](https://github.com/me-no-dev/AsyncTCP) - Async TCP Library for ESP32
@@ -358,6 +357,7 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
