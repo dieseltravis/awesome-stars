@@ -157,7 +157,7 @@
 ## C# # 
 
 - [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [paiden/Nett](https://github.com/paiden/Nett) - .Net library for TOML
