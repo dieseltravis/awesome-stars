@@ -1066,6 +1066,7 @@
 
 ## TypeScript 
 
+- [therzka/spell-with-emojis-raycast](https://github.com/therzka/spell-with-emojis-raycast) - a Raycast extension for converting text into slack emojis
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
