@@ -904,6 +904,8 @@
 
 ## others 
 
+- [3DprintFIT/netfabb-basic-download](https://github.com/3DprintFIT/netfabb-basic-download) - Unofficial Netfabb Basic and/or Netfabb Free download archive
+- [kylemanna/sniffer](https://github.com/kylemanna/sniffer) - ESP32 Air Quality Sensor with PMSA003 + BME680 and 1.14" LCD
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [therzka/spell-with-emojis-raycast](https://github.com/therzka/spell-with-emojis-raycast) - a Raycast extension for converting text into slack emojis
 - [crashworks3d/Iron_Man_Servo](https://github.com/crashworks3d/Iron_Man_Servo) - 
