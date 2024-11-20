@@ -255,6 +255,7 @@
 
 ## bot 
 
+- [dieseltravis/conky](https://github.com/dieseltravis/conky) - A Mastodon bot that uses python to emulate Conky 3000 from Pee-Wee's Playhouse
 - [KurzGedanke/whatTheDay](https://github.com/KurzGedanke/whatTheDay) - A mastodon bot which toots every 12 hours the current weekday, date and time.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
@@ -819,6 +820,7 @@
 - [mauforonda/mastodon_digest](https://github.com/mauforonda/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [dieseltravis/conky](https://github.com/dieseltravis/conky) - A Mastodon bot that uses python to emulate Conky 3000 from Pee-Wee's Playhouse
 - [Lynnesbian/OCRbot](https://github.com/Lynnesbian/OCRbot) - An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances
 - [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 - [selfagency/mastodont](https://github.com/selfagency/mastodont) - CLI blocklist importer for Mastodon admins
@@ -904,6 +906,8 @@
 
 ## others 
 
+- [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera modls
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
@@ -1040,7 +1044,6 @@
 - [nataliethenerd/picohatpad](https://github.com/nataliethenerd/picohatpad) - 
 - [Lartsch/FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
 - [jkjustjoshing/adventofcode](https://github.com/jkjustjoshing/adventofcode) - https://adventofcode.com
-- [dieseltravis/conky](https://github.com/dieseltravis/conky) - A Mastodon bot that uses python to emulate Conky 3000 from Pee-Wee's Playhouse
 - [dieseltravis/guid_counter_bot](https://github.com/dieseltravis/guid_counter_bot) - A bot for Mastodon that counts with GUIDs
 - [dieseltravis/guid_waster_bot](https://github.com/dieseltravis/guid_waster_bot) - A bot for Mastodon that wastes all the GUIDs
 - [dieseltravis/arduino-projects](https://github.com/dieseltravis/arduino-projects) - a bunch of test projects
