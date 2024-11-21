@@ -412,6 +412,7 @@
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [jed/140bytes](https://github.com/jed/140bytes) - Once a tweet-sized, fork-to-play, community-curated collection of JavaScript.
@@ -801,7 +802,6 @@
 - [akoeplinger/vagrant-mono-aspnetvnext](https://github.com/akoeplinger/vagrant-mono-aspnetvnext) - Vagrant box for Mono and ASP.NET vNext
 - [h5bp/server-configs-iis](https://github.com/h5bp/server-configs-iis) - IIS Web.Config Boilerplates
 - [getify/JSON.minify](https://github.com/getify/JSON.minify) - Simple minifier for JSON to remove comments and whitespace
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [WhiteHouse/api-standards](https://github.com/WhiteHouse/api-standards) - 
 - [theonion/fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
 - [shanselman/PowerShellHgGit](https://github.com/shanselman/PowerShellHgGit) - An attempt at making PowerShell get along with both PoshHg *and* PoshGit
