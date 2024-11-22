@@ -194,6 +194,7 @@
 
 ## C++ 
 
+- [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
 - [crashworks3d/Iron_Man_Servo](https://github.com/crashworks3d/Iron_Man_Servo) - 
@@ -855,6 +856,7 @@
 
 ## Python 
 
+- [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [MLTSHP/best-of-mltshp-bot](https://github.com/MLTSHP/best-of-mltshp-bot) - Posts new feed items to Mastodon
