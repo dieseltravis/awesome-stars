@@ -894,6 +894,7 @@
 
 ## open-source 
 
+- [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 
 ## openai 
@@ -906,6 +907,9 @@
 
 ## others 
 
+- [NordicSemiconductor/Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
+- [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
+- [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera modls
@@ -1615,6 +1619,7 @@
 
 ## raspberry-pi 
 
+- [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [adafruit/Raspberry-Pi-Installer-Scripts](https://github.com/adafruit/Raspberry-Pi-Installer-Scripts) - 
