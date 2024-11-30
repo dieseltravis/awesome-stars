@@ -908,7 +908,7 @@
 - [Neradoc/circuitpython-native-wsgiserver](https://github.com/Neradoc/circuitpython-native-wsgiserver) - 
 - [adafruit/Adafruit_CircuitPython_seesaw](https://github.com/adafruit/Adafruit_CircuitPython_seesaw) - seesaw helper IC driver for circuitPython
 - [todbot/circuitpython-tricks](https://github.com/todbot/circuitpython-tricks) - Some CircuitPython tricks, mostly reminders to myself
-- [xtream1101/humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download you Humble Bundle Library
+- [xtream1101/humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download your Humble Bundle Library
 - [acritelli/rucksack](https://github.com/acritelli/rucksack) - A place to store your useful one-liners
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [wntrblm/Big_Honking_Button](https://github.com/wntrblm/Big_Honking_Button) - A simple Eurorack sampler and performance module in a silly package.
