@@ -446,6 +446,7 @@
 
 ## JavaScript 
 
+- [dieseltravis/aoc2024](https://github.com/dieseltravis/aoc2024) - javascript 🎄 Advent of Code 2024
 - [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
