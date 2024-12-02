@@ -675,6 +675,7 @@
 
 ## javascript 
 
+- [dieseltravis/aoc2024](https://github.com/dieseltravis/aoc2024) - javascript 🎄 Advent of Code 2024
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [dieseltravis/aoc2023](https://github.com/dieseltravis/aoc2023) - javascript 🎄 Advent of Code 2023 using 🎏 Glitch 🎏
 - [dieseltravis/aoc2018](https://github.com/dieseltravis/aoc2018) - javascript 🎄 Advent of Code 2018 using 🎏 Glitch 🎏
