@@ -184,6 +184,7 @@
 
 ## arduino 
 
+- [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
 - [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
@@ -657,6 +658,7 @@
 
 ## iot 
 
+- [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [cheerlights/esp8266_neopixel_strip](https://github.com/cheerlights/esp8266_neopixel_strip) - This sketch periodically checks the CheerLights color that is stored in ThingSpeak channel 1417 and sets the color of each pixel of a WS2812-based NeoPixel strip.
 - [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
