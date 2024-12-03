@@ -194,6 +194,7 @@
 
 ## C++ 
 
+- [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
