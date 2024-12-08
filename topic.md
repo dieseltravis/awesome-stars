@@ -911,6 +911,9 @@
 
 ## others 
 
+- [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid) - in case I forget one
+- [OpenRCT2/OpenLauncher](https://github.com/OpenRCT2/OpenLauncher) - Windows & Linux Launcher for OpenRCT2 and OpenLoco
+- [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 - [NordicSemiconductor/Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
 - [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
