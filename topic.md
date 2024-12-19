@@ -913,6 +913,7 @@
 
 ## others 
 
+- [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [SensorsIot/Antenna-Tester](https://github.com/SensorsIot/Antenna-Tester) - LoRa Antenna Tester
 - [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid) - in case I forget one
 - [OpenRCT2/OpenLauncher](https://github.com/OpenRCT2/OpenLauncher) - Windows & Linux Launcher for OpenRCT2 and OpenLoco
