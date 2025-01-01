@@ -370,6 +370,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1049,7 +1050,6 @@
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
 - [sdetweil/MagicMirror-backup-restore](https://github.com/sdetweil/MagicMirror-backup-restore) - scripts for backing up magicmirror config and module github urls  and using that to restore at a later time
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [raspberrypi/rpi-update](https://github.com/raspberrypi/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [HclX/WyzeHacks](https://github.com/HclX/WyzeHacks) - Hacks I discovered allowing Wyze camera owners to do customizations
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
@@ -1059,7 +1059,7 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [sdetweil/MagicMirror_scripts](https://github.com/sdetweil/MagicMirror_scripts) - Magic Mirror installation and setup scripts
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [paulirish/git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [trouch/CreawsomeMod](https://github.com/trouch/CreawsomeMod) - Modification for Ultimaker Cura
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
