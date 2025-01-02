@@ -774,7 +774,7 @@
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [RITlug/TigerOS](https://github.com/RITlug/TigerOS) - [MOVED TO GITLAB] Please visit new location: https://gitlab.com/RITlug/TigerOS
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -851,7 +851,7 @@
 ## minecraft 
 
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 
 ## monitoring 
 
@@ -1725,7 +1725,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1777,7 +1777,7 @@
 
 ## ubuntu 
 
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 
 ## vim 
 
