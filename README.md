@@ -22,6 +22,7 @@
 - [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fluent](#fluent)
 - [G-code](#g-code)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -347,6 +348,10 @@
 
 - [derrickreimer/level](https://github.com/derrickreimer/level) - Team communication optimized for deep work
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## G-code 
 
 - [PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
@@ -360,6 +365,7 @@
 
 ## Go 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
@@ -711,6 +717,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [NordicSemiconductor/Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera modls
@@ -1088,6 +1095,7 @@
 
 ## TypeScript 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [therzka/spell-with-emojis-raycast](https://github.com/therzka/spell-with-emojis-raycast) - a Raycast extension for converting text into slack emojis
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
