@@ -922,6 +922,7 @@
 
 ## others 
 
+- [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [SensorsIot/Antenna-Tester](https://github.com/SensorsIot/Antenna-Tester) - LoRa Antenna Tester
