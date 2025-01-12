@@ -394,6 +394,7 @@
 
 ## HTML 
 
+- [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
