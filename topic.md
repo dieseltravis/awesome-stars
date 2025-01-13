@@ -630,6 +630,7 @@
 
 ## html 
 
+- [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -731,6 +732,7 @@
 
 ## jekyll 
 
+- [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [Code52/pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
