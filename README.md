@@ -1051,6 +1051,7 @@
 
 ## Shell 
 
+- [mRB0/many-windows-3.1-icons-in-png-format](https://github.com/mRB0/many-windows-3.1-icons-in-png-format) - Many Windows 3.1 icons in PNG format
 - [ArchiveTeam/Ubuntu-Warrior](https://github.com/ArchiveTeam/Ubuntu-Warrior) - Scripts to build and boot warrior virtual machine containing Docker
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
