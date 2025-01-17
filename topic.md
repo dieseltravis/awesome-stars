@@ -924,6 +924,7 @@
 
 ## others 
 
+- [mRB0/many-windows-3.1-icons-in-png-format](https://github.com/mRB0/many-windows-3.1-icons-in-png-format) - Many Windows 3.1 icons in PNG format
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
