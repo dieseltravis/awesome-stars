@@ -719,6 +719,7 @@
 
 ## Others 
 
+- [cab404/framework-dsp](https://github.com/cab404/framework-dsp) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [NordicSemiconductor/Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
