@@ -37,6 +37,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [NSIS](#nsis)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -697,6 +698,10 @@
 - [esp8266/source-code-examples](https://github.com/esp8266/source-code-examples) - Examples of code for the ESP8266
 - [shaniber/recipes](https://github.com/shaniber/recipes) - My Recipes
 
+## Markdown 
+
+- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+
 ## NSIS 
 
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
@@ -791,7 +796,6 @@
 - [mcauser/YX8018-solar-led-driver](https://github.com/mcauser/YX8018-solar-led-driver) - YX8018 LED driver in Bunnings Lytworx solar garden LED lights
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [rocdev-foundation/hacktoberfest_2018](https://github.com/rocdev-foundation/hacktoberfest_2018) - 
 - [BlitzCityDIY/circuitPlaygroundPedalPiController](https://github.com/BlitzCityDIY/circuitPlaygroundPedalPiController) - 
