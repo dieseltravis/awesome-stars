@@ -924,6 +924,7 @@
 
 ## others 
 
+- [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [cab404/framework-dsp](https://github.com/cab404/framework-dsp) - 
 - [mRB0/many-windows-3.1-icons-in-png-format](https://github.com/mRB0/many-windows-3.1-icons-in-png-format) - Many Windows 3.1 icons in PNG format
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
