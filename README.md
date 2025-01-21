@@ -94,6 +94,7 @@
 
 ## C 
 
+- [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
