@@ -367,6 +367,7 @@
 
 ## Go 
 
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
@@ -725,6 +726,7 @@
 
 ## Others 
 
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
 - [cab404/framework-dsp](https://github.com/cab404/framework-dsp) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [NordicSemiconductor/Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
