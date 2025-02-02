@@ -46,6 +46,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
+- [facebook](#facebook)
 - [firefox](#firefox)
 - [font](#font)
 - [framework](#framework)
@@ -470,6 +471,10 @@
 
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+## facebook 
+
+- [kyleconroy/grain](https://github.com/kyleconroy/grain) - The Entire History of You
 
 ## firefox 
 
@@ -913,7 +918,7 @@
 
 ## open-source 
 
-- [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated Wireless Allsky Camera
+- [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated allsky camera
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 
 ## openai 
@@ -926,6 +931,7 @@
 
 ## others 
 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
 - [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [cab404/framework-dsp](https://github.com/cab404/framework-dsp) - 
@@ -1650,7 +1656,7 @@
 
 ## raspberry-pi 
 
-- [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated Wireless Allsky Camera
+- [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated allsky camera
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [adafruit/Raspberry-Pi-Installer-Scripts](https://github.com/adafruit/Raspberry-Pi-Installer-Scripts) - 
@@ -1726,6 +1732,7 @@
 
 ## self-hosted 
 
+- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
