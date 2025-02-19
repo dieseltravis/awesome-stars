@@ -203,7 +203,7 @@
 - [SensorsIot/Antenna-Tester](https://github.com/SensorsIot/Antenna-Tester) - LoRa Antenna Tester
 - [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system. Using LoRa radios, Meshtastic enables long-range, low-power text messaging, location 
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
 - [crashworks3d/Iron_Man_Servo](https://github.com/crashworks3d/Iron_Man_Servo) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
@@ -220,7 +220,7 @@
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
-- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [dieseltravis/arduino-projects](https://github.com/dieseltravis/arduino-projects) - a bunch of test projects
 - [dieseltravis/esp32-projects](https://github.com/dieseltravis/esp32-projects) - arduino projects for esp32 based boards
 - [dieseltravis/esp8266-projects](https://github.com/dieseltravis/esp8266-projects) - collection of projects that I used the esp8266 for
