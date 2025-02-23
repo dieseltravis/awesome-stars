@@ -220,7 +220,7 @@
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.)
-- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [dieseltravis/arduino-projects](https://github.com/dieseltravis/arduino-projects) - a bunch of test projects
 - [dieseltravis/esp32-projects](https://github.com/dieseltravis/esp32-projects) - arduino projects for esp32 based boards
 - [dieseltravis/esp8266-projects](https://github.com/dieseltravis/esp8266-projects) - collection of projects that I used the esp8266 for
