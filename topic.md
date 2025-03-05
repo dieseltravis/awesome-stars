@@ -189,6 +189,7 @@
 
 ## arduino 
 
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
 - [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
@@ -554,7 +555,6 @@
 ## golang 
 
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -630,6 +630,7 @@
 
 ## home-assistant 
 
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 
 ## homebrew 
@@ -932,6 +933,7 @@
 
 ## others 
 
+- [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Documentation for the Mainboard and printable mechanical parts in the Framework Desktop
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
