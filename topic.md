@@ -934,11 +934,13 @@
 
 ## others 
 
+- [wiretap-retro/2-digit-Turbo-Display](https://github.com/wiretap-retro/2-digit-Turbo-Display) - This project is a ATTiny85-based turbo display for retro PC's. It displays 2 digits.
+- [sukoonmusic/emoji-dump-2021](https://github.com/sukoonmusic/emoji-dump-2021) - 
 - [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Documentation for the Mainboard and printable mechanical parts in the Framework Desktop
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
-- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 - [cab404/framework-dsp](https://github.com/cab404/framework-dsp) - 
 - [mRB0/many-windows-3.1-icons-in-png-format](https://github.com/mRB0/many-windows-3.1-icons-in-png-format) - Many Windows 3.1 icons in PNG format
@@ -1450,7 +1452,7 @@
 - [jonmagic/csv2md](https://github.com/jonmagic/csv2md) - Convert csv into a GitHub Flavored Markdown table
 - [Supervisor/initscripts](https://github.com/Supervisor/initscripts) - User-contributed OS init scripts for Supervisor
 - [hhroc/yellr-server](https://github.com/hhroc/yellr-server) - Server for yellr project
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 - [jkphl/iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@j
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [lynnandtonic/airport-codes](https://github.com/lynnandtonic/airport-codes) - ✈️ Making sense of those three-letter airport codes.
