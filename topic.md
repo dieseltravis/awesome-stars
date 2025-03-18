@@ -934,6 +934,7 @@
 
 ## others 
 
+- [SensorsIot/Autodetecting-boards](https://github.com/SensorsIot/Autodetecting-boards) - 
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [wiretap-retro/2-digit-Turbo-Display](https://github.com/wiretap-retro/2-digit-Turbo-Display) - This project is a ATTiny85-based turbo display for retro PC's. It displays 2 digits.
 - [sukoonmusic/emoji-dump-2021](https://github.com/sukoonmusic/emoji-dump-2021) - 
