@@ -1394,7 +1394,7 @@
 - [WhiteHouse/source-code-policy](https://github.com/WhiteHouse/source-code-policy) - Federal Source Code Policy
 - [wemos/D1_mini_Examples_lua](https://github.com/wemos/D1_mini_Examples_lua) - D1 & D1 mini examples for nodemcu
 - [wemos/D1_mini_Examples](https://github.com/wemos/D1_mini_Examples) - WeMos D1 & D1 mini Arduino Examples
-- [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
+- [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [ckolderup/wasted-exe](https://github.com/ckolderup/wasted-exe) - A bot to turn any GIF into a GTA-style "wasted" GIF
 - [micronucleus/micronucleus](https://github.com/micronucleus/micronucleus) - ATTiny usb bootloader with a strong emphasis on bootloader compactness.
 - [squix78/esp8266-projects](https://github.com/squix78/esp8266-projects) - 
