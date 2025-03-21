@@ -977,7 +977,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [ftrain/may142016](https://github.com/ftrain/may142016) - This app was created to support a collaborative project by Miranda July and Paul Ford as part of the Rhizome 7on7 project.
 - [gregtinkers/carspeed.py](https://github.com/gregtinkers/carspeed.py) - Record the speed of cars passing in front of the Raspberry Pi Picamera
-- [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
+- [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [pyserial/pyserial](https://github.com/pyserial/pyserial) - Python serial port access library
 - [NelisW/myOpenHab](https://github.com/NelisW/myOpenHab) - An implementation of a home automation system based on openHab, MQTT, using ESP8266 and Raspberry Pi
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
