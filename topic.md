@@ -99,6 +99,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [nextjs](#nextjs)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -887,6 +888,10 @@
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 
+## no-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## node 
 
 - [dieseltravis/aoc2018](https://github.com/dieseltravis/aoc2018) - javascript 🎄 Advent of Code 2018 using 🎏 Glitch 🎏
@@ -934,6 +939,7 @@
 
 ## others 
 
+- [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [SensorsIot/Autodetecting-boards](https://github.com/SensorsIot/Autodetecting-boards) - 
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [wiretap-retro/2-digit-Turbo-Display](https://github.com/wiretap-retro/2-digit-Turbo-Display) - This project is a ATTiny85-based turbo display for retro PC's. It displays 2 digits.
