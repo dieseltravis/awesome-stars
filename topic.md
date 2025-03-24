@@ -641,7 +641,6 @@
 
 ## html 
 
-- [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -743,7 +742,6 @@
 
 ## jekyll 
 
-- [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [Code52/pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
@@ -966,7 +964,7 @@
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera modls
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
-- [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
+- [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [3DprintFIT/netfabb-basic-download](https://github.com/3DprintFIT/netfabb-basic-download) - Unofficial Netfabb Basic and/or Netfabb Free download archive
 - [kylemanna/sniffer](https://github.com/kylemanna/sniffer) - ESP32 Air Quality Sensor with PMSA003 + BME680 and 1.14" LCD
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
