@@ -790,7 +790,6 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [Minecatr/nibble-zmk-config](https://github.com/Minecatr/nibble-zmk-config) - 
 - [nullbitsco/docs](https://github.com/nullbitsco/docs) - Online documentation (build guides, user manuals, etc) for nullbits products.
-- [HorayNarea/WarriorVM](https://github.com/HorayNarea/WarriorVM) - auto-updating ArchiveTeam Warrior VM
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
 - [BlitzCityDIY/Peanuts-Snow-Globe](https://github.com/BlitzCityDIY/Peanuts-Snow-Globe) - MakeCode to use with a Circuit Playground Express board.
