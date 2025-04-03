@@ -242,7 +242,7 @@
 - [witnessmenow/arduino-slack-api](https://github.com/witnessmenow/arduino-slack-api) - An arduino library to wrap the Slack API
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [emilyvelasco/The-Orb-synthesizer](https://github.com/emilyvelasco/The-Orb-synthesizer) - 
-- [amalmathewtech/ATtiny_LED_Matrix_Display_Badge](https://github.com/amalmathewtech/ATtiny_LED_Matrix_Display_Badge) - An ATtiny85 based badge size PCB that can display alphabets and numbers .
+- [0xlama/ATtiny_LED_Matrix_Display_Badge](https://github.com/0xlama/ATtiny_LED_Matrix_Display_Badge) - An ATtiny85 based badge size PCB that can display alphabets and numbers .
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [CoretechR/ESP32-WiFi-Robot](https://github.com/CoretechR/ESP32-WiFi-Robot) - 
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
@@ -1068,6 +1068,7 @@
 
 ## Shell 
 
+- [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [mRB0/many-windows-3.1-icons-in-png-format](https://github.com/mRB0/many-windows-3.1-icons-in-png-format) - Many Windows 3.1 icons in PNG format
