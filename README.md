@@ -64,6 +64,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [nesC](#nesc)
 
 ## Arduino 
 
@@ -99,7 +100,6 @@
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
-- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [GNOME/gnome-characters](https://github.com/GNOME/gnome-characters) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-characters
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [TheNitek/ESP32-Cheap-Yellow-Display](https://github.com/TheNitek/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
@@ -159,6 +159,7 @@
 
 ## C# # 
 
+- [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
 - [OpenRCT2/OpenLauncher](https://github.com/OpenRCT2/OpenLauncher) - Windows & Linux Launcher for OpenRCT2 and OpenLoco
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 - [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
@@ -1121,7 +1122,7 @@
 
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [therzka/spell-with-emojis-raycast](https://github.com/therzka/spell-with-emojis-raycast) - a Raycast extension for converting text into slack emojis
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1174,6 +1175,10 @@
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [MakerAsia/KBProIDE](https://github.com/MakerAsia/KBProIDE) - KB Pro IDE
+
+## nesC 
+
+- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 
 
 ## License
