@@ -886,7 +886,7 @@
 
 ## nextjs 
 
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 
 ## no-code 
@@ -940,6 +940,8 @@
 
 ## others 
 
+- [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
+- [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [anitwek/alternatives-to-us](https://github.com/anitwek/alternatives-to-us) - A curated list of non-U.S.-based alternatives to popular services, focusing on privacy and global accessibility.
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -1250,7 +1252,7 @@
 - [paulirish/git-recent](https://github.com/paulirish/git-recent) - See your latest local git branches, formatted real fancy
 - [MakerAsia/KBProIDE](https://github.com/MakerAsia/KBProIDE) - KB Pro IDE
 - [trouch/CreawsomeMod](https://github.com/trouch/CreawsomeMod) - Modification for Ultimaker Cura
-- [amalmathewtech/ATtiny_LED_Matrix_Display_Badge](https://github.com/amalmathewtech/ATtiny_LED_Matrix_Display_Badge) - An ATtiny85 based badge size PCB that can display alphabets and numbers .
+- [0xlama/ATtiny_LED_Matrix_Display_Badge](https://github.com/0xlama/ATtiny_LED_Matrix_Display_Badge) - An ATtiny85 based badge size PCB that can display alphabets and numbers .
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
 - [CarnetApp/CarnetDocumentation](https://github.com/CarnetApp/CarnetDocumentation) - 
@@ -1705,7 +1707,7 @@
 
 ## react-native 
 
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
 ## reactjs 
@@ -1757,7 +1759,7 @@
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## server 
