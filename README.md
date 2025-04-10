@@ -467,7 +467,6 @@
 
 ## JavaScript 
 
-- [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [s427/MARL](https://github.com/s427/MARL) - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file
@@ -1120,6 +1119,7 @@
 
 ## TypeScript 
 
+- [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
