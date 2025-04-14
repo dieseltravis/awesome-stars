@@ -943,6 +943,7 @@
 
 ## others 
 
+- [ashtf8/EinkPDA](https://github.com/ashtf8/EinkPDA) - An E-Ink PDA device using the ESP32 S3.
 - [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
