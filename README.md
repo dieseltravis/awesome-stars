@@ -111,7 +111,7 @@
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - DXX Raytracer is a fork of the DXX Retro project for Windows. DXX Raytracer uses modern raytracing techniques to update the graphics of the beloved retro game known as Descent.
-- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full function driver library for general MCU and Linux.
+- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full-featured driver library for general MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [DHowett/framework-ec](https://github.com/DHowett/framework-ec) - Embedded Controller firmware for the Framework Laptop
@@ -428,6 +428,7 @@
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
 - [lambtron/emojipacks](https://github.com/lambtron/emojipacks) - CLI to bulk upload emojis to your Slack
 - [notwaldorf/emojillate](https://github.com/notwaldorf/emojillate) - :camera::art: Pixellate an image into emoji
+- [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [neveragaindottech/neveragaindottech.github.io](https://github.com/neveragaindottech/neveragaindottech.github.io) - Source files for the neveragain.tech site
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
@@ -893,6 +894,7 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
@@ -970,7 +972,6 @@
 - [BleuLlama/AdventOfCode](https://github.com/BleuLlama/AdventOfCode) - Entries and scribbles for the yearly AdventOfCode challenge
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
-- [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [MLTSHP/mltshp](https://github.com/MLTSHP/mltshp) - Source for the application that runs mltshp.com
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [ajdavis/proporti.onl](https://github.com/ajdavis/proporti.onl) - Compare number of women, men, and nonbinary people among my friends and followers.
