@@ -945,6 +945,7 @@
 
 ## others 
 
+- [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Prometheus and Grafana (Dashboards included)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [ashtf8/EinkPDA](https://github.com/ashtf8/EinkPDA) - An E-Ink PDA device using the ESP32 S3.
