@@ -736,6 +736,7 @@
 
 ## Others 
 
+- [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [anitwek/alternatives-to-us](https://github.com/anitwek/alternatives-to-us) - A curated list of non-U.S.-based alternatives to popular services, focusing on privacy and global accessibility.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -897,6 +898,7 @@
 
 ## Python 
 
+- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
 - [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Prometheus and Grafana (Dashboards included)
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -1075,6 +1077,7 @@
 
 ## Shell 
 
+- [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
