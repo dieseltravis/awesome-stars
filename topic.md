@@ -394,6 +394,7 @@
 
 ## design 
 
+- [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
@@ -641,6 +642,7 @@
 
 ## home-assistant 
 
+- [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 
@@ -945,6 +947,7 @@
 
 ## others 
 
+- [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
