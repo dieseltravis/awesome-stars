@@ -136,6 +136,7 @@
 - [akafugu/xmas](https://github.com/akafugu/xmas) - XMAS Blinking Christmas Decoration Firmware (ATTiny13A)
 - [akafugu/ledcandle](https://github.com/akafugu/ledcandle) - Flickering LED Candle Firmware
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [mike-rankin/ESP8266_OLED_Display](https://github.com/mike-rankin/ESP8266_OLED_Display) - ESP8266 Oled Display
 - [wemos/Arduino_XI](https://github.com/wemos/Arduino_XI) - Arduino core for WEMOS XI Boards
@@ -255,7 +256,6 @@
 - [Creality3DPrinting/CR-10S](https://github.com/Creality3DPrinting/CR-10S) - The famous, large build area, all-metal 3D printer from Creality3D
 - [probonopd/ESP8266HueEmulator](https://github.com/probonopd/ESP8266HueEmulator) - Emulate a Philips Hue bridge running on an ESP8266 using the Arduino IDE.
 - [platisd/hackathon-pcb-trophy](https://github.com/platisd/hackathon-pcb-trophy) - A cool trophy for the winners of your Hackathon
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [jkb-git/ESP32Servo](https://github.com/jkb-git/ESP32Servo) - Arduino-compatible servo library for the ESP32
 - [me-no-dev/ESPAsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) - Async TCP Library for ESP8266
 - [me-no-dev/AsyncTCP](https://github.com/me-no-dev/AsyncTCP) - Async TCP Library for ESP32
