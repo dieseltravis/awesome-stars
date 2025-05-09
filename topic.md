@@ -947,6 +947,7 @@
 
 ## others 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
@@ -1434,7 +1435,7 @@
 - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [jscottb/ESP8266_http_io](https://github.com/jscottb/ESP8266_http_io) - 
 - [NelisW/myOpenHab](https://github.com/NelisW/myOpenHab) - An implementation of a home automation system based on openHab, MQTT, using ESP8266 and Raspberry Pi
-- [bitchwhocodes/project-oxford-webcam](https://github.com/bitchwhocodes/project-oxford-webcam) - 
+- [staceymakes/project-oxford-webcam](https://github.com/staceymakes/project-oxford-webcam) - 
 - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [espressif/ESP8266_MP3_DECODER](https://github.com/espressif/ESP8266_MP3_DECODER) - A demo that should be run with ESP8266 Non-OS SDK
 - [cnlohr/esp8266ws2812i2s](https://github.com/cnlohr/esp8266ws2812i2s) - ESP8266-based I2S-output WS2812(B) Driver
@@ -1488,7 +1489,7 @@
 - [whyaz/whyaz](https://github.com/whyaz/whyaz) - 🌵Reasons to love Arizona
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 - [npocmaka/batch.scripts](https://github.com/npocmaka/batch.scripts) - batch script utils and examples by npocmaka -
-- [bitchwhocodes/TweetHeart](https://github.com/bitchwhocodes/TweetHeart) - Repo for basic Node script that uses the Twitter Streaming API and hits a sparkcore device
+- [staceymakes/TweetHeart](https://github.com/staceymakes/TweetHeart) - Repo for basic Node script that uses the Twitter Streaming API and hits a sparkcore device
 - [Comer352L/FreeSSM](https://github.com/Comer352L/FreeSSM) - 
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [seafoam6/wilhelm-js](https://github.com/seafoam6/wilhelm-js) - Is responsive design sometimes painful? Now the world can hear your pain!
