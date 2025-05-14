@@ -947,6 +947,7 @@
 
 ## others 
 
+- [jabberzac/gobsprogram](https://github.com/jabberzac/gobsprogram) - Gob's Program? Y/N
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
@@ -1891,6 +1892,7 @@
 
 ## webapp 
 
+- [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
 - [pfalcon/picoweb](https://github.com/pfalcon/picoweb) - Really minimal web application framework for the Pycopy project (minimalist Python dialect) and its "uasyncio" async framework
 
 ## webpack 
