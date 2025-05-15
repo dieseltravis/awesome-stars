@@ -947,6 +947,7 @@
 
 ## others 
 
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [jabberzac/gobsprogram](https://github.com/jabberzac/gobsprogram) - Gob's Program? Y/N
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
