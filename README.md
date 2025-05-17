@@ -111,7 +111,7 @@
 - [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - DXX Raytracer is a fork of the DXX Retro project for Windows. DXX Raytracer uses modern raytracing techniques to update the graphics of the beloved retro game known as Descent.
-- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full-featured driver library for general MCU and Linux.
+- [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full-featured driver library for general-purpose MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
 - [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [DHowett/framework-ec](https://github.com/DHowett/framework-ec) - Embedded Controller firmware for the Framework Laptop
