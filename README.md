@@ -1045,7 +1045,7 @@
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
+- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
 - [DrewTChrist/nibble-rp2040-rs](https://github.com/DrewTChrist/nibble-rp2040-rs) - This is a Keyberon based firmware for the Nibble keyboard paired with different RP2040 boards.
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -1081,6 +1081,7 @@
 
 ## Shell 
 
+- [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
