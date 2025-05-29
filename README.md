@@ -438,7 +438,6 @@
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [jed/140bytes](https://github.com/jed/140bytes) - Once a tweet-sized, fork-to-play, community-curated collection of JavaScript.
@@ -902,6 +901,7 @@
 
 ## Python 
 
+- [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db style playlist files from a list of youtube urls or youtube's .csv file.
 - [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
 - [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Prometheus and Grafana (Dashboards included)
@@ -1001,6 +1001,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jakearchibald/appcache-demo](https://github.com/jakearchibald/appcache-demo) - 
 
 ## Roff 
