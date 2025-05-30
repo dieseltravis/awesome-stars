@@ -948,6 +948,8 @@
 
 ## others 
 
+- [Vectro-Type-Foundry/kablammo](https://github.com/Vectro-Type-Foundry/kablammo) - 
+- [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db style playlist files from a list of youtube urls or youtube's .csv file.
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [jabberzac/gobsprogram](https://github.com/jabberzac/gobsprogram) - Gob's Program? Y/N
