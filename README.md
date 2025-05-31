@@ -457,7 +457,7 @@
 - [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-- [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [me-no-dev/arduino-esp32fs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin) - Arduino plugin for uploading files to ESP32 file system
 - [esp8266/arduino-esp8266fs-plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - Arduino plugin for uploading files to ESP8266 file system
@@ -786,7 +786,7 @@
 - [tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk) - KiCad library for tmk project
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [hyperion-project/hyperion.docs](https://github.com/hyperion-project/hyperion.docs) - The official documentation for Hyperion
-- [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
+- [AAElectronics/ESP-360-REMOTE](https://github.com/AAElectronics/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [MLTSHP/Logo-and-Design-Assets](https://github.com/MLTSHP/Logo-and-Design-Assets) - Logo, buttons, profile pics and style guide for mltshp
 - [UberGuidoZ/Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - A collective of different IRs for the Flipper (maintained)
