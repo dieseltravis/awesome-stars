@@ -168,7 +168,7 @@
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
@@ -855,7 +855,7 @@
 - [s427/MARL](https://github.com/s427/MARL) - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file
 - [mauforonda/mastodon_digest](https://github.com/mauforonda/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [dieseltravis/conky](https://github.com/dieseltravis/conky) - A Mastodon bot that uses python to emulate Conky 3000 from Pee-Wee's Playhouse
 - [Lynnesbian/OCRbot](https://github.com/Lynnesbian/OCRbot) - An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances
 - [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
@@ -1121,7 +1121,7 @@
 - [satchelspencer/repsyps](https://github.com/satchelspencer/repsyps) - realtime playback and synchronization of periodic signals... or music
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
 - [dupontgu/clock_that_is_wrong](https://github.com/dupontgu/clock_that_is_wrong) - CircuitPython powered clock that shows the wrong time when it detects that someone is looking at it
-- [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
+- [AAElectronics/ESP-360-REMOTE](https://github.com/AAElectronics/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [nataliethenerd/picohatpad](https://github.com/nataliethenerd/picohatpad) - 
 - [Lartsch/FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
@@ -1156,7 +1156,7 @@
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [fcazalet/godot-version-management](https://github.com/fcazalet/godot-version-management) - This addon is for developpers that want a centralized place for version naming / build number and then display it in game.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
+- [yujqiao/catproc](https://github.com/yujqiao/catproc) - Print the output of a running process
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [Minecatr/kmk_firmware](https://github.com/Minecatr/kmk_firmware) - Clackety Keyboards Powered by Python
 - [Minecatr/nibble](https://github.com/Minecatr/nibble) - QMK firmware files for NIBBLE keyboard
