@@ -472,7 +472,7 @@
 
 ## JavaScript 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements as images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [s427/MARL](https://github.com/s427/MARL) - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file
@@ -738,6 +738,7 @@
 
 ## Others 
 
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [anitwek/alternatives-to-us](https://github.com/anitwek/alternatives-to-us) - A curated list of non-U.S.-based alternatives to popular services, focusing on privacy and global accessibility.
