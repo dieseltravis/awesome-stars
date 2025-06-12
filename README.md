@@ -916,6 +916,7 @@
 - [MLTSHP/best-of-mltshp-bot](https://github.com/MLTSHP/best-of-mltshp-bot) - Posts new feed items to Mastodon
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
+- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [crides/kleeb](https://github.com/crides/kleeb) - Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation
@@ -1096,7 +1097,6 @@
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [labtroll/PCB-Design-Limits](https://github.com/labtroll/PCB-Design-Limits) - A set of PCB designs that shows off the real-world limits for manufacturing capabilities including silkscreen and copper line and text sizes
-- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
 - [sdetweil/MagicMirror-backup-restore](https://github.com/sdetweil/MagicMirror-backup-restore) - scripts for backing up magicmirror config and module github urls  and using that to restore at a later time
