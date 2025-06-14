@@ -956,6 +956,7 @@
 
 ## others 
 
+- [pickles4evaaaa/bibliotheca](https://github.com/pickles4evaaaa/bibliotheca) - Track your reading habits, log books, and visualize your library—all in your own space.
 - [adafruit/Adafruit_nRF52_nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil) - Modified version of Nordic's nrfutil 0.5.x for use with the Adafruit Feather nRF52
 - [Vectro-Type-Foundry/kablammo](https://github.com/Vectro-Type-Foundry/kablammo) - 
 - [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db style playlist files from a list of youtube urls or youtube's .csv file.
