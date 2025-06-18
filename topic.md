@@ -115,6 +115,7 @@
 - [phaser](#phaser)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -780,7 +781,7 @@
 
 ## jupyter-notebook 
 
-- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstations.
+- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations.
 
 ## kotlin 
 
@@ -956,6 +957,7 @@
 
 ## others 
 
+- [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
 - [pickles4evaaaa/bibliotheca](https://github.com/pickles4evaaaa/bibliotheca) - Track your reading habits, log books, and visualize your library—all in your own space.
 - [adafruit/Adafruit_nRF52_nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil) - Modified version of Nordic's nrfutil 0.5.x for use with the Adafruit Feather nRF52
 - [Vectro-Type-Foundry/kablammo](https://github.com/Vectro-Type-Foundry/kablammo) - 
@@ -1000,7 +1002,7 @@
 - [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera modls
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
@@ -1102,7 +1104,6 @@
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [Minecatr/Opsotx](https://github.com/Minecatr/Opsotx) - fps game
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -1655,6 +1656,11 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 
+## productivity 
+
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
 ## project-management 
 
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -1683,7 +1689,7 @@
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstations.
+- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations.
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
