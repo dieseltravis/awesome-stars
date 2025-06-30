@@ -957,11 +957,12 @@
 
 ## others 
 
+- [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
 - [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
 - [pickles4evaaaa/mybibliotheca](https://github.com/pickles4evaaaa/mybibliotheca) - Track your reading habits, log books, and visualize your library—all in your own space.
 - [adafruit/Adafruit_nRF52_nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil) - Modified version of Nordic's nrfutil 0.5.x for use with the Adafruit Feather nRF52
 - [Vectro-Type-Foundry/kablammo](https://github.com/Vectro-Type-Foundry/kablammo) - 
-- [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db style playlist files from a list of youtube urls or youtube's .csv file.
+- [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db playlist files from a list of youtube urls or youtube's .csv file.
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [jabberzac/gobsprogram](https://github.com/jabberzac/gobsprogram) - Gob's Program? Y/N
