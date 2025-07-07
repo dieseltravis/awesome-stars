@@ -906,6 +906,7 @@
 
 ## Python 
 
+- [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [adafruit/Adafruit_nRF52_nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil) - Modified version of Nordic's nrfutil 0.5.x for use with the Adafruit Feather nRF52
 - [Vectro-Type-Foundry/kablammo](https://github.com/Vectro-Type-Foundry/kablammo) - 
 - [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db playlist files from a list of youtube urls or youtube's .csv file.
