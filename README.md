@@ -1181,7 +1181,6 @@
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [fabianofranca/vscode-platformio](https://github.com/fabianofranca/vscode-platformio) - PlatformIO for Visual Studio Code
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
 - [rangle/augury](https://github.com/rangle/augury) - Angular Debugging and Visualization Tools
