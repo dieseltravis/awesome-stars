@@ -1134,7 +1134,7 @@
 - [satchelspencer/repsyps](https://github.com/satchelspencer/repsyps) - realtime playback and synchronization of periodic signals... or music
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
 - [dupontgu/clock_that_is_wrong](https://github.com/dupontgu/clock_that_is_wrong) - CircuitPython powered clock that shows the wrong time when it detects that someone is looking at it
-- [AAElectronics/ESP-360-REMOTE](https://github.com/AAElectronics/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
+- [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [nataliethenerd/picohatpad](https://github.com/nataliethenerd/picohatpad) - 
 - [Lartsch/FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
@@ -1389,7 +1389,6 @@
 - [ajdavis/proporti.onl](https://github.com/ajdavis/proporti.onl) - Compare number of women, men, and nonbinary people among my friends and followers.
 - [danasf/attiny_pixel_switch](https://github.com/danasf/attiny_pixel_switch) - WS2811/12 patterns for ATtiny85 + switch!
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
-- [fabianofranca/vscode-platformio](https://github.com/fabianofranca/vscode-platformio) - PlatformIO for Visual Studio Code
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [samuelcole/MarchBNB](https://github.com/samuelcole/MarchBNB) - Home sharing app for Marchers
 - [IdleHandsProject/esp_ornaments](https://github.com/IdleHandsProject/esp_ornaments) - The best way to spread Christmas cheer is to upload it to the internet!
