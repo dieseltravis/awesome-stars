@@ -791,7 +791,7 @@
 - [tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk) - KiCad library for tmk project
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [hyperion-project/hyperion.docs](https://github.com/hyperion-project/hyperion.docs) - The official documentation for Hyperion
-- [AAElectronics/ESP-360-REMOTE](https://github.com/AAElectronics/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
+- [ale1800/ESP-360-REMOTE](https://github.com/ale1800/ESP-360-REMOTE) - An all-in-one remote based on the ESP32-WROOM-32E
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [MLTSHP/Logo-and-Design-Assets](https://github.com/MLTSHP/Logo-and-Design-Assets) - Logo, buttons, profile pics and style guide for mltshp
 - [UberGuidoZ/Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - A collective of different IRs for the Flipper (maintained)
