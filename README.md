@@ -1143,6 +1143,7 @@
 
 ## TypeScript 
 
+- [RealFaviconGenerator/core](https://github.com/RealFaviconGenerator/core) - 
 - [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
 - [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
