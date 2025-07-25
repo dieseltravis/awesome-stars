@@ -71,7 +71,7 @@
 - [witnessmenow/ESP8266-IR-Remote-Example](https://github.com/witnessmenow/ESP8266-IR-Remote-Example) - 
 - [daterdots/LEDs](https://github.com/daterdots/LEDs) - A collection of projects having to do with addressable LEDs
 - [danasf/attiny_pixel_switch](https://github.com/danasf/attiny_pixel_switch) - WS2811/12 patterns for ATtiny85 + switch!
-- [IdleHandsProject/esp_ornaments](https://github.com/IdleHandsProject/esp_ornaments) - The best way to spread Christmas cheer is to upload it to the internet!
+- [idlehandsdev/esp_ornaments](https://github.com/idlehandsdev/esp_ornaments) - The best way to spread Christmas cheer is to upload it to the internet!
 - [makecademy/esp8266-battery](https://github.com/makecademy/esp8266-battery) - Code for the ESP8266 battery project
 - [kanflo/aaduino](https://github.com/kanflo/aaduino) - An AA sized ISM radio Arduino clone
 - [mibus/MibusArduino](https://github.com/mibus/MibusArduino) - My Arduino hacks
@@ -102,6 +102,7 @@
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
 - [GNOME/gnome-characters](https://github.com/GNOME/gnome-characters) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-characters
+- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [TheNitek/ESP32-Cheap-Yellow-Display](https://github.com/TheNitek/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [ImpulseAdventure/GUIslice-Builder](https://github.com/ImpulseAdventure/GUIslice-Builder) - Cross-platform drag & drop GUI builder for GUIslice
 - [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
@@ -222,7 +223,6 @@
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [SamuelMarks/libgourou](https://github.com/SamuelMarks/libgourou) - libgourou is a free implementation of Adobe's ADEPT protocol used to add DRM on ePub/PDF files… forked from https://indefero.soutade.fr/p/libgourou
 - [thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
-- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg and mp3 from sdcard.
 - [cheerlights/esp8266_neopixel_strip](https://github.com/cheerlights/esp8266_neopixel_strip) - This sketch periodically checks the CheerLights color that is stored in ThingSpeak channel 1417 and sets the color of each pixel of a WS2812-based NeoPixel strip.
 - [e2002/yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
