@@ -34,6 +34,7 @@
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [discord](#discord)
 - [docker](#docker)
@@ -316,6 +317,7 @@
 ## cli 
 
 - [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db playlist files from a list of youtube urls or youtube's .csv file.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [selfagency/mastodont](https://github.com/selfagency/mastodont) - CLI blocklist importer for Mastodon admins
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
@@ -403,6 +405,18 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
+
+## developer-tools 
+
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [htty/htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers.
 
 ## development 
 
@@ -1392,7 +1406,7 @@
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [samuelcole/MarchBNB](https://github.com/samuelcole/MarchBNB) - Home sharing app for Marchers
-- [IdleHandsProject/esp_ornaments](https://github.com/IdleHandsProject/esp_ornaments) - The best way to spread Christmas cheer is to upload it to the internet!
+- [idlehandsdev/esp_ornaments](https://github.com/idlehandsdev/esp_ornaments) - The best way to spread Christmas cheer is to upload it to the internet!
 - [neveragaindottech/neveragaindottech.github.io](https://github.com/neveragaindottech/neveragaindottech.github.io) - Source files for the neveragain.tech site
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [imposters-handbook/feedback](https://github.com/imposters-handbook/feedback) - General typos, issues, clarifications etc for The Imposter's Handbook
