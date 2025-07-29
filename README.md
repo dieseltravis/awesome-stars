@@ -64,7 +64,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [nesC](#nesc)
 
 ## Arduino 
 
@@ -101,6 +100,7 @@
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [mohoyt/lagom](https://github.com/mohoyt/lagom) - Lagom is an easy to build 65% keyboard using a discrete microcontroller and only through hole components
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
+- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [GNOME/gnome-characters](https://github.com/GNOME/gnome-characters) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-characters
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [TheNitek/ESP32-Cheap-Yellow-Display](https://github.com/TheNitek/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
@@ -1199,10 +1199,6 @@
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [MakerAsia/KBProIDE](https://github.com/MakerAsia/KBProIDE) - KB Pro IDE
-
-## nesC 
-
-- [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 
 
 ## License
