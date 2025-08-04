@@ -30,7 +30,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
@@ -671,10 +670,6 @@
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 
-## Jinja 
-
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
 ## Jupyter Notebook 
 
 - [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
@@ -969,6 +964,7 @@
 - [xtream1101/humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download your Humble Bundle Library
 - [acritelli/rucksack](https://github.com/acritelli/rucksack) - A place to store your useful one-liners
 - [pixray/pixray](https://github.com/pixray/pixray) - 
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [wntrblm/Big_Honking_Button](https://github.com/wntrblm/Big_Honking_Button) - A simple Eurorack sampler and performance module in a silly package.
 - [prgmatic/layerdisplay](https://github.com/prgmatic/layerdisplay) - Plugin for Octoprint that displays what layer a print job is on.
 - [cp2004/Octoprint-Upgrade-To-Py3](https://github.com/cp2004/Octoprint-Upgrade-To-Py3) - A script to move an existing OctoPrint install from Python 2 to Python 3
