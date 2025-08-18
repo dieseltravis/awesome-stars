@@ -352,6 +352,7 @@
 
 ## Elixir 
 
+- [jfro/fuzzy_catalog](https://github.com/jfro/fuzzy_catalog) - Attempt at a book and maybe more cataloging web application
 - [rocdev-foundation/rocdev](https://github.com/rocdev-foundation/rocdev) - RocDev site
 
 ## Elm 
