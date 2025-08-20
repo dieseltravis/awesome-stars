@@ -158,7 +158,6 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -982,6 +981,7 @@
 
 ## others 
 
+- [jfro/fuzzy_catalog](https://github.com/jfro/fuzzy_catalog) - Attempt at a book and maybe more cataloging web application
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
 - [RealFaviconGenerator/core](https://github.com/RealFaviconGenerator/core) - 
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
@@ -1000,7 +1000,7 @@
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Prometheus and Grafana (Dashboards included)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
-- [ashtf8/EinkPDA](https://github.com/ashtf8/EinkPDA) - An E-Ink PDA device using the ESP32 S3.
+- [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -1983,14 +1983,6 @@
 ## xml 
 
 - [bojanbjelic/xml2json](https://github.com/bojanbjelic/xml2json) - Xml To Json
-
-## zsh 
-
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 
 
 ## License
