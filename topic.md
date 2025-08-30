@@ -1220,7 +1220,6 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [nullbitsco/nibble](https://github.com/nullbitsco/nibble) - QMK firmware files for NIBBLE keyboard
 - [Minecatr/nibble-zmk-config](https://github.com/Minecatr/nibble-zmk-config) - 
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [adafruit/Adafruit_CAD_Parts](https://github.com/adafruit/Adafruit_CAD_Parts) - CAD files for various boards, components and parts
 - [nullbitsco/docs](https://github.com/nullbitsco/docs) - Online documentation (build guides, user manuals, etc) for nullbits products.
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
@@ -1747,6 +1746,7 @@
 ## qt 
 
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 ## rails 
 
