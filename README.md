@@ -614,7 +614,7 @@
 - [stefanjudis/credits-cli](https://github.com/stefanjudis/credits-cli) - Find out on whose work your project is based on
 - [ericwbailey/millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people) - 🐍 Chrome extension that replaces occurrences of 'Millennials' with 'Snake People'
 - [getify/stable-timers](https://github.com/getify/stable-timers) - timers with less race conditions
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [jeyoder/StuffInSpace](https://github.com/jeyoder/StuffInSpace) - A real-time interactive WebGL visualisation of objects in Earth orbit
 - [jquery-archive/css-chassis](https://github.com/jquery-archive/css-chassis) - An attempt at creating an open standard for both CSS and JavaScript UI libraries.
 - [hhroc/yellr-server](https://github.com/hhroc/yellr-server) - Server for yellr project
