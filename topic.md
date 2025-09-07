@@ -316,7 +316,7 @@
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 
 ## cli 
 
@@ -783,7 +783,7 @@
 - [timoxley/npm-run](https://github.com/timoxley/npm-run) - Run locally-installed node module executables.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ericwbailey/millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people) - 🐍 Chrome extension that replaces occurrences of 'Millennials' with 'Snake People'
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -1693,7 +1693,7 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [coollabsio/fonts](https://github.com/coollabsio/fonts) - A privacy-friendly drop-in replacement for Google Fonts
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 
 ## productivity 
 
