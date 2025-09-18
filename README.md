@@ -416,7 +416,7 @@
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [dieseltravis/aoc2019](https://github.com/dieseltravis/aoc2019) - javascript 🎄 Advent of Code 2019 using 🎏 Glitch 🎏
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [witnessmenow/ESP32-Trinity](https://github.com/witnessmenow/ESP32-Trinity) - An Open Source ESP32 board for connecting to HUB75 Matrix Panels
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [ssbc/scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
@@ -454,6 +454,7 @@
 
 ## Java 
 
+- [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
@@ -1020,6 +1021,7 @@
 
 ## Ruby 
 
+- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
