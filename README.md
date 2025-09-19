@@ -384,7 +384,7 @@
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1147,6 +1147,7 @@
 
 ## TypeScript 
 
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [RealFaviconGenerator/core](https://github.com/RealFaviconGenerator/core) - 
 - [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
 - [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
