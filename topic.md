@@ -160,6 +160,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -652,7 +653,6 @@
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 - [adafruit/Adafruit_CircuitPython_SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_SSD1306) - Adafruit CircuitPython framebuf driver for SSD1306 or SSD1305 OLED displays. Not for use with displayio. See README.
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [adafruit/Adafruit_CircuitPython_seesaw](https://github.com/adafruit/Adafruit_CircuitPython_seesaw) - seesaw helper IC driver for circuitPython
@@ -1206,7 +1206,7 @@
 - [V0lk3n/Flipper-Skylanders](https://github.com/V0lk3n/Flipper-Skylanders) - This repo will mainly containt generated keys of Skylanders toys to be used with Flipper Zero.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [AyrA/ZipBomb](https://github.com/AyrA/ZipBomb) - About an old technology that still screws up some anti virus software
 - [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [fcazalet/godot-version-management](https://github.com/fcazalet/godot-version-management) - This addon is for developpers that want a centralized place for version naming / build number and then display it in game.
@@ -1990,7 +1990,7 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
@@ -2008,6 +2008,14 @@
 ## xml 
 
 - [bojanbjelic/xml2json](https://github.com/bojanbjelic/xml2json) - Xml To Json
+
+## zsh 
+
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 
 
 ## License
