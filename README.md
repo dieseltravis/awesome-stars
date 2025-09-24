@@ -408,7 +408,6 @@
 
 ## HTML 
 
-- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [pickles4evaaaa/mybibliotheca](https://github.com/pickles4evaaaa/mybibliotheca) - Track your reading habits, log books, and visualize your library—all in your own space.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
@@ -744,6 +743,7 @@
 
 ## Others 
 
+- [Floppy/plan-vert-letter](https://github.com/Floppy/plan-vert-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
@@ -1022,6 +1022,7 @@
 
 ## Ruby 
 
+- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
