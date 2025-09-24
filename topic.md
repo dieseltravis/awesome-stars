@@ -996,6 +996,7 @@
 
 ## others 
 
+- [Floppy/plan-vert-letter](https://github.com/Floppy/plan-vert-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [jfro/fuzzy_catalog](https://github.com/jfro/fuzzy_catalog) - Attempt at a book and maybe more cataloging web application
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
