@@ -743,7 +743,7 @@
 
 ## Others 
 
-- [Floppy/plan-vert-letter](https://github.com/Floppy/plan-vert-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
+- [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
