@@ -24,6 +24,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
@@ -342,6 +343,12 @@
 ## clojure 
 
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## compiler 
 
@@ -996,7 +1003,7 @@
 
 ## others 
 
-- [Floppy/plan-vert-letter](https://github.com/Floppy/plan-vert-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
+- [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [jfro/fuzzy_catalog](https://github.com/jfro/fuzzy_catalog) - Attempt at a book and maybe more cataloging web application
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
