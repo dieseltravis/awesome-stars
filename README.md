@@ -743,6 +743,7 @@
 
 ## Others 
 
+- [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
@@ -1096,6 +1097,7 @@
 
 ## Shell 
 
+- [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
