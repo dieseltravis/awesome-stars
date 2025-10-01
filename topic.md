@@ -1005,6 +1005,8 @@
 
 ## others 
 
+- [simple-registry/simple-registry](https://github.com/simple-registry/simple-registry) - A fully OCI-compliant and Docker-compatible container registry
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
 - [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
