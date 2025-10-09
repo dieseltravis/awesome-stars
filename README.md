@@ -912,6 +912,7 @@
 
 ## Python 
 
+- [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [adafruit/Adafruit_nRF52_nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil) - Modified version of Nordic's nrfutil 0.5.x for use with the Adafruit Feather nRF52
