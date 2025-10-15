@@ -1155,6 +1155,7 @@
 
 ## TypeScript 
 
+- [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [RealFaviconGenerator/core](https://github.com/RealFaviconGenerator/core) - 
 - [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
