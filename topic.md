@@ -1011,8 +1011,9 @@
 
 ## others 
 
+- [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90-Q90-Q20 and third party handheld consoles
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
-- [simple-registry/simple-registry](https://github.com/simple-registry/simple-registry) - A fully OCI-compliant and Docker-compatible container registry
+- [simple-registry/simple-registry](https://github.com/simple-registry/simple-registry) - An OCI-compliant and Docker-compatible container registry.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
@@ -1813,6 +1814,7 @@
 
 ## reactjs 
 
+- [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 
 ## rest-api 
@@ -1933,6 +1935,7 @@
 
 ## typescript 
 
+- [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [LongTengDao/j-toml](https://github.com/LongTengDao/j-toml) - A Node.js implementation of TOML written by LongTengDao. Belong to "Plan J".／龙腾道为汤小明语写的 Node.js 实现。从属于“简计划”。
@@ -2006,6 +2009,7 @@
 
 ## windows 
 
+- [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [simple-acme/simple-acme](https://github.com/simple-acme/simple-acme) - A simple cross platform ACME client (for use with Let's Encrypt et al.)
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
