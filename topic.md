@@ -555,6 +555,7 @@
 
 ## framework 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [FrameworkComputer/Framework-Laptop-13](https://github.com/FrameworkComputer/Framework-Laptop-13) - Documentation for the Mainboard and other modules in the Framework Laptop 13
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [maxbeier/tawian-frontend](https://github.com/maxbeier/tawian-frontend) - A markdowny CSS framework
@@ -998,6 +999,7 @@
 
 ## open-source 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated allsky camera
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 
@@ -1192,7 +1194,7 @@
 - [egladman/keebs.pretty](https://github.com/egladman/keebs.pretty) - KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers
 - [tmk/keyboard_parts.pretty](https://github.com/tmk/keyboard_parts.pretty) - KiCad modules for keyboard design
 - [tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk) - KiCad library for tmk project
-- [ArdenButterfield/stammer](https://github.com/ArdenButterfield/stammer) - Recreate any audio track by rearranging the frames of another video
+- [Firepal/stammer](https://github.com/Firepal/stammer) - Recreate any audio track by rearranging the frames of another video
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [satchelspencer/repsyps](https://github.com/satchelspencer/repsyps) - realtime playback and synchronization of periodic signals... or music
@@ -1735,6 +1737,7 @@
 
 ## python 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1980,6 +1983,7 @@
 
 ## web 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
