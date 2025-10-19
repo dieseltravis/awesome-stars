@@ -913,6 +913,7 @@
 
 ## Python 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [meshtastic/python](https://github.com/meshtastic/python) - The Python CLI and API for talking to Meshtastic devices
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
@@ -947,7 +948,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [ArdenButterfield/stammer](https://github.com/ArdenButterfield/stammer) - Recreate any audio track by rearranging the frames of another video
+- [Firepal/stammer](https://github.com/Firepal/stammer) - Recreate any audio track by rearranging the frames of another video
 - [dupontgu/clock_that_is_wrong](https://github.com/dupontgu/clock_that_is_wrong) - CircuitPython powered clock that shows the wrong time when it detects that someone is looking at it
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [nataliethenerd/picohatpad](https://github.com/nataliethenerd/picohatpad) - 
