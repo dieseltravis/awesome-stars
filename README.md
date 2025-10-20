@@ -1030,7 +1030,7 @@
 
 ## Ruby 
 
-- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
+- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
