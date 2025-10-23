@@ -1013,6 +1013,8 @@
 
 ## others 
 
+- [mdias/rs_asio](https://github.com/mdias/rs_asio) - ASIO for Rocksmith 2014
+- [theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith) - Guides to get Rocksmith 2014 running on Linux
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90-Q90-Q20 and third party handheld consoles
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [simple-registry/simple-registry](https://github.com/simple-registry/simple-registry) - An OCI-compliant and Docker-compatible container registry.
