@@ -202,6 +202,7 @@
 
 ## C++ 
 
+- [mdias/rs_asio](https://github.com/mdias/rs_asio) - ASIO for Rocksmith 2014
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
@@ -1104,6 +1105,7 @@
 
 ## Shell 
 
+- [theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith) - Guides to get Rocksmith 2014 running on Linux
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
