@@ -215,7 +215,7 @@
 - [forkineye/ESPixelStick](https://github.com/forkineye/ESPixelStick) - Firmware for the ESPixelStick
 - [Sensirion/arduino-snippets](https://github.com/Sensirion/arduino-snippets) - Arduino code examples for raw sensor communication with many Sensirion sensors
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [ThingPulse/esp8266-weather-station](https://github.com/ThingPulse/esp8266-weather-station) - ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
@@ -485,6 +485,7 @@
 
 ## electron 
 
+- [catdad/svg-app-icon](https://github.com/catdad/svg-app-icon) - 🎨 create high-quality desktop icons from svg source
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -678,7 +679,7 @@
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [espruino/BangleApps](https://github.com/espruino/BangleApps) - Bangle.js App Loader (and Apps)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
