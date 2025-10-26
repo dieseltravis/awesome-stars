@@ -1032,6 +1032,7 @@
 
 ## Ruby 
 
+- [osx-cross/homebrew-avr](https://github.com/osx-cross/homebrew-avr) - Homebrew AVR Toolchain
 - [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
