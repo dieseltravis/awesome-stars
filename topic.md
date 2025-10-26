@@ -204,6 +204,7 @@
 
 ## arduino 
 
+- [osx-cross/homebrew-avr](https://github.com/osx-cross/homebrew-avr) - Homebrew AVR Toolchain
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
 - [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
@@ -703,6 +704,7 @@
 
 ## homebrew 
 
+- [osx-cross/homebrew-avr](https://github.com/osx-cross/homebrew-avr) - Homebrew AVR Toolchain
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 
 ## html 
