@@ -160,6 +160,7 @@
 
 ## C# # 
 
+- [dotnetrdf/dotnetrdf](https://github.com/dotnetrdf/dotnetrdf) - dotNetRDF is a powerful and flexible API for working with RDF and SPARQL in .NET environments
 - [simple-acme/simple-acme](https://github.com/simple-acme/simple-acme) - A simple cross platform ACME client (for use with Let's Encrypt et al.)
 - [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
 - [OpenRCT2/OpenLauncher](https://github.com/OpenRCT2/OpenLauncher) - Windows & Linux Launcher for OpenRCT2 and OpenLoco
