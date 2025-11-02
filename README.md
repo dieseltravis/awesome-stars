@@ -485,7 +485,7 @@
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [s427/MARL](https://github.com/s427/MARL) - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file
