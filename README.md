@@ -740,6 +740,7 @@
 
 ## OpenSCAD 
 
+- [brad112358/easy_E22](https://github.com/brad112358/easy_E22) - 
 - [FrameworkComputer/Framework-Desktop](https://github.com/FrameworkComputer/Framework-Desktop) - Documentation for the Mainboard and printable mechanical parts in the Framework Desktop
 - [hominoids/SBC_Case_Builder](https://github.com/hominoids/SBC_Case_Builder) - Autonomous SBC case generation using SBC Model Framework
 - [RaulBejarano/Ultimate-Toroidal-Propeller-Generator](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator) - The Ultimate Toroidal Propeller Generator is an open source project that provides a way to generate STL files of toroidal drone propellers.
@@ -918,6 +919,7 @@
 
 ## Python 
 
+- [oasis6212/Meshbot_weather](https://github.com/oasis6212/Meshbot_weather) - A full featured Meshtastic weather bot with alerts and forecast.  Designed to run on a Raspberry pi with a connected Meshtastic radio.
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements since the original repo has been inactive for years. Taking [Feature Requests]
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
