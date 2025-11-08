@@ -750,6 +750,7 @@
 
 ## Others 
 
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90-Q90-Q20 and third party handheld consoles
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
