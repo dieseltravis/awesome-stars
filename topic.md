@@ -1016,6 +1016,7 @@
 
 ## others 
 
+- [clegallic/MMM-GoogleDriveSlideShow](https://github.com/clegallic/MMM-GoogleDriveSlideShow) - Magic Mirror² Google Drive Photos Slideshow Module
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [oasis6212/Meshbot_weather](https://github.com/oasis6212/Meshbot_weather) - A full featured Meshtastic weather bot with alerts and forecast.  Designed to run on a Raspberry pi with a connected Meshtastic radio.
 - [brad112358/easy_E22](https://github.com/brad112358/easy_E22) - 
