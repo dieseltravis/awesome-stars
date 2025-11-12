@@ -85,7 +85,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [AyrA/ZipBomb](https://github.com/AyrA/ZipBomb) - About an old technology that still screws up some anti virus software
 - [nodemcu/nodemcu-devkit](https://github.com/nodemcu/nodemcu-devkit) - A development kit for NodeMCU firmware
 - [nhirata/flash-batch](https://github.com/nhirata/flash-batch) - Flash batch file for Windows
@@ -160,6 +160,7 @@
 
 ## C# # 
 
+- [jfcardinal/HtmlToXml](https://github.com/jfcardinal/HtmlToXml) - Utility class to convert HTML to XML, including recovery from unclosed tags.
 - [dotnetrdf/dotnetrdf](https://github.com/dotnetrdf/dotnetrdf) - dotNetRDF is a powerful and flexible API for working with RDF and SPARQL in .NET environments
 - [simple-acme/simple-acme](https://github.com/simple-acme/simple-acme) - A simple cross platform ACME client (for use with Let's Encrypt et al.)
 - [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
@@ -481,6 +482,7 @@
 
 ## JavaScript 
 
+- [skuethe/MMM-RandomPhoto](https://github.com/skuethe/MMM-RandomPhoto) - Show a random photo from an url.
 - [clegallic/MMM-GoogleDriveSlideShow](https://github.com/clegallic/MMM-GoogleDriveSlideShow) - Magic Mirror² Google Drive Photos Slideshow Module
 - [catdad/svg-app-icon](https://github.com/catdad/svg-app-icon) - 🎨 create high-quality desktop icons from svg source
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
