@@ -486,6 +486,7 @@
 - [clegallic/MMM-GoogleDriveSlideShow](https://github.com/clegallic/MMM-GoogleDriveSlideShow) - Magic Mirror² Google Drive Photos Slideshow Module
 - [catdad/svg-app-icon](https://github.com/catdad/svg-app-icon) - 🎨 create high-quality desktop icons from svg source
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
+- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
@@ -758,7 +759,7 @@
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [Plan-Vert/open-letter](https://github.com/Plan-Vert/open-letter) - An open letter calling for a hard fork of Rails to remove DHH's influence
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [positron48/robot](https://github.com/positron48/robot) - Project Caretaker - remote controlled robot. Models, board, readme.
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [anitwek/alternatives-to-us](https://github.com/anitwek/alternatives-to-us) - A curated list of non-U.S.-based alternatives to popular services, focusing on privacy and global accessibility.
@@ -1044,7 +1045,6 @@
 ## Ruby 
 
 - [osx-cross/homebrew-avr](https://github.com/osx-cross/homebrew-avr) - Homebrew AVR Toolchain
-- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [glitch-soc/mastodon](https://github.com/glitch-soc/mastodon) - A glitchy but lovable microblogging server
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
