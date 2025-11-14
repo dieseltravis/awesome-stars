@@ -239,7 +239,7 @@
 
 ## awesome 
 
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -256,7 +256,7 @@
 
 ## awesome-list 
 
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -478,7 +478,7 @@
 
 ## education 
 
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [mu-editor/mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -853,7 +853,7 @@
 
 ## learning 
 
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 
 ## linux 
 
@@ -2028,6 +2028,7 @@
 
 ## windows 
 
+- [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
