@@ -31,6 +31,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -689,6 +690,10 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations.
+
+## Just 
+
+- [astrovm/amyos](https://github.com/astrovm/amyos) - A custom Fedora Atomic image built on top of Bazzite
 
 ## KiCad Layout 
 
