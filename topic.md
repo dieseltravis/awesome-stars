@@ -1342,7 +1342,7 @@
 - [MrChromebox/SeaBIOS](https://github.com/MrChromebox/SeaBIOS) - 
 - [GalliumOS/galliumos-distro](https://github.com/GalliumOS/galliumos-distro) - Docs, issues, and artwork sources for GalliumOS
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [JosefJantzen/MMM-AlexaControl](https://github.com/JosefJantzen/MMM-AlexaControl) - Control your MagicMirror with Alexa
 - [sheyabernstein/MMM-connection-status](https://github.com/sheyabernstein/MMM-connection-status) - Display internet connection status for MagicMirror2
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
