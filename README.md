@@ -942,7 +942,7 @@
 - [NoSpiner/Freetube-import](https://github.com/NoSpiner/Freetube-import) - Creates Freetube .db playlist files from a list of youtube urls or youtube's .csv file.
 - [meshtastic/home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant Integration for Meshtastic
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
-- [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Prometheus and Grafana (Dashboards included)
+- [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Grafana (Dashboards included)
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
