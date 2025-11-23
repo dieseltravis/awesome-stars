@@ -58,6 +58,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
+- [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
@@ -576,6 +577,10 @@
 ## game-development 
 
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
+## game-engine 
+
+- [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
 
 ## gamedev 
 
