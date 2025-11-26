@@ -68,6 +68,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hackathon](#hackathon)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -658,12 +659,20 @@
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 
+## gui 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
+- [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+
 ## hackathon 
 
 - [platisd/hackathon-pcb-trophy](https://github.com/platisd/hackathon-pcb-trophy) - A cool trophy for the winners of your Hackathon
 
 ## hacktoberfest 
 
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
@@ -988,6 +997,7 @@
 
 ## nodejs 
 
+- [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [dieseltravis/aoc2022](https://github.com/dieseltravis/aoc2022) - javascript 🎄 Advent of Code 2022 using 🎏 Glitch 🎏
 - [beardicus/scrape-nws-alerts](https://github.com/beardicus/scrape-nws-alerts) - Scraping weather alerts from the US National Weather Service's XML feed
@@ -1003,6 +1013,7 @@
 
 ## npm 
 
+- [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
 - [LongTengDao/j-toml](https://github.com/LongTengDao/j-toml) - A Node.js implementation of TOML written by LongTengDao. Belong to "Plan J".／龙腾道为汤小明语写的 Node.js 实现。从属于“简计划”。
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [timoxley/npm-run](https://github.com/timoxley/npm-run) - Run locally-installed node module executables.
@@ -1023,6 +1034,7 @@
 
 ## others 
 
+- [colindembovsky/MMM-FolderPhotos](https://github.com/colindembovsky/MMM-FolderPhotos) - Display your photos on MagicMirror from Google Photos.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP
 - [jfcardinal/HtmlToXml](https://github.com/jfcardinal/HtmlToXml) - Utility class to convert HTML to XML, including recovery from unclosed tags.
