@@ -352,6 +352,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [open-eats/OpenEats](https://github.com/open-eats/OpenEats) - :pizza: Self Hosted Recipe Management App :hamburger:
 
 ## Eagle 
@@ -486,6 +487,7 @@
 
 ## JavaScript 
 
+- [colindembovsky/MMM-FolderPhotos](https://github.com/colindembovsky/MMM-FolderPhotos) - Display your photos on MagicMirror from Google Photos.
 - [skuethe/MMM-RandomPhoto](https://github.com/skuethe/MMM-RandomPhoto) - Show a random photo from an url.
 - [clegallic/MMM-GoogleDriveSlideShow](https://github.com/clegallic/MMM-GoogleDriveSlideShow) - Magic Mirror² Google Drive Photos Slideshow Module
 - [catdad/svg-app-icon](https://github.com/catdad/svg-app-icon) - 🎨 create high-quality desktop icons from svg source
@@ -1126,6 +1128,7 @@
 
 ## Shell 
 
+- [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
 - [theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith) - Guides to get Rocksmith 2014 running on Linux
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
