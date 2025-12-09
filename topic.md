@@ -1359,7 +1359,7 @@
 - [PaulKlinger/cnn_card](https://github.com/PaulKlinger/cnn_card) - Business card running / showing the internals of a CNN to classify 5x5 digits
 - [acarl005/generatorics](https://github.com/acarl005/generatorics) - An efficient combinatorics library for JavaScript utilizing ES2015 generators.
 - [Minord/AdventOfCode2020](https://github.com/Minord/AdventOfCode2020) - Solutions of Advent Of Code that are implemented in HTML, CSS, JS vanilla.
-- [romellem/advent-of-code](https://github.com/romellem/advent-of-code) - Collection of JS solutions for puzzles from adventofcode.com 🎁🎄
+- [romellem/advent-of-code](https://github.com/romellem/advent-of-code) - Collection of JS/TS solutions for puzzles from adventofcode.com 🎁🎄
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [BlitzCityDIY/partyParrotAdventures](https://github.com/BlitzCityDIY/partyParrotAdventures) - animating the party parrot gif as sprites with CircuitPython
 - [Spaatz965/MyPoSH](https://github.com/Spaatz965/MyPoSH) - 
