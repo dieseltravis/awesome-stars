@@ -551,7 +551,7 @@
 - [scriptype/sorted-colors](https://github.com/scriptype/sorted-colors) - A tool to sort the named CSS colors in a way that it shows related colors together
 - [acarl005/generatorics](https://github.com/acarl005/generatorics) - An efficient combinatorics library for JavaScript utilizing ES2015 generators.
 - [Minord/AdventOfCode2020](https://github.com/Minord/AdventOfCode2020) - Solutions of Advent Of Code that are implemented in HTML, CSS, JS vanilla.
-- [romellem/advent-of-code](https://github.com/romellem/advent-of-code) - Collection of JS solutions for puzzles from adventofcode.com 🎁🎄
+- [romellem/advent-of-code](https://github.com/romellem/advent-of-code) - Collection of JS/TS solutions for puzzles from adventofcode.com 🎁🎄
 - [mariotacke/advent-of-code-2019](https://github.com/mariotacke/advent-of-code-2019) - Advent of Code 2019 Submissions
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [entropic-dev/entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
