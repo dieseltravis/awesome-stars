@@ -246,7 +246,6 @@
 - [forkineye/ESPixelStick](https://github.com/forkineye/ESPixelStick) - Firmware for the ESPixelStick
 - [FundamentalFrequency/LMN-3-DAW](https://github.com/FundamentalFrequency/LMN-3-DAW) - LMN-3 DAW
 - [FundamentalFrequency/LMN-3-Emulator](https://github.com/FundamentalFrequency/LMN-3-Emulator) - LMN-3 MIDI Emulator
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [trailhead/teensy-beats](https://github.com/trailhead/teensy-beats) - Teensy Beats Shield
 - [BleuLlama/Scrollytroller](https://github.com/BleuLlama/Scrollytroller) - A crank-based controller for use with PlayDate's Pulp web player development tool
 - [Sensirion/arduino-snippets](https://github.com/Sensirion/arduino-snippets) - Arduino code examples for raw sensor communication with many Sensirion sensors
@@ -428,6 +427,7 @@
 - [dieseltravis/aoc2019](https://github.com/dieseltravis/aoc2019) - javascript 🎄 Advent of Code 2019 using 🎏 Glitch 🎏
 - [witnessmenow/ESP32-Trinity](https://github.com/witnessmenow/ESP32-Trinity) - An Open Source ESP32 board for connecting to HUB75 Matrix Panels
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [ssbc/scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [MLTSHP/mltshp-patterns](https://github.com/MLTSHP/mltshp-patterns) - Pattern Library for MLTSHP Apps
