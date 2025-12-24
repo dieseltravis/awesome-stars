@@ -1086,7 +1086,7 @@
 ## Rust 
 
 - [ThatAquarel/protovolt](https://github.com/ThatAquarel/protovolt) - A USB-C powered, mini lab power supply
-- [simple-registry/simple-registry](https://github.com/simple-registry/simple-registry) - An OCI-compliant and Docker-compatible container registry.
+- [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [Spagett1/pineflash](https://github.com/Spagett1/pineflash) - A tool to flash ironos to the pinecil soldering iron and possibly other pine64 devices in the future
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
