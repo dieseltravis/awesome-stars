@@ -1131,7 +1131,6 @@
 ## Shell 
 
 - [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
-- [theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith) - Guides to get Rocksmith 2014 running on Linux
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
