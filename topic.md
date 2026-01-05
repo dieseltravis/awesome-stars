@@ -1057,6 +1057,7 @@
 
 ## others 
 
+- [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
 - [ThatAquarel/protovolt](https://github.com/ThatAquarel/protovolt) - A USB-C powered, mini lab power supply
 - [colindembovsky/MMM-FolderPhotos](https://github.com/colindembovsky/MMM-FolderPhotos) - Display your photos on MagicMirror from Google Photos.
