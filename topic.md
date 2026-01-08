@@ -1057,6 +1057,7 @@
 
 ## others 
 
+- [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
