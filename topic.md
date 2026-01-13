@@ -152,6 +152,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -250,7 +251,7 @@
 
 ## awesome 
 
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -267,7 +268,7 @@
 
 ## awesome-list 
 
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
@@ -499,7 +500,7 @@
 
 ## education 
 
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [mu-editor/mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -888,7 +889,7 @@
 
 ## learning 
 
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 
 ## linux 
 
@@ -1604,7 +1605,6 @@
 - [TenetPartners/tenet-holiday-card-2015](https://github.com/TenetPartners/tenet-holiday-card-2015) - 
 - [TenetPartners/react-seed](https://github.com/TenetPartners/react-seed) - A test driven seed repo for React apps
 - [nhirata/flash-batch](https://github.com/nhirata/flash-batch) - Flash batch file for Windows
-- [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
 - [wesbos/React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
 - [electronoora/webaudio-mod-player](https://github.com/electronoora/webaudio-mod-player) - MOD/S3M/XM module player for Web Audio
 - [microsoft/DockerToolsDocs](https://github.com/microsoft/DockerToolsDocs) - Documentation for Docker Developer Tools
@@ -2015,6 +2015,11 @@
 ## ubuntu 
 
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
+
+## video 
+
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
 
 ## vim 
 
