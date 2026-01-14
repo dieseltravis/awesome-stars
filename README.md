@@ -95,6 +95,7 @@
 
 ## C 
 
+- [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - Moved to https://codeberg.org/DNS-OARC/dnsperf
@@ -902,7 +903,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 - [mhoye/Bespoke_IO](https://github.com/mhoye/Bespoke_IO) - 
-- [jquery/testswarm](https://github.com/jquery/testswarm) - Distributed continuous integration testing for JavaScript.
+- [jquery-archive/testswarm](https://github.com/jquery-archive/testswarm) - Distributed continuous integration testing for JavaScript.
 
 ## Pascal 
 
