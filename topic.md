@@ -994,6 +994,7 @@
 
 ## music 
 
+- [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
@@ -1733,7 +1734,7 @@
 - [restsharp/RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [henon/GitSharp](https://github.com/henon/GitSharp) - A Git implementation for .Net and Mono
 - [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
-- [jquery/testswarm](https://github.com/jquery/testswarm) - Distributed continuous integration testing for JavaScript.
+- [jquery-archive/testswarm](https://github.com/jquery-archive/testswarm) - Distributed continuous integration testing for JavaScript.
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 
@@ -1801,6 +1802,7 @@
 
 ## python 
 
+- [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
