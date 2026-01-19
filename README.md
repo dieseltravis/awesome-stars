@@ -75,7 +75,6 @@
 - [makecademy/esp8266-battery](https://github.com/makecademy/esp8266-battery) - Code for the ESP8266 battery project
 - [kanflo/aaduino](https://github.com/kanflo/aaduino) - An AA sized ISM radio Arduino clone
 - [mibus/MibusArduino](https://github.com/mibus/MibusArduino) - My Arduino hacks
-- [staceymakes/TweetHeart](https://github.com/staceymakes/TweetHeart) - Repo for basic Node script that uses the Twitter Streaming API and hits a sparkcore device
 
 ## Assembly 
 
@@ -631,7 +630,6 @@
 - [janjongboom/jsconf-asia](https://github.com/janjongboom/jsconf-asia) - Experiments for JSConf.asia
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 - [timoxley/npm-run](https://github.com/timoxley/npm-run) - Run locally-installed node module executables.
-- [staceymakes/project-oxford-webcam](https://github.com/staceymakes/project-oxford-webcam) - 
 - [TenetPartners/react-seed](https://github.com/TenetPartners/react-seed) - A test driven seed repo for React apps
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [wesbos/React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
