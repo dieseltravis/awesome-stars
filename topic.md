@@ -1060,6 +1060,8 @@
 
 ## others 
 
+- [EverydayErgo/MEH01](https://github.com/EverydayErgo/MEH01) - Drop in replacement encoder for EVQWGD001
+- [kumamuk-git/CKW12](https://github.com/kumamuk-git/CKW12) - 1U horizontal rotary encoder
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
