@@ -773,6 +773,8 @@
 
 ## Others 
 
+- [EverydayErgo/MEH01](https://github.com/EverydayErgo/MEH01) - Drop in replacement encoder for EVQWGD001
+- [kumamuk-git/CKW12](https://github.com/kumamuk-git/CKW12) - 1U horizontal rotary encoder
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [TriForceX/MiyooCFW](https://github.com/TriForceX/MiyooCFW) - Custom firmware source code and resources for BittBoy, PocketGo, PowKiddy V90-Q90-Q20 and third party handheld consoles
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
