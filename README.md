@@ -950,6 +950,7 @@
 
 ## Python 
 
+- [bennymeg/Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit) - An JLC PCB Fabrication Plugin for KiCad
 - [oasis6212/Meshbot_weather](https://github.com/oasis6212/Meshbot_weather) - A full featured Meshtastic weather bot with alerts and forecast.  Designed to run on a Raspberry pi with a connected Meshtastic radio.
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements since the original repo has been inactive for years. Taking [Feature Requests]
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
