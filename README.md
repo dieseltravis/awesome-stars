@@ -950,6 +950,7 @@
 
 ## Python 
 
+- [Bouni/kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools) - Plugin to generate BOM + CPL files for JLCPCB, assigning LCSC part numbers directly from the plugin, query the JLCPCB parts database, lookup datasheets and much more.
 - [mitxela/kicad-round-tracks](https://github.com/mitxela/kicad-round-tracks) - 
 - [bennymeg/Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit) - An JLC PCB Fabrication Plugin for KiCad
 - [oasis6212/Meshbot_weather](https://github.com/oasis6212/Meshbot_weather) - A full featured Meshtastic weather bot with alerts and forecast.  Designed to run on a Raspberry pi with a connected Meshtastic radio.
