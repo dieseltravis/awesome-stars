@@ -177,7 +177,7 @@
 - [paiden/Nett](https://github.com/paiden/Nett) - .Net library for TOML
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [hibernating-rhinos/rhino-etl](https://github.com/hibernating-rhinos/rhino-etl) - Developer friendly ETL Library for .NET
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [serilog/serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
