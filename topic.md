@@ -84,6 +84,7 @@
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -643,7 +644,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -662,7 +663,7 @@
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -813,6 +814,10 @@
 - [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
 - [witnessmenow/ESP8266-IR-Remote-Example](https://github.com/witnessmenow/ESP8266-IR-Remote-Example) - 
 
+## ipfs 
+
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+
 ## java 
 
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
@@ -937,7 +942,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## low-code 
 
@@ -1771,6 +1776,7 @@
 
 ## p2p 
 
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [cabal-club/cabal-core](https://github.com/cabal-club/cabal-core) - Core database and replication for cabal.
@@ -1804,6 +1810,7 @@
 
 ## privacy 
 
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
