@@ -310,6 +310,7 @@
 
 ## CSS 
 
+- [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [EthicalSource/hippocratic-license](https://github.com/EthicalSource/hippocratic-license) - An ethical license for open source.
@@ -499,6 +500,7 @@
 
 ## JavaScript 
 
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [netlify-labs/oauth-example](https://github.com/netlify-labs/oauth-example) - Example of how to use Netlify OAuth Applications
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
