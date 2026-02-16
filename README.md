@@ -495,6 +495,7 @@
 
 ## JavaScript 
 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat — your server, your rules. No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
@@ -619,7 +620,6 @@
 - [jsha/blocktogether](https://github.com/jsha/blocktogether) - Share your blocks and subscribe to others'
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [ofbusiness/yoda-search](https://github.com/ofbusiness/yoda-search) - Slack search bot. Because saving 7$ per user per month matters.
-- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
@@ -1254,6 +1254,7 @@
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
 - [rangle/augury](https://github.com/rangle/augury) - Angular Debugging and Visualization Tools
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
