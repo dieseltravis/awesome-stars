@@ -932,7 +932,6 @@
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [GaZaTu/im-emoji-picker](https://github.com/GaZaTu/im-emoji-picker) - emoji picker compatible with Linux systems using either XServer or Wayland with either Fcitx5 or IBus
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [revk/QR](https://github.com/revk/QR) - IEC18004 (QR) 2D barcode generation library and command line
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full-featured driver library for general-purpose MCU and Linux.
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -1100,6 +1099,7 @@
 
 ## others 
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
