@@ -1102,6 +1102,7 @@
 
 ## others 
 
+- [Zakwaykway/footprints-kicad-ergogen](https://github.com/Zakwaykway/footprints-kicad-ergogen) - 
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
