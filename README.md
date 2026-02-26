@@ -494,6 +494,7 @@
 
 ## JavaScript 
 
+- [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [Zakwaykway/footprints-kicad-ergogen](https://github.com/Zakwaykway/footprints-kicad-ergogen) - 
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
