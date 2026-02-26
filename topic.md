@@ -930,6 +930,7 @@
 
 ## linux 
 
+- [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [astrovm/amyos](https://github.com/astrovm/amyos) - A custom Fedora Atomic image built on top of Bazzite
 - [simple-acme/simple-acme](https://github.com/simple-acme/simple-acme) - A simple cross platform ACME client (for use with Let's Encrypt et al.)
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -1102,6 +1103,7 @@
 
 ## others 
 
+- [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to block website features that use Generative AI
 - [Zakwaykway/footprints-kicad-ergogen](https://github.com/Zakwaykway/footprints-kicad-ergogen) - 
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
@@ -2000,6 +2002,7 @@
 
 ## server 
 
+- [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [EvandroLG/pegasus.lua](https://github.com/EvandroLG/pegasus.lua) - :rocket: Pegasus.lua is an http server to work with web applications written in Lua language.
 
