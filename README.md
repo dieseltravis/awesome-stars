@@ -94,6 +94,7 @@
 
 ## C 
 
+- [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
@@ -1104,7 +1105,7 @@
 - [jgoz/vagrant-jekyll](https://github.com/jgoz/vagrant-jekyll) - Vagrant configuration & provisioning for jekyll projects
 - [mispy-archive/twitter_ebooks](https://github.com/mispy-archive/twitter_ebooks) - Better twitterbots for all your friends~
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [dieseltravis/Jekyll-S3](https://github.com/dieseltravis/Jekyll-S3) - This is a static site generator that incorporates best practices for web performance, such as versioning static assets, CSS minification, JS compilation, GZIP compression, and usage of a CDN for stati
 - [ebello/jekyll-perf](https://github.com/ebello/jekyll-perf) - A static site generator that incorporates best practices for web performance, such as versioning static assets, CSS minification, JS compilation, GZIP compression, and usage of a CDN for static assets
 - [htty/htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers.
