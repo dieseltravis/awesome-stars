@@ -1103,6 +1103,7 @@
 
 ## others 
 
+- [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to block website features that use Generative AI
@@ -1731,7 +1732,7 @@
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [malsup/cycle2](https://github.com/malsup/cycle2) - 2nd gen cycling
 - [shaniber/recipes](https://github.com/shaniber/recipes) - My Recipes
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [WhiteHouse/api-standards](https://github.com/WhiteHouse/api-standards) - 
 - [starfishmod/jquery-oembed-all](https://github.com/starfishmod/jquery-oembed-all) - A fork with improvements of the jquery-oembed project
 - [theonion/fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
