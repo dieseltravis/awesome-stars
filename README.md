@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -65,6 +66,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Adblock Filter List 
+
+- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to block website features that use Generative AI
 
 ## Arduino 
 
@@ -352,6 +357,7 @@
 
 ## Dart 
 
+- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 
@@ -441,6 +447,7 @@
 - [MLTSHP/mltshp-patterns](https://github.com/MLTSHP/mltshp-patterns) - Pattern Library for MLTSHP Apps
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 - [whatwg/urlpattern](https://github.com/whatwg/urlpattern) - URL Pattern Standard
+- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [wishlephant/wishlephant-extension](https://github.com/wishlephant/wishlephant-extension) - A browser extension for wishlephant
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
@@ -570,7 +577,6 @@
 - [Minord/AdventOfCode2020](https://github.com/Minord/AdventOfCode2020) - Solutions of Advent Of Code that are implemented in HTML, CSS, JS vanilla.
 - [romellem/advent-of-code](https://github.com/romellem/advent-of-code) - Collection of JS/TS solutions for puzzles from adventofcode.com 🎁🎄
 - [mariotacke/advent-of-code-2019](https://github.com/mariotacke/advent-of-code-2019) - Advent of Code 2019 Submissions
-- [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [entropic-dev/entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
 - [hermanho/MMM-GooglePhotos](https://github.com/hermanho/MMM-GooglePhotos) - Display your photos on MagicMirror from Google Photos.
 - [JosefJantzen/MMM-AlexaControl](https://github.com/JosefJantzen/MMM-AlexaControl) - Control your MagicMirror with Alexa
@@ -727,6 +733,7 @@
 
 ## Kotlin 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [thomasboyt/jam-buds](https://github.com/thomasboyt/jam-buds) - come on and share this jam with me
@@ -785,7 +792,6 @@
 
 ## Others 
 
-- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to block website features that use Generative AI
 - [EverydayErgo/MEH01](https://github.com/EverydayErgo/MEH01) - Drop in replacement encoder for EVQWGD001
 - [kumamuk-git/CKW12](https://github.com/kumamuk-git/CKW12) - 1U horizontal rotary encoder
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
