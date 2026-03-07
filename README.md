@@ -481,7 +481,7 @@
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
@@ -635,7 +635,6 @@
 - [HuddleEng/PhantomCSS](https://github.com/HuddleEng/PhantomCSS) - Visual/CSS regression testing with PhantomJS
 - [bojanbjelic/xml2json](https://github.com/bojanbjelic/xml2json) - Xml To Json
 - [kolodny/wavy](https://github.com/kolodny/wavy) - use ~ in require and import calls
-- [Gamadril/hyperion-remote](https://github.com/Gamadril/hyperion-remote) - Client side app for controlling the hyperion server
 - [dphiffer/flickr-cc](https://github.com/dphiffer/flickr-cc) - A minimal Flickr search utility for Creative Commons, Public Domain, US Government Work, and "no known copyright" photos.
 - [edlea/DesktopAMP](https://github.com/edlea/DesktopAMP) - Safari and Chrome extensions to load the AMP version of  webpages if available
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
