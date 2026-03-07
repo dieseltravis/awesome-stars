@@ -1174,7 +1174,7 @@
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [anitwek/alternatives-to-us](https://github.com/anitwek/alternatives-to-us) - A curated list of non-U.S.-based alternatives to popular services, focusing on privacy and global accessibility.
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [SensorsIot/Autodetecting-boards](https://github.com/SensorsIot/Autodetecting-boards) - 
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
@@ -1612,7 +1612,6 @@
 - [kolodny/wavy](https://github.com/kolodny/wavy) - use ~ in require and import calls
 - [adafruit/LED-Ampli-Tie-with-Flora](https://github.com/adafruit/LED-Ampli-Tie-with-Flora) - LED Ampli-Tie with Flora
 - [OpenELEC/OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv) - OpenELEC - The living room PC for everyone
-- [Gamadril/hyperion-remote](https://github.com/Gamadril/hyperion-remote) - Client side app for controlling the hyperion server
 - [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 - [hyperion-project/hyperion](https://github.com/hyperion-project/hyperion) - Hyperion is an open source ambient light software. Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/
 - [gregtinkers/carspeed.py](https://github.com/gregtinkers/carspeed.py) - Record the speed of cars passing in front of the Raspberry Pi Picamera
