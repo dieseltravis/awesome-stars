@@ -70,7 +70,7 @@
 
 ## Adblock Filter List 
 
-- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to block website features that use Generative AI
+- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to hide website features that use Generative AI
 
 ## Arduino 
 
