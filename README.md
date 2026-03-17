@@ -482,7 +482,6 @@
 
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
 - [wiglenet/wigle-wifi-wardriving](https://github.com/wiglenet/wigle-wifi-wardriving) - Nethugging client for Android, from wigle.net
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
