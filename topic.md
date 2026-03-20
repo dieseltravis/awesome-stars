@@ -1115,6 +1115,7 @@
 
 ## others 
 
+- [JamesW75/visual-studio-project-type-guid](https://github.com/JamesW75/visual-studio-project-type-guid) - List of the Project Type Guids in Visual Studio
 - [maltman23/TV-B-Gone-kit_V2](https://github.com/maltman23/TV-B-Gone-kit_V2) - TV-B-Gone kit V2
 - [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
