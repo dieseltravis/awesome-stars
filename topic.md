@@ -1115,6 +1115,8 @@
 
 ## others 
 
+- [iamkirkbater/mealie-markdown-exporter](https://github.com/iamkirkbater/mealie-markdown-exporter) - A CLI tool to export mealie recipes to markdown
+- [Harmony-Messenger/Harmony-Frontend](https://github.com/Harmony-Messenger/Harmony-Frontend) - A self-hosted, open-source messaging platform with text, voice, and screen sharing.
 - [JamesW75/visual-studio-project-type-guid](https://github.com/JamesW75/visual-studio-project-type-guid) - List of the Project Type Guids in Visual Studio
 - [maltman23/TV-B-Gone-kit_V2](https://github.com/maltman23/TV-B-Gone-kit_V2) - TV-B-Gone kit V2
 - [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
