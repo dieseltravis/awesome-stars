@@ -428,7 +428,7 @@
 - [scriptype/sorted-colors](https://github.com/scriptype/sorted-colors) - A tool to sort the named CSS colors in a way that it shows related colors together
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
@@ -1123,7 +1123,7 @@
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to hide website features that use Generative AI
-- [Zakwaykway/footprints-kicad-ergogen](https://github.com/Zakwaykway/footprints-kicad-ergogen) - 
+- [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
@@ -1947,7 +1947,7 @@
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
