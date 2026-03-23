@@ -507,7 +507,7 @@
 ## JavaScript 
 
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
-- [Zakwaykway/footprints-kicad-ergogen](https://github.com/Zakwaykway/footprints-kicad-ergogen) - 
+- [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat — No cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -1270,7 +1270,7 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
