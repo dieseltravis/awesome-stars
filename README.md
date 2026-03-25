@@ -794,6 +794,7 @@
 
 ## Others 
 
+- [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
 - [JamesW75/visual-studio-project-type-guid](https://github.com/JamesW75/visual-studio-project-type-guid) - List of the Project Type Guids in Visual Studio
 - [EverydayErgo/MEH01](https://github.com/EverydayErgo/MEH01) - Drop in replacement encoder for EVQWGD001
 - [kumamuk-git/CKW12](https://github.com/kumamuk-git/CKW12) - 1U horizontal rotary encoder
@@ -993,6 +994,7 @@
 - [MLTSHP/best-of-mltshp-bot](https://github.com/MLTSHP/best-of-mltshp-bot) - Posts new feed items to Mastodon
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
+- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [LedFx/LedFx](https://github.com/LedFx/LedFx) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [crides/kleeb](https://github.com/crides/kleeb) - Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation
@@ -1184,7 +1186,6 @@
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [labtroll/PCB-Design-Limits](https://github.com/labtroll/PCB-Design-Limits) - A set of PCB designs that shows off the real-world limits for manufacturing capabilities including silkscreen and copper line and text sizes
-- [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
