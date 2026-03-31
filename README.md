@@ -70,7 +70,7 @@
 
 ## Adblock Filter List 
 
-- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to hide website features that use Generative AI.
+- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to hide website features that use or promote Generative AI.
 
 ## Arduino 
 
@@ -411,6 +411,7 @@
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -519,7 +520,7 @@
 - [clegallic/MMM-GoogleDriveSlideShow](https://github.com/clegallic/MMM-GoogleDriveSlideShow) - Magic Mirror² Google Drive Photos Slideshow Module
 - [catdad/svg-app-icon](https://github.com/catdad/svg-app-icon) - 🎨 create high-quality desktop icons from svg source
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether.
+- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic & Meshcore node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
@@ -999,7 +1000,6 @@
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [crides/kleeb](https://github.com/crides/kleeb) - Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation
 - [productize/kicad-automation-scripts](https://github.com/productize/kicad-automation-scripts) - A bunch of scripts to automate KiCad processes
-- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [tronikos/opower](https://github.com/tronikos/opower) - A Python library for getting historical and forecasted usage/cost from utilities that use opower.com such as PG&E
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
