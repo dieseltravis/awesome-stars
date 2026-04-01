@@ -1124,7 +1124,7 @@
 - [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
-- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - Filter list for uBlock Origin to hide website features that use or promote Generative AI.
+- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - A filter list for uBlock Origin that hides specific website features that use or promote Generative AI.
 - [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
@@ -1204,7 +1204,7 @@
 - [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid) - in case I forget one
 - [OpenRCT2/OpenLauncher](https://github.com/OpenRCT2/OpenLauncher) - Windows & Linux Launcher for OpenRCT2 and OpenLoco
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
-- [NordicSemiconductor/Android-nRF-Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
+- [nordicsemi/Android-nRF-Connect](https://github.com/nordicsemi/Android-nRF-Connect) - Documentation and issue tracker for nRF Connect for Android.
 - [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
