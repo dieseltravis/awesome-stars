@@ -1129,6 +1129,7 @@
 
 ## Rust 
 
+- [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [ThatAquarel/protovolt](https://github.com/ThatAquarel/protovolt) - A USB-C powered, mini lab power supply
 - [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
