@@ -1116,6 +1116,7 @@
 
 ## others 
 
+- [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
 - [digisamroc/eraser](https://github.com/digisamroc/eraser) - Free, open-source data broker removal tool. Send GDPR/CCPA removal requests to 750+ data brokers automatically.
 - [iamkirkbater/mealie-markdown-exporter](https://github.com/iamkirkbater/mealie-markdown-exporter) - A CLI tool to export mealie recipes to markdown
 - [Harmony-Messenger/Harmony-Frontend](https://github.com/Harmony-Messenger/Harmony-Frontend) - A self-hosted, open-source messaging platform with text, voice, and screen sharing.
