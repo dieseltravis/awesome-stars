@@ -53,6 +53,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -571,6 +572,33 @@
 
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+## esp32 
+
+- [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
+- [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [kylemanna/sniffer](https://github.com/kylemanna/sniffer) - ESP32 Air Quality Sensor with PMSA003 + BME680 and 1.14" LCD
+- [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
+- [thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
+- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
+- [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3 and flac from sdcard.
+- [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
+- [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
+- [schreibfaul1/ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) - With this library You can easily build a WebRadio with a ESP32 board and a mp3-module.  See: https://www.youtube.com/watch?v=u4u9NvZvWRk
+- [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
+- [PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [dieseltravis/circuitpython-projects](https://github.com/dieseltravis/circuitpython-projects) - a collection of small projects for various circuitpython boards
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
+- [sparkfun/ESP32_Thing](https://github.com/sparkfun/ESP32_Thing) - Development platform for the Espressif ESP32 WiFi/Microcontroller SoC
+- [bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟 JSON library for Arduino and embedded C++. Simple and efficient.
+- [nkolban/ESP32_BLE_Arduino](https://github.com/nkolban/ESP32_BLE_Arduino) - The library source for the ESP32 BLE support for Arduino.
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
+- [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 
 ## facebook 
 
@@ -1209,12 +1237,10 @@
 - [meshtastic/framework-portduino](https://github.com/meshtastic/framework-portduino) - An Arduino API that sits on top of Linux and other operating systems.  This lets you run Arduino code on Raspberry PI, desktops, etc... All as a standard user-space application.
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera models
 - [voidptr/evolight](https://github.com/voidptr/evolight) - An evolutionary algorithm in Python and Curses that smooths color gradients. Precursor to a physical object with similar properties.
 - [bpc-clone/bpc_firefox_support](https://github.com/bpc-clone/bpc_firefox_support) - 
 - [3DprintFIT/netfabb-basic-download](https://github.com/3DprintFIT/netfabb-basic-download) - Unofficial Netfabb Basic and/or Netfabb Free download archive
-- [kylemanna/sniffer](https://github.com/kylemanna/sniffer) - ESP32 Air Quality Sensor with PMSA003 + BME680 and 1.14" LCD
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [therzka/spell-with-emojis-raycast](https://github.com/therzka/spell-with-emojis-raycast) - a Raycast extension for converting text into slack emojis
 - [crashworks3d/Iron_Man_Servo](https://github.com/crashworks3d/Iron_Man_Servo) - 
@@ -1229,7 +1255,6 @@
 - [infused-kim/kb_ergogen_fp](https://github.com/infused-kim/kb_ergogen_fp) - Keyboard footprints for ergogen
 - [OUTOFDARTSSHOP/Rival-Juno-Blaster](https://github.com/OUTOFDARTSSHOP/Rival-Juno-Blaster) - Files for the Juno from Out of Darts.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
-- [srg74/WLED-wemos-shield](https://github.com/srg74/WLED-wemos-shield) - Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware
 - [rschenk/tern](https://github.com/rschenk/tern) - 30-key hot swap keyboard based on the Hummingbird
 - [CFenner/MMM-AirQuality](https://github.com/CFenner/MMM-AirQuality) - A module for the MagicMirror to display a location's air quality index.
 - [nigel-daniels/MMM-AirNow](https://github.com/nigel-daniels/MMM-AirNow) - MagicMirror 2 module to show air quality based on the US AirNow API.
@@ -1282,12 +1307,9 @@
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [SamuelMarks/libgourou](https://github.com/SamuelMarks/libgourou) - libgourou is a free implementation of Adobe's ADEPT protocol used to add DRM on ePub/PDF files… forked from https://indefero.soutade.fr/p/libgourou
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
-- [thelastoutpostworkshop/gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
 - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident) - Voron Trident CoreXY 3D Printer design
 - [gjashley/CYD-ESPHome-Sensors](https://github.com/gjashley/CYD-ESPHome-Sensors) - Sample ESPHome YAML for CYD with BME680, PMSA003i i2c sensors and SH1106 i2c display
-- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-- [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3 and flac from sdcard.
 - [RCayre/mirage](https://github.com/RCayre/mirage) - Mirage is a powerful and modular framework dedicated to the security analysis of wireless communications.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [wz2b/micropython-layered-neopixels](https://github.com/wz2b/micropython-layered-neopixels) - 
@@ -1298,13 +1320,11 @@
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
 - [e2002/yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
 - [brainsmoke/svgconvert](https://github.com/brainsmoke/svgconvert) - Convert SVGs to kicad modules/zones
-- [karawin/Ka-Radio32](https://github.com/karawin/Ka-Radio32) - esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix
 - [karawin/Ka-Radio](https://github.com/karawin/Ka-Radio) - A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix
 - [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries) - SparkFun's KiCad Libraries
 - [durasj/webamp-desktop](https://github.com/durasj/webamp-desktop) - Experimental cross-platform (Win, Mac, Linux) desktop version of Winamp 2.9 reimplementation - Webamp
 - [witnessmenow/Spotify-Diy-Thing](https://github.com/witnessmenow/Spotify-Diy-Thing) - Something similar to the Spotify Car Thing, built with a cheap ESP32 Screen
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
-- [baldram/ESP_VS1053_Library](https://github.com/baldram/ESP_VS1053_Library) - A library for VS1053 MP3 Codec Breakout adapted for Espressif ESP8266 and ESP32 boards.
 - [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
@@ -1350,7 +1370,6 @@
 - [dieseltravis/esp32-projects](https://github.com/dieseltravis/esp32-projects) - arduino projects for esp32 based boards
 - [dieseltravis/esp8266-projects](https://github.com/dieseltravis/esp8266-projects) - collection of projects that I used the esp8266 for
 - [dieseltravis/portable-air-logger](https://github.com/dieseltravis/portable-air-logger) - logging CO2, VOC, temperature, and humidity with an RP2040
-- [dieseltravis/circuitpython-projects](https://github.com/dieseltravis/circuitpython-projects) - a collection of small projects for various circuitpython boards
 - [dieseltravis/aoc2021](https://github.com/dieseltravis/aoc2021) - javascript 🎄 Advent of Code 2021 using 🎏 Glitch 🎏
 - [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
 - [Lynnesbian/mstdn-ebooks](https://github.com/Lynnesbian/mstdn-ebooks) - NO LONGER BEING UPDATED, NOT GUARANTEED TO WORK AT ALL
