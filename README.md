@@ -723,6 +723,7 @@
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
+- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations.
 
 ## Just 
@@ -1025,7 +1026,6 @@
 - [dieseltravis/circuitpython-projects](https://github.com/dieseltravis/circuitpython-projects) - a collection of small projects for various circuitpython boards
 - [Lynnesbian/mstdn-ebooks](https://github.com/Lynnesbian/mstdn-ebooks) - NO LONGER BEING UPDATED, NOT GUARANTEED TO WORK AT ALL
 - [Lynnesbian/OCRbot](https://github.com/Lynnesbian/OCRbot) - An OCR (Optical Character Recognition) bot for Mastodon (and compatible) instances
-- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.
 - [Jess3Jane/mastodon-ebooks](https://github.com/Jess3Jane/mastodon-ebooks) - 
 - [Lana-chan/mastodon-ebooks.py](https://github.com/Lana-chan/mastodon-ebooks.py) - Python ebooks-style bot for Mastodon
 - [KurzGedanke/whatTheDay](https://github.com/KurzGedanke/whatTheDay) - A mastodon bot which toots every 12 hours the current weekday, date and time.
