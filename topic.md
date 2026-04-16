@@ -1167,7 +1167,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
-- [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
+- [cfinke/EpsteOut](https://github.com/cfinke/EpsteOut) - See which of your LinkedIn connections appear in the Epstein files.
 - [mitxela/kicad-round-tracks](https://github.com/mitxela/kicad-round-tracks) - 
 - [bennymeg/Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit) - An JLC PCB Fabrication Plugin for KiCad
 - [EverydayErgo/MEH01](https://github.com/EverydayErgo/MEH01) - Drop in replacement encoder for EVQWGD001
