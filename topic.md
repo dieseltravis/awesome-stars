@@ -75,6 +75,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hackathon](#hackathon)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -748,6 +749,10 @@
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 
+## hack 
+
+- [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias 
+
 ## hackathon 
 
 - [platisd/hackathon-pcb-trophy](https://github.com/platisd/hackathon-pcb-trophy) - A cool trophy for the winners of your Hackathon
@@ -1153,6 +1158,7 @@
 
 ## others 
 
+- [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
 - [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
 - [digisamroc/eraser](https://github.com/digisamroc/eraser) - Free, open-source data broker removal tool. Send GDPR/CCPA removal requests to 750+ data brokers automatically.
 - [iamkirkbater/mealie-markdown-exporter](https://github.com/iamkirkbater/mealie-markdown-exporter) - A CLI tool to export mealie recipes to markdown
@@ -2190,7 +2196,7 @@
 
 ## webapp 
 
-- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic & Meshcore node dashboard for your local community. No MQTT clutter, just local LoRa aether.
+- [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic AND Meshcore node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
 - [pfalcon/picoweb](https://github.com/pfalcon/picoweb) - Really minimal web application framework for the Pycopy project (minimalist Python dialect) and its "uasyncio" async framework
 
