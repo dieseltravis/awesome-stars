@@ -1158,6 +1158,7 @@
 
 ## others 
 
+- [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
 - [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
 - [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
 - [digisamroc/eraser](https://github.com/digisamroc/eraser) - Free, open-source data broker removal tool. Send GDPR/CCPA removal requests to 750+ data brokers automatically.
