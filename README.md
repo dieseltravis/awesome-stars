@@ -796,7 +796,7 @@
 
 ## Others 
 
-- [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
+- [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
 - [JamesW75/visual-studio-project-type-guid](https://github.com/JamesW75/visual-studio-project-type-guid) - List of the Project Type Guids in Visual Studio
 - [EverydayErgo/MEH01](https://github.com/EverydayErgo/MEH01) - Drop in replacement encoder for EVQWGD001
 - [kumamuk-git/CKW12](https://github.com/kumamuk-git/CKW12) - 1U horizontal rotary encoder
@@ -945,6 +945,7 @@
 
 ## PowerShell 
 
+- [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [jabberzac/gobsprogram](https://github.com/jabberzac/gobsprogram) - Gob's Program? Y/N
