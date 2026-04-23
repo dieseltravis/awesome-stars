@@ -1158,6 +1158,7 @@
 
 ## others 
 
+- [EnjoyDigital/Umbraco.Community.Schemeweaver](https://github.com/EnjoyDigital/Umbraco.Community.Schemeweaver) - Map Umbraco Content Types to Schema.org types and automatically generate JSON-LD structured data for your pages.
 - [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
 - [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
 - [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
