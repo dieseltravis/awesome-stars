@@ -170,6 +170,7 @@
 
 ## C# # 
 
+- [EnjoyDigital/Umbraco.Community.Schemeweaver](https://github.com/EnjoyDigital/Umbraco.Community.Schemeweaver) - Map Umbraco Content Types to Schema.org types and automatically generate JSON-LD structured data for your pages.
 - [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
 - [kleisauke/net-vips](https://github.com/kleisauke/net-vips) - .NET binding for libvips.
 - [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
@@ -778,7 +779,6 @@
 ## Nix 
 
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
-- [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm) - MagicMirror Package Manager
 
 ## OCaml 
 
@@ -1061,6 +1061,7 @@
 - [matejd/qt-youtube-dl](https://github.com/matejd/qt-youtube-dl) - Qt/C++ GUI frontend for the youtube-dl tool.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm) - MagicMirror Package Manager
 - [GetTogetherComm/GetTogether](https://github.com/GetTogetherComm/GetTogether) - Event manager for local community events
 - [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher) - Self-contained NodeMCU flasher with GUI based on esptool.py and wxPython.
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias 
