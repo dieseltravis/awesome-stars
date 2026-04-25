@@ -63,6 +63,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Stylus](#stylus)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -1227,6 +1228,10 @@
 
 - [lynnandtonic/airport-codes](https://github.com/lynnandtonic/airport-codes) - ✈️ Making sense of those three-letter airport codes.
 - [whyaz/whyaz](https://github.com/whyaz/whyaz) - 🌵Reasons to love Arizona
+
+## Svelte 
+
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform — Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.
 
 ## Swift 
 
