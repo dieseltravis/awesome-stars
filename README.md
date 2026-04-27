@@ -361,6 +361,7 @@
 
 ## Dart 
 
+- [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) - Open-source Flutter client for MeshCore LoRa mesh networking devices
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -526,7 +527,7 @@
 - [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic AND Meshcore node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to whatever engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [s427/MARL](https://github.com/s427/MARL) - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file
