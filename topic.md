@@ -37,6 +37,9 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data-analysis](#data-analysis)
+- [data-science](#data-science)
+- [data-visualization](#data-visualization)
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [development](#development)
@@ -464,6 +467,18 @@
 
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 
+## data-analysis 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+
+## data-science 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+
+## data-visualization 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+
 ## design 
 
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -475,6 +490,7 @@
 ## developer-tools 
 
 - [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -950,7 +966,7 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to whatever engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
 - [mariotacke/advent-of-code-2019](https://github.com/mariotacke/advent-of-code-2019) - Advent of Code 2019 Submissions
 - [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018) - Advent of Code 2018 Submissions
 
@@ -1167,6 +1183,7 @@
 
 ## others 
 
+- [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) - Open-source Flutter client for MeshCore LoRa mesh networking devices
 - [EnjoyDigital/Umbraco.Community.Schemeweaver](https://github.com/EnjoyDigital/Umbraco.Community.Schemeweaver) - Map Umbraco Content Types to Schema.org types and automatically generate JSON-LD structured data for your pages.
 - [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
 - [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
@@ -2209,7 +2226,6 @@
 
 ## web 
 
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
@@ -2225,6 +2241,7 @@
 
 ## webapp 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [l5yth/potato-mesh](https://github.com/l5yth/potato-mesh) - A federated, Meshtastic AND Meshcore node dashboard for your local community. No MQTT clutter, just local LoRa aether.
 - [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
 - [pfalcon/picoweb](https://github.com/pfalcon/picoweb) - Really minimal web application framework for the Pycopy project (minimalist Python dialect) and its "uasyncio" async framework
