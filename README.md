@@ -289,7 +289,7 @@
 - [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
 - [wemos/WEMOS_SHT3x_Arduino_Library](https://github.com/wemos/WEMOS_SHT3x_Arduino_Library) - 
 - [nkolban/ESP32_BLE_Arduino](https://github.com/nkolban/ESP32_BLE_Arduino) - The library source for the ESP32 BLE support for Arduino.
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 - [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
 - [0xPIT/encoder](https://github.com/0xPIT/encoder) - Atmel AVR C++ RotaryEncoder Implementation
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
