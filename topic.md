@@ -13,6 +13,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
+- [aspnet](#aspnet)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -263,6 +264,10 @@
 - [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) - Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
 - [witnessmenow/ESP8266-IR-Remote-Example](https://github.com/witnessmenow/ESP8266-IR-Remote-Example) - 
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
+
+## aspnet 
+
+- [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) - The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing
 
 ## automation 
 
@@ -554,6 +559,7 @@
 
 ## dotnet 
 
+- [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) - The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing
 - [kleisauke/net-vips](https://github.com/kleisauke/net-vips) - .NET binding for libvips.
 - [simple-acme/simple-acme](https://github.com/simple-acme/simple-acme) - A simple cross platform ACME client (for use with Let's Encrypt et al.)
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -859,6 +865,7 @@
 
 ## html 
 
+- [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) - The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [RITlug/ritlug.github.io](https://github.com/RITlug/ritlug.github.io) - RITlug website
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -985,7 +992,7 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [mariotacke/advent-of-code-2019](https://github.com/mariotacke/advent-of-code-2019) - Advent of Code 2019 Submissions
 - [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018) - Advent of Code 2018 Submissions
 
@@ -2309,6 +2316,7 @@
 
 ## xml 
 
+- [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) - The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing
 - [bojanbjelic/xml2json](https://github.com/bojanbjelic/xml2json) - Xml To Json
 
 ## youtube 
