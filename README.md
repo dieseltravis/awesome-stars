@@ -800,6 +800,7 @@
 
 ## Others 
 
+- [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
 - [Mindrally/skills](https://github.com/Mindrally/skills) - 240+ Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.
 - [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
