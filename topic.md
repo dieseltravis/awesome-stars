@@ -1211,6 +1211,7 @@
 
 ## others 
 
+- [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Mindrally/skills](https://github.com/Mindrally/skills) - 240+ Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.
 - [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) - Open-source Flutter client for MeshCore LoRa mesh networking devices
