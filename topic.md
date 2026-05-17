@@ -1211,6 +1211,7 @@
 
 ## others 
 
+- [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
 - [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Mindrally/skills](https://github.com/Mindrally/skills) - 240+ Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.
