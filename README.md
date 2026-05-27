@@ -71,7 +71,7 @@
 
 ## Adblock Filter List 
 
-- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - A filter list for uBlock Origin that hides specific website features that use or promote Generative AI.
+- [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist) - A filter list that hides specific website features that use or promote Generative AI.
 
 ## Arduino 
 
