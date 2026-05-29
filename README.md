@@ -1246,7 +1246,7 @@
 ## TypeScript 
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
