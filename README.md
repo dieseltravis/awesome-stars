@@ -142,6 +142,7 @@
 - [MrChromebox/SeaBIOS](https://github.com/MrChromebox/SeaBIOS) - 
 - [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 - [axoloti/axoloti](https://github.com/axoloti/axoloti) - Sketching embedded digital audio
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [akafugu/xmas](https://github.com/akafugu/xmas) - XMAS Blinking Christmas Decoration Firmware (ATTiny13A)
 - [akafugu/ledcandle](https://github.com/akafugu/ledcandle) - Flickering LED Candle Firmware
@@ -188,7 +189,6 @@
 - [paiden/Nett](https://github.com/paiden/Nett) - .Net library for TOML
 - [dezhidki/Tommy](https://github.com/dezhidki/Tommy) - A single-file TOML reader and writer for C#
 - [xoofx/Tomlyn](https://github.com/xoofx/Tomlyn) - Tomlyn is a TOML parser, validator and authoring library for .NET Framework and .NET Core
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [hibernating-rhinos/rhino-etl](https://github.com/hibernating-rhinos/rhino-etl) - Developer friendly ETL Library for .NET
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [serilog/serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
