@@ -1612,7 +1612,7 @@
 - [rocdev-foundation/hacktoberfest_2018](https://github.com/rocdev-foundation/hacktoberfest_2018) - 
 - [google/wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [Creality3DPrinting/Ender-3](https://github.com/Creality3DPrinting/Ender-3) - The Creality3D Ender-3, a fully Open Source 3D printer perfect for new users on a budget.
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [rossfuhrman/_why_the_lucky_markov](https://github.com/rossfuhrman/_why_the_lucky_markov) - A markov chain generator based on the various works of _why the lucky stiff.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [BlitzCityDIY/circuitPlaygroundPedalPiController](https://github.com/BlitzCityDIY/circuitPlaygroundPedalPiController) - 
