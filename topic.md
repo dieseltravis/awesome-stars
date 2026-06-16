@@ -1232,7 +1232,7 @@
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features & content that uses Generative AI.
 - [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
 - [cfinke/EpsteOut](https://github.com/cfinke/EpsteOut) - See which of your LinkedIn connections appear in the Epstein files.
@@ -1245,7 +1245,7 @@
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
-- [ThatAquarel/protovolt](https://github.com/ThatAquarel/protovolt) - A USB-C powered, mini lab power supply
+- [flakeblade/protov](https://github.com/flakeblade/protov) - A USB-C powered, mini lab power supply
 - [colindembovsky/MMM-FolderPhotos](https://github.com/colindembovsky/MMM-FolderPhotos) - Display your photos on MagicMirror from Google Photos.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring Mesh Node Deployment over TCP/HTTP
