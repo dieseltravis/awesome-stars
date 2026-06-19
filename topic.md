@@ -73,6 +73,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [generative-ai](#generative-ai)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -719,6 +720,10 @@
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 
+## gis 
+
+- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+
 ## git 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1213,6 +1218,8 @@
 
 ## others 
 
+- [bruceblay/mcp-2000](https://github.com/bruceblay/mcp-2000) - Browser sampler inspired by the MPC 2000XL — prompt-to-pad audio generation
+- [amcharts/amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps.
 - [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
 - [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
