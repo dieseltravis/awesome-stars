@@ -943,6 +943,7 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [dieseltravis/aoc2024](https://github.com/dieseltravis/aoc2024) - javascript 🎄 Advent of Code 2024
 - [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generati
 - [dieseltravis/aoc2023](https://github.com/dieseltravis/aoc2023) - javascript 🎄 Advent of Code 2023 using 🎏 Glitch 🎏
@@ -999,7 +1000,6 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [mariotacke/advent-of-code-2019](https://github.com/mariotacke/advent-of-code-2019) - Advent of Code 2019 Submissions
 - [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018) - Advent of Code 2018 Submissions
 
