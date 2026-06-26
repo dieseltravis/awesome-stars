@@ -1462,7 +1462,6 @@
 - [Jess3Jane/mastodon-ebooks](https://github.com/Jess3Jane/mastodon-ebooks) - 
 - [Lana-chan/mastodon-ebooks.py](https://github.com/Lana-chan/mastodon-ebooks.py) - Python ebooks-style bot for Mastodon
 - [virejdasani/InYourFace](https://github.com/virejdasani/InYourFace) - In Your Face shows you Doom 'Ouch Faces' that correlate to the number of errors in your code!
-- [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [microsoft/roosterjs](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.
 - [matthewmcvickar/oblique-questions-bot](https://github.com/matthewmcvickar/oblique-questions-bot) - A bot that posts questions without context.
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
