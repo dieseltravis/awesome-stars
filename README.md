@@ -321,7 +321,6 @@
 
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 - [EthicalSource/hippocratic-license](https://github.com/EthicalSource/hippocratic-license) - An ethical license for open source.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
