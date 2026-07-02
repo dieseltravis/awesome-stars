@@ -85,6 +85,7 @@
 ## Assembly 
 
 - [karawin/Ka-Radio](https://github.com/karawin/Ka-Radio) - A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix
+- [obdev/v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers
 
 ## Astro 
 
@@ -151,7 +152,6 @@
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [mike-rankin/ESP8266_OLED_Display](https://github.com/mike-rankin/ESP8266_OLED_Display) - ESP8266 Oled Display
 - [wemos/Arduino_XI](https://github.com/wemos/Arduino_XI) - Arduino core for WEMOS XI Boards
-- [obdev/v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers
 - [adafruit/Adafruit-Trinket-USB](https://github.com/adafruit/Adafruit-Trinket-USB) - Arduino libraries allowing Trinket to act as USB devices
 - [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
@@ -402,7 +402,7 @@
 
 ## Go 
 
-- [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 70 pattern recognizers. Self-host runs as a single binary that never leaves your network.
+- [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 73 pattern recognizers. Self-host runs as a single binary that never leaves your network.
 - [digisamroc/eraser](https://github.com/digisamroc/eraser) - Free, open-source data broker removal tool. Send GDPR/CCPA removal requests to 750+ data brokers automatically.
 - [iamkirkbater/mealie-markdown-exporter](https://github.com/iamkirkbater/mealie-markdown-exporter) - A CLI tool to export mealie recipes to markdown
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
