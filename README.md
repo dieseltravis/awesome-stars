@@ -228,7 +228,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
-- [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [SensorsIot/Autodetecting-boards](https://github.com/SensorsIot/Autodetecting-boards) - 
 - [wiretap-retro/2-digit-Turbo-Display](https://github.com/wiretap-retro/2-digit-Turbo-Display) - This project is a ATTiny85-based turbo display for retro PC's. It displays 2 digits.
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
@@ -531,6 +531,7 @@
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 - [offbyone/nazibar-com](https://github.com/offbyone/nazibar-com) - 
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+- [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
 - [s427/MARL](https://github.com/s427/MARL) - Mastodon Archive Reader Lite - a lightweight single-page app to explore the contents of your Mastodon archive file
@@ -1188,7 +1189,6 @@
 - [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
-- [meshtastic/design](https://github.com/meshtastic/design) - Visual communication of the meshtastic project
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
