@@ -219,6 +219,7 @@
 
 ## C++ 
 
+- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - 
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [maltman23/TV-B-Gone-kit_V2](https://github.com/maltman23/TV-B-Gone-kit_V2) - TV-B-Gone kit V2
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
@@ -1245,7 +1246,7 @@
 - [bruceblay/mcp-2000](https://github.com/bruceblay/mcp-2000) - Browser sampler inspired by the MPC 2000XL — prompt-to-pad audio generation
 - [amcharts/amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
@@ -1262,7 +1263,7 @@
 - [therzka/spell-with-emojis-raycast](https://github.com/therzka/spell-with-emojis-raycast) - a Raycast extension for converting text into slack emojis
 - [dupontgu/now-playing-bumper-sticker](https://github.com/dupontgu/now-playing-bumper-sticker) - A "bumper sticker" (LCD display) that shows what I am listening to on Spotify in near real-time
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Browser extension to bulk download all your Bandcamp purchases
+- [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome & Firefox extension.
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
