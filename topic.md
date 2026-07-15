@@ -1232,6 +1232,7 @@
 
 ## others 
 
+- [khenriks/mp3fs](https://github.com/khenriks/mp3fs) - FUSE-based transcoding filesystem from FLAC to MP3
 - [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - 
 - [NSM-Barii/flock-back](https://github.com/NSM-Barii/flock-back) - Wardriving tool for finding Flock Cameras.
 - [bruceblay/mcp-2000](https://github.com/bruceblay/mcp-2000) - Browser sampler inspired by the MPC 2000XL — prompt-to-pad audio generation
