@@ -570,7 +570,6 @@
 ## dotfiles 
 
 - [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ## dotnet 
 
