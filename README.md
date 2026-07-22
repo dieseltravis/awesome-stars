@@ -70,7 +70,7 @@
 
 ## Adblock Filter List 
 
-- [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features & content that uses Generative AI.
+- [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features which use Generative AI & content labeled as AI Generated.
 
 ## Arduino 
 
