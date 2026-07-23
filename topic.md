@@ -1051,7 +1051,7 @@
 
 ## linux 
 
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [astrovm/amyos](https://github.com/astrovm/amyos) - A custom Fedora Atomic image built on top of Bazzite
 - [simple-acme/simple-acme](https://github.com/simple-acme/simple-acme) - A simple cross platform ACME client (for use with Let's Encrypt et al.)
