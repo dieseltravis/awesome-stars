@@ -1231,6 +1231,9 @@
 
 ## others 
 
+- [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
+- [danielfariati/jellyfin-plugin-lastfm](https://github.com/danielfariati/jellyfin-plugin-lastfm) - Last.fm plugin for the Jellyfin media system. Active fork of the archived @jesseward Last.fm plugin.
+- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - Companion server plugin for all Moonfin clients
 - [khenriks/mp3fs](https://github.com/khenriks/mp3fs) - FUSE-based transcoding filesystem from FLAC to MP3
 - [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - 
 - [NSM-Barii/flock-back](https://github.com/NSM-Barii/flock-back) - Wardriving tool for finding Flock Cameras.
@@ -2141,6 +2144,7 @@
 
 ## self-hosted 
 
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 73 pattern recognizers. Self-host runs as a single binary that never leaves your network.
 - [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
