@@ -1231,6 +1231,7 @@
 
 ## others 
 
+- [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel) - 
 - [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
 - [danielfariati/jellyfin-plugin-lastfm](https://github.com/danielfariati/jellyfin-plugin-lastfm) - Last.fm plugin for the Jellyfin media system. Active fork of the archived @jesseward Last.fm plugin.
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - Companion server plugin for all Moonfin clients
