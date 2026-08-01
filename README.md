@@ -521,7 +521,6 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [netlify-labs/oauth-example](https://github.com/netlify-labs/oauth-example) - Example of how to use Netlify OAuth Applications
@@ -982,6 +981,7 @@
 
 ## Python 
 
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
 - [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel) - 
 - [NSM-Barii/flock-back](https://github.com/NSM-Barii/flock-back) - Wardriving tool for finding Flock Cameras.
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
@@ -1145,6 +1145,7 @@
 ## Rust 
 
 - [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [flakeblade/protov](https://github.com/flakeblade/protov) - A USB-C powered, mini lab power supply
 - [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
