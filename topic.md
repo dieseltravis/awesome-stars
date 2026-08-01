@@ -1228,6 +1228,7 @@
 
 ## others 
 
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
 - [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel) - 
 - [lyarenei/jellyfin-plugin-listenbrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) - ListenBrainz plugin for Jellyfin.
 - [danielfariati/jellyfin-plugin-lastfm](https://github.com/danielfariati/jellyfin-plugin-lastfm) - Last.fm plugin for the Jellyfin media system. Active fork of the archived @jesseward Last.fm plugin.
