@@ -2184,6 +2184,7 @@
 
 ## svelte 
 
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
 
 ## tailwindcss 
@@ -2233,6 +2234,7 @@
 
 ## typescript 
 
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
 - [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
@@ -2267,6 +2269,7 @@
 
 ## visualization 
 
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## vpn 
