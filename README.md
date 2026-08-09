@@ -23,6 +23,7 @@
 - [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fluent](#fluent)
 - [G-code](#g-code)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -175,7 +176,7 @@
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - Companion server plugin for all Moonfin clients
 - [Taritsyn/WebMarkupMin](https://github.com/Taritsyn/WebMarkupMin) - The Web Markup Minifier (abbreviated WebMarkupMin) - a .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing
 - [EnjoyDigital/Umbraco.Community.Schemeweaver](https://github.com/EnjoyDigital/Umbraco.Community.Schemeweaver) - Map Umbraco Content Types to Schema.org types and automatically generate JSON-LD structured data for your pages.
-- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
 - [kleisauke/net-vips](https://github.com/kleisauke/net-vips) - .NET binding for libvips.
 - [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
 - [jfcardinal/HtmlToXml](https://github.com/jfcardinal/HtmlToXml) - Utility class to convert HTML to XML, including recovery from unclosed tags.
@@ -389,6 +390,10 @@
 
 - [derrickreimer/level](https://github.com/derrickreimer/level) - Team communication optimized for deep work
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## G-code 
 
 - [PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
@@ -441,7 +446,6 @@
 
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
 - [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
@@ -1246,6 +1250,7 @@
 
 ## TypeScript 
 
+- [tigrisdata/storage](https://github.com/tigrisdata/storage) - Tigris is a globally distributed S3-compatible object storage service that provides low latency anywhere in the world, enabling developers to store and access any amount of data for a wide range of us
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [bruceblay/mcp-2000](https://github.com/bruceblay/mcp-2000) - Browser sampler inspired by the MPC 2000XL — prompt-to-pad audio generation
