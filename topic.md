@@ -210,6 +210,7 @@
 
 ## ai 
 
+- [tigrisdata/storage](https://github.com/tigrisdata/storage) - Tigris is a globally distributed S3-compatible object storage service that provides low latency anywhere in the world, enabling developers to store and access any amount of data for a wide range of us
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -365,7 +366,7 @@
 
 ## c-sharp 
 
-- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
 - [bbaia/connect-owin](https://github.com/bbaia/connect-owin) - Node.js connect middleware for .NET using OWIN
@@ -836,7 +837,7 @@
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
 - [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
 - [Bouni/kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools) - Plugin to generate BOM + CPL files for JLCPCB, assigning LCSC part numbers directly from the plugin, query the JLCPCB parts database, lookup datasheets and much more.
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
@@ -924,7 +925,7 @@
 
 ## image-processing 
 
-- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
 - [kleisauke/net-vips](https://github.com/kleisauke/net-vips) - .NET binding for libvips.
 
 ## instagram 
