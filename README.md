@@ -1257,7 +1257,7 @@
 - [bruceblay/mcp-2000](https://github.com/bruceblay/mcp-2000) - Browser sampler inspired by the MPC 2000XL — prompt-to-pad audio generation
 - [amcharts/amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
