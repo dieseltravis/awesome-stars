@@ -902,7 +902,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [evilmentors/manifesto](https://github.com/evilmentors/manifesto) - Don't be evil
 - [sparkfun/ESP32_Thing](https://github.com/sparkfun/ESP32_Thing) - Development platform for the Espressif ESP32 WiFi/Microcontroller SoC
 - [MorbZ/OpenSansEmoji](https://github.com/MorbZ/OpenSansEmoji) - OpenSans based font which includes the full iOS Emoji set
