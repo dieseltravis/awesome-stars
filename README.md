@@ -101,6 +101,7 @@
 
 ## C 
 
+- [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer and AMYboard - portable Python synthesizers
