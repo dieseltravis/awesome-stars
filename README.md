@@ -29,6 +29,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -435,7 +436,6 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [kyleconroy/grain](https://github.com/kyleconroy/grain) - The Entire History of You
@@ -491,6 +491,10 @@
 ## Haskell 
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## Java 
 
@@ -1207,7 +1211,7 @@
 - [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera models
 - [ArchiveTeam/Ubuntu-Warrior](https://github.com/ArchiveTeam/Ubuntu-Warrior) - Scripts to build and boot warrior virtual machine containing Docker
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
 - [labtroll/PCB-Design-Limits](https://github.com/labtroll/PCB-Design-Limits) - A set of PCB designs that shows off the real-world limits for manufacturing capabilities including silkscreen and copper line and text sizes
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
