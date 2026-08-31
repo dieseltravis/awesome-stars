@@ -1371,7 +1371,7 @@
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
 - [infused-kim/kb_ergogen_fp](https://github.com/infused-kim/kb_ergogen_fp) - Keyboard footprints for ergogen
 - [OUTOFDARTSSHOP/Rival-Juno-Blaster](https://github.com/OUTOFDARTSSHOP/Rival-Juno-Blaster) - Files for the Juno from Out of Darts.
-- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [rschenk/tern](https://github.com/rschenk/tern) - 30-key hot swap keyboard based on the Hummingbird
 - [CFenner/MMM-AirQuality](https://github.com/CFenner/MMM-AirQuality) - A module for the MagicMirror to display a location's air quality index.
 - [nigel-daniels/MMM-AirNow](https://github.com/nigel-daniels/MMM-AirNow) - MagicMirror 2 module to show air quality based on the US AirNow API.
