@@ -235,7 +235,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
-- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TalismanDesign/PocketMage_PDA](https://github.com/TalismanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [SensorsIot/Autodetecting-boards](https://github.com/SensorsIot/Autodetecting-boards) - 
 - [wiretap-retro/2-digit-Turbo-Display](https://github.com/wiretap-retro/2-digit-Turbo-Display) - This project is a ATTiny85-based turbo display for retro PC's. It displays 2 digits.
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
@@ -638,6 +638,7 @@
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [AdySan/ESPSocket](https://github.com/AdySan/ESPSocket) - Websockets for ESP8266/Arduino
 - [chriscoyier/Simple-Offline-Site](https://github.com/chriscoyier/Simple-Offline-Site) - 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [captainsafia/goops](https://github.com/captainsafia/goops) - A CLI tool that automagically adds or recommends the best .gitignore for your project
 - [berkmancenter/tmulk](https://github.com/berkmancenter/tmulk) - Twitter mass bulk download
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1306,7 +1307,6 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
