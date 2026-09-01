@@ -996,6 +996,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
+- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [timoxley/npm-run](https://github.com/timoxley/npm-run) - Run locally-installed node module executables.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ericwbailey/millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people) - 🐍 Chrome extension that replaces occurrences of 'Millennials' with 'Snake People'
@@ -1325,7 +1326,7 @@
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Grafana (Dashboards included)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
-- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TalismanDesign/PocketMage_PDA](https://github.com/TalismanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [Victoare/SR-WLED-audio-server-win](https://github.com/Victoare/SR-WLED-audio-server-win) - SoundReactive WLED audio streamer for windows
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -1784,7 +1785,6 @@
 - [hubot-archive/hubot-plusplus](https://github.com/hubot-archive/hubot-plusplus) - Welcome to Hubot, where the points don't matter
 - [Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) - Awesome Code Points
 - [rimmartin/saxon-node](https://github.com/rimmartin/saxon-node) - 
-- [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo
 - [jscottb/ESP8266_http_io](https://github.com/jscottb/ESP8266_http_io) - 
 - [NelisW/myOpenHab](https://github.com/NelisW/myOpenHab) - An implementation of a home automation system based on openHab, MQTT, using ESP8266 and Raspberry Pi
 - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
