@@ -1396,7 +1396,6 @@
 - [FrameworkComputer/linux-docs](https://github.com/FrameworkComputer/linux-docs) - Linux Markdown Guides
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
-- [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [sadekbaroudi/keyboard-guides](https://github.com/sadekbaroudi/keyboard-guides) - 
 - [swanmatch/MxLEDBitPCB](https://github.com/swanmatch/MxLEDBitPCB) - 
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
