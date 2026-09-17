@@ -450,7 +450,6 @@
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [dieseltravis/travis-ergogen-numpad](https://github.com/dieseltravis/travis-ergogen-numpad) - a numpad made with Ergogen
-- [Minecatr/keyboards](https://github.com/Minecatr/keyboards) - all my keyboard files
 - [dieseltravis/travis-ergogen-2024](https://github.com/dieseltravis/travis-ergogen-2024) - Travis's first Ergogen keyboard
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
