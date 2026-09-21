@@ -1248,6 +1248,7 @@
 
 ## others 
 
+- [mrnickpeer/Visage](https://github.com/mrnickpeer/Visage) - Personal Identity Intelligence, Executive Exposure & People OSINT Suite
 - [mrnickpeer/Vantage](https://github.com/mrnickpeer/Vantage) - Passive attack surface reconnaissance, corporate infrastructure mapping, and exposure audit suite.
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel) - 
