@@ -477,7 +477,6 @@
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [neveragaindottech/neveragaindottech.github.io](https://github.com/neveragaindottech/neveragaindottech.github.io) - Source files for the neveragain.tech site
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
@@ -521,6 +520,7 @@
 
 ## JavaScript 
 
+- [mrnickpeer/Visage](https://github.com/mrnickpeer/Visage) - Personal Identity Intelligence, Executive Exposure & People OSINT Suite
 - [mrnickpeer/Vantage](https://github.com/mrnickpeer/Vantage) - Passive attack surface reconnaissance, corporate infrastructure mapping, and exposure audit suite.
 - [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
 - [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
@@ -1237,6 +1237,7 @@
 - [wemos/Fritzing-Part-WeMos-D1-Mini](https://github.com/wemos/Fritzing-Part-WeMos-D1-Mini) - Fritzing Part: WeMos D1 Mini
 - [chadlavi/recipes](https://github.com/chadlavi/recipes) - It’s recipes. You know, to cook with.
 - [dphiffer/archive_vines](https://github.com/dphiffer/archive_vines) - A shell script to archive all your Vines
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [kylemacey/repo-contrib-graph](https://github.com/kylemacey/repo-contrib-graph) - Repository Contribution Graphs in your terminal!
 - [Supervisor/initscripts](https://github.com/Supervisor/initscripts) - User-contributed OS init scripts for Supervisor
