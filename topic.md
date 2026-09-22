@@ -652,6 +652,7 @@
 
 ## esp32 
 
+- [vladkorotnev/cd-player](https://github.com/vladkorotnev/cd-player) - ESP32 based CD player + Internet radio + Bluetooth receiver
 - [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer and AMYboard - portable Python synthesizers
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo
@@ -941,6 +942,7 @@
 
 ## iot 
 
+- [vladkorotnev/cd-player](https://github.com/vladkorotnev/cd-player) - ESP32 based CD player + Internet radio + Bluetooth receiver
 - [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [cheerlights/esp8266_neopixel_strip](https://github.com/cheerlights/esp8266_neopixel_strip) - This sketch periodically checks the CheerLights color that is stored in ThingSpeak channel 1417 and sets the color of each pixel of a WS2812-based NeoPixel strip.
 - [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
