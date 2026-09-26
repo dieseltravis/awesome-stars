@@ -777,7 +777,7 @@
 ## godot 
 
 - [dracula/godot](https://github.com/dracula/godot) - 🧛🏻‍♂️ Dark theme for Godot Engine
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 
 ## golang 
 
