@@ -407,7 +407,7 @@
 - [Minecatr/Opsotx](https://github.com/Minecatr/Opsotx) - fps game
 - [fcazalet/godot-version-management](https://github.com/fcazalet/godot-version-management) - This addon is for developpers that want a centralized place for version naming / build number and then display it in game.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 
 ## Go 
 
