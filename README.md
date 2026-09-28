@@ -126,7 +126,6 @@
 - [BredaUniversityGames/DXX-Raytracer](https://github.com/BredaUniversityGames/DXX-Raytracer) - DXX Raytracer is a fork of the DXX Retro project for Windows. DXX Raytracer uses modern raytracing techniques to update the graphics of the beloved retro game known as Descent.
 - [libdriver/ws2812b](https://github.com/libdriver/ws2812b) - WS2812B full-featured driver library for general-purpose MCU and Linux.
 - [jgarff/rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs
-- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [DHowett/framework-ec](https://github.com/DHowett/framework-ec) - Embedded Controller firmware for the Framework Laptop
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [Minecatr/nibble](https://github.com/Minecatr/nibble) - QMK firmware files for NIBBLE keyboard
@@ -448,6 +447,7 @@
 
 ## HTML 
 
+- [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [colonelpanichacks/flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 - [NomDeTom/Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) - A PCB to make any LoRa module useful.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
@@ -867,6 +867,7 @@
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [dieseltravis/awesome-stars](https://github.com/dieseltravis/awesome-stars) - my stars
 - [BrobstonCreations/yet-another-smart-vent](https://github.com/BrobstonCreations/yet-another-smart-vent) - 
+- [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController) - Embedded Controller firmware for the Framework Laptop
 - [egladman/keebs.pretty](https://github.com/egladman/keebs.pretty) - KiCAD footprint library for hybrid MX/Alps footprints and microcontrollers
 - [tmk/keyboard_parts.pretty](https://github.com/tmk/keyboard_parts.pretty) - KiCad modules for keyboard design
 - [tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk) - KiCad library for tmk project
