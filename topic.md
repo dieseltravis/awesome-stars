@@ -1245,6 +1245,7 @@
 
 ## others 
 
+- [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [julpage/ESP32_CD_Player](https://github.com/julpage/ESP32_CD_Player) - Play music from cdda disc in USB drive
 - [mrnickpeer/Visage](https://github.com/mrnickpeer/Visage) - Personal Identity Intelligence, Executive Exposure & People OSINT Suite
 - [mrnickpeer/Vantage](https://github.com/mrnickpeer/Vantage) - Passive attack surface reconnaissance, corporate infrastructure mapping, and exposure audit suite.
