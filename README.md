@@ -369,7 +369,7 @@
 ## Dart 
 
 - [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) - Open-source Flutter client for MeshCore LoRa mesh networking devices
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 
@@ -523,6 +523,7 @@
 
 ## JavaScript 
 
+- [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [mrnickpeer/Visage](https://github.com/mrnickpeer/Visage) - Personal Identity Intelligence, Executive Exposure & People OSINT Suite
 - [mrnickpeer/Vantage](https://github.com/mrnickpeer/Vantage) - Passive attack surface reconnaissance, corporate infrastructure mapping, and exposure audit suite.
 - [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
