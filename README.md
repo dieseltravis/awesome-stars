@@ -406,7 +406,6 @@
 - [Minecatr/Opsotx](https://github.com/Minecatr/Opsotx) - fps game
 - [fcazalet/godot-version-management](https://github.com/fcazalet/godot-version-management) - This addon is for developpers that want a centralized place for version naming / build number and then display it in game.
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 
 ## Go 
 
@@ -814,7 +813,7 @@
 ## Others 
 
 - [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
-- [Mindrally/skills](https://github.com/Mindrally/skills) - 255+ Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
 - [JamesW75/visual-studio-project-type-guid](https://github.com/JamesW75/visual-studio-project-type-guid) - List of the Project Type Guids in Visual Studio
@@ -989,7 +988,7 @@
 
 ## Python 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel) - 
 - [NSM-Barii/flock-back](https://github.com/NSM-Barii/flock-back) - Wardriving tool for finding Flock Cameras.
@@ -1177,6 +1176,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ajmwagar/bliss](https://github.com/ajmwagar/bliss) - Ignorance is bliss! Ignore your .gitignore
 - [jfro/AoC2018](https://github.com/jfro/AoC2018) - My Advent of Code 2018 solutions
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 
 ## SCSS 
 
