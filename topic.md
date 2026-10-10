@@ -28,6 +28,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -206,6 +207,7 @@
 ## agent-skills 
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
 
 ## ai 
@@ -391,12 +393,18 @@
 
 ## claude 
 
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 ## claude-code 
 
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
+
+## claude-skills 
+
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 
 ## cli 
 
@@ -527,6 +535,7 @@
 
 ## developer-tools 
 
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
@@ -554,7 +563,7 @@
 
 ## docker 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
 - [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
@@ -835,7 +844,7 @@
 ## hacktoberfest 
 
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - A modern, cross-platform, 2D Graphics library for .NET
@@ -1089,6 +1098,7 @@
 ## llm 
 
 - [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 73 pattern recognizers. Self-host runs as a single binary that never leaves your network.
+- [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
@@ -1266,7 +1276,6 @@
 - [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
 - [RealDeco/SendspinZero](https://github.com/RealDeco/SendspinZero) - Sendspin Audio Receiver for your Stereo/Amplifier
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [Mindrally/skills](https://github.com/Mindrally/skills) - 255+ Claude Code skills converted from Cursor rules. Expert coding guidelines for every major framework and language.
 - [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) - Open-source Flutter client for MeshCore LoRa mesh networking devices
 - [EnjoyDigital/Umbraco.Community.Schemeweaver](https://github.com/EnjoyDigital/Umbraco.Community.Schemeweaver) - Map Umbraco Content Types to Schema.org types and automatically generate JSON-LD structured data for your pages.
 - [espanso/hub](https://github.com/espanso/hub) - The official Espanso's package repository
@@ -2027,7 +2036,7 @@
 
 ## python 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer and AMYboard - portable Python synthesizers
@@ -2079,7 +2088,7 @@
 
 ## raspberry-pi 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated allsky camera
@@ -2171,7 +2180,7 @@
 
 ## self-hosted 
 
-- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 73 pattern recognizers. Self-host runs as a single binary that never leaves your network.
 - [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
