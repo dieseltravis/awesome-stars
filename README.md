@@ -1176,7 +1176,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ajmwagar/bliss](https://github.com/ajmwagar/bliss) - Ignorance is bliss! Ignore your .gitignore
 - [jfro/AoC2018](https://github.com/jfro/AoC2018) - My Advent of Code 2018 solutions
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
 
 ## SCSS 
 
