@@ -34,7 +34,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -741,10 +740,6 @@
 - [atomic14/esp32-tv](https://github.com/atomic14/esp32-tv) - ESP32 - Sound and Vision - Video Streaming to the ESP32
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations.
 
-## Just 
-
-- [astrovm/amyos](https://github.com/astrovm/amyos) - A custom Fedora Atomic image built on top of Bazzite
-
 ## KiCad Layout 
 
 - [adamjvr/ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints) - Footprints for the Espressif ESP32 WiFi/BLE Chip and ESP3212 module, for KiCAD EDA
@@ -1205,6 +1200,7 @@
 
 - [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
 - [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
+- [astrovm/amyos](https://github.com/astrovm/amyos) - Custom Debian and Fedora images
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
