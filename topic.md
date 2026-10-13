@@ -1308,7 +1308,7 @@
 - [colindembovsky/MMM-FolderPhotos](https://github.com/colindembovsky/MMM-FolderPhotos) - Display your photos on MagicMirror from Google Photos.
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) - Web tool for monitoring Mesh Node Deployment over TCP/HTTP
-- [astrovm/amyos](https://github.com/astrovm/amyos) - A custom Fedora Atomic image built on top of Bazzite
+- [astrovm/amyos](https://github.com/astrovm/amyos) - Custom Debian and Fedora images
 - [jfcardinal/HtmlToXml](https://github.com/jfcardinal/HtmlToXml) - Utility class to convert HTML to XML, including recovery from unclosed tags.
 - [skuethe/MMM-RandomPhoto](https://github.com/skuethe/MMM-RandomPhoto) - Show a random photo from an url.
 - [clegallic/MMM-GoogleDriveSlideShow](https://github.com/clegallic/MMM-GoogleDriveSlideShow) - Magic Mirror² Google Drive Photos Slideshow Module
