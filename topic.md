@@ -206,7 +206,7 @@
 
 ## agent-skills 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 - [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
 - [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
 
@@ -602,7 +602,7 @@
 
 ## dsh-plugin 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 
 ## education 
 
@@ -790,7 +790,7 @@
 ## godot 
 
 - [dracula/godot](https://github.com/dracula/godot) - 🧛🏻‍♂️ Dark theme for Godot Engine
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
+- [OpenSC2K/OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
 
 ## golang 
 
@@ -1243,7 +1243,7 @@
 
 ## open-source 
 
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated allsky camera
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
@@ -1960,7 +1960,7 @@
 
 ## p2p 
 
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
@@ -1984,7 +1984,7 @@
 
 ## postgresql 
 
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 
 ## powershell 
 
@@ -2150,7 +2150,7 @@
 
 ## rust 
 
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 - [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
 - [Spagett1/pineflash](https://github.com/Spagett1/pineflash) - A tool to flash ironos to the pinecil soldering iron and possibly other pine64 devices in the future
@@ -2183,7 +2183,7 @@
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 73 pattern recognizers. Self-host runs as a single binary that never leaves your network.
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
@@ -2223,7 +2223,7 @@
 ## svelte 
 
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 
 ## tailwindcss 
 
@@ -2273,12 +2273,11 @@
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [kyleconroy/grain](https://github.com/kyleconroy/grain) - The Entire History of You
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
 
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat. | Streamer Hub
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
 - [meshtastic/network-management-client](https://github.com/meshtastic/network-management-client) - A Meshtastic desktop client, allowing simple, offline deployment and administration of an ad-hoc mesh communication network. Built in Rust and TypeScript.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
