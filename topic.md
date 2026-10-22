@@ -1258,6 +1258,7 @@
 
 ## others 
 
+- [vu-ls/tapioca](https://github.com/vu-ls/tapioca) - 
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [julpage/ESP32_CD_Player](https://github.com/julpage/ESP32_CD_Player) - Play music from cdda disc in USB drive
