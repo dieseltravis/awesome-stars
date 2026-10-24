@@ -54,6 +54,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -600,6 +601,10 @@
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [bbaia/connect-owin](https://github.com/bbaia/connect-owin) - Node.js connect middleware for .NET using OWIN
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
