@@ -1202,7 +1202,7 @@
 
 - [paultyng/skill-issue](https://github.com/paultyng/skill-issue) - Personal Claude Code / Cursor agent skills, rules, and config
 - [datapartyjs/walk-without-rhythm](https://github.com/datapartyjs/walk-without-rhythm) - A tool to check your repos for signs of NPM supply chain attack using BASH
-- [astrovm/amyos](https://github.com/astrovm/amyos) - Custom Debian and Fedora images
+- [astrovm/amyos](https://github.com/astrovm/amyos) - Custom Debian, Ubuntu and Fedora images
 - [freenas/iocage-plugin-plexmediaserver](https://github.com/freenas/iocage-plugin-plexmediaserver) - Artifact file(s) for PlexMediaServer iocage plugin
 - [porkcube/meshtastic-configs](https://github.com/porkcube/meshtastic-configs) - scripts to manage Meshtastic configurations
 - [femtofox/femtofox](https://github.com/femtofox/femtofox) - 
