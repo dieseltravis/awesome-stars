@@ -224,7 +224,7 @@
 
 - [vladkorotnev/cd-player](https://github.com/vladkorotnev/cd-player) - ESP32 based CD player + Internet radio + Bluetooth receiver
 - [khenriks/mp3fs](https://github.com/khenriks/mp3fs) - FUSE-based transcoding filesystem from FLAC to MP3
-- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - 
+- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - Firmware, PCB, and enclosure for the Weathergotchi E-Paper climate logger.
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [maltman23/TV-B-Gone-kit_V2](https://github.com/maltman23/TV-B-Gone-kit_V2) - TV-B-Gone kit V2
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
@@ -528,6 +528,7 @@
 - [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
@@ -1151,7 +1152,6 @@
 ## Rust 
 
 - [STCisGOOD/lunarcore](https://github.com/STCisGOOD/lunarcore) - 
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [flakeblade/protov](https://github.com/flakeblade/protov) - A USB-C powered, mini lab power supply
 - [project-angos/angos](https://github.com/project-angos/angos) - An OCI-compliant and Docker-compatible container registry.
