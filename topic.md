@@ -9,6 +9,7 @@
 - [agent-skills](#agent-skills)
 - [ai](#ai)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
@@ -236,6 +237,10 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
+
+## android-app 
+
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 
 ## angular 
 
@@ -1275,7 +1280,7 @@
 - [danielfariati/jellyfin-plugin-lastfm](https://github.com/danielfariati/jellyfin-plugin-lastfm) - Last.fm plugin for the Jellyfin media system. Active fork of the archived @jesseward Last.fm plugin.
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - Companion server plugin for all Moonfin clients
 - [khenriks/mp3fs](https://github.com/khenriks/mp3fs) - FUSE-based transcoding filesystem from FLAC to MP3
-- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - 
+- [Michael-Manning/E-Paper-Climate-Logger](https://github.com/Michael-Manning/E-Paper-Climate-Logger) - Firmware, PCB, and enclosure for the Weathergotchi E-Paper climate logger.
 - [NSM-Barii/flock-back](https://github.com/NSM-Barii/flock-back) - Wardriving tool for finding Flock Cameras.
 - [bruceblay/mcp-2000](https://github.com/bruceblay/mcp-2000) - Browser sampler inspired by the MPC 2000XL — prompt-to-pad audio generation
 - [amcharts/amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps.
