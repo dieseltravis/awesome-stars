@@ -1268,6 +1268,7 @@
 
 ## others 
 
+- [erindatkinson/emoji-archiver](https://github.com/erindatkinson/emoji-archiver) - Bulk import and export emoji into Slack
 - [vu-ls/tapioca](https://github.com/vu-ls/tapioca) - 
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
