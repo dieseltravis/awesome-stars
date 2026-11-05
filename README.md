@@ -408,6 +408,7 @@
 
 ## Go 
 
+- [erindatkinson/emoji-archiver](https://github.com/erindatkinson/emoji-archiver) - Bulk import and export emoji into Slack
 - [anonde-io/anonde](https://github.com/anonde-io/anonde) - Local-first PII anonymization and de-anonymization in Go. Multilingual via GLiNER NER + 73 pattern recognizers. Self-host runs as a single binary that never leaves your network.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [digisamroc/eraser](https://github.com/digisamroc/eraser) - Free, open-source data broker removal tool. Send GDPR/CCPA removal requests to 750+ data brokers automatically.
@@ -1012,7 +1013,6 @@
 - [pdxlocations/ha-entity-builder-for-meshtastic](https://github.com/pdxlocations/ha-entity-builder-for-meshtastic) - Quickly create Home Assistant entities for Meshtastic node metrics.
 - [tcivie/meshtastic-metrics-exporter](https://github.com/tcivie/meshtastic-metrics-exporter) - Meshtastic MQTT exporter to Grafana (Dashboards included)
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [TheCommsChannel/mesh-rangetest-map](https://github.com/TheCommsChannel/mesh-rangetest-map) - 
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
@@ -1277,6 +1277,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [RealFaviconGenerator/core](https://github.com/RealFaviconGenerator/core) - 
 - [MeshAddicts/meshinfo](https://github.com/MeshAddicts/meshinfo) - Realtime web UI to run against a Meshtastic regional or private mesh network.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
