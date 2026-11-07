@@ -186,6 +186,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1479,7 +1480,6 @@
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [Minecatr/Opsotx](https://github.com/Minecatr/Opsotx) - fps game
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [lafentres/pizza-sob-emoji](https://github.com/lafentres/pizza-sob-emoji) - Pizza sob emoji for Slack
 - [lafentres/goose-honk-emoji](https://github.com/lafentres/goose-honk-emoji) - Goose honk emoji for Slack
@@ -1522,7 +1522,6 @@
 - [Lynnesbian/mstdn-ebooks](https://github.com/Lynnesbian/mstdn-ebooks) - NO LONGER BEING UPDATED, NOT GUARANTEED TO WORK AT ALL
 - [Jess3Jane/mastodon-ebooks](https://github.com/Jess3Jane/mastodon-ebooks) - 
 - [Lana-chan/mastodon-ebooks.py](https://github.com/Lana-chan/mastodon-ebooks.py) - Python ebooks-style bot for Mastodon
-- [virejdasani/InYourFace](https://github.com/virejdasani/InYourFace) - In Your Face shows you Doom 'Ouch Faces' that correlate to the number of errors in your code!
 - [microsoft/roosterjs](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.
 - [matthewmcvickar/oblique-questions-bot](https://github.com/matthewmcvickar/oblique-questions-bot) - A bot that posts questions without context.
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
@@ -2332,6 +2331,14 @@
 
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+## vscode 
+
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [virejdasani/InYourFace](https://github.com/virejdasani/InYourFace) - In Your Face shows you Doom 'Ouch Faces' that correlate to the number of errors in your code!
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 
 ## vue 
 
