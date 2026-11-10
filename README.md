@@ -671,7 +671,7 @@
 - [stefanjudis/credits-cli](https://github.com/stefanjudis/credits-cli) - Find out on whose work your project is based on
 - [ericwbailey/millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people) - 🐍 Chrome extension that replaces occurrences of 'Millennials' with 'Snake People'
 - [getify/stable-timers](https://github.com/getify/stable-timers) - timers with less race conditions
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 - [jeyoder/StuffInSpace](https://github.com/jeyoder/StuffInSpace) - A real-time interactive WebGL visualisation of objects in Earth orbit
 - [jquery-archive/css-chassis](https://github.com/jquery-archive/css-chassis) - An attempt at creating an open standard for both CSS and JavaScript UI libraries.
 - [hhroc/yellr-server](https://github.com/hhroc/yellr-server) - Server for yellr project
@@ -1259,7 +1259,7 @@
 
 ## TypeScript 
 
-- [flythenimbus/bramble](https://github.com/flythenimbus/bramble) - Local-first password manager with direct device-to-device sync
+- [bramble-sh/bramble](https://github.com/bramble-sh/bramble) - Local-first password manager with direct device-to-device sync
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [tigrisdata/storage](https://github.com/tigrisdata/storage) - Tigris is a globally distributed S3-compatible object storage service that provides low latency anywhere in the world, enabling developers to store and access any amount of data for a wide range of us
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
