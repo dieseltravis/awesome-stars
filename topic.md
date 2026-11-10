@@ -227,7 +227,7 @@
 
 ## android 
 
-- [flythenimbus/bramble](https://github.com/flythenimbus/bramble) - Local-first password manager with direct device-to-device sync
+- [bramble-sh/bramble](https://github.com/bramble-sh/bramble) - Local-first password manager with direct device-to-device sync
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - A clean user focused audiobook player for Android
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
@@ -396,13 +396,13 @@
 
 ## chrome-extension 
 
-- [flythenimbus/bramble](https://github.com/flythenimbus/bramble) - Local-first password manager with direct device-to-device sync
+- [bramble-sh/bramble](https://github.com/bramble-sh/bramble) - Local-first password manager with direct device-to-device sync
 - [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp) - Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome & Firefox extension.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 
 ## claude 
 
@@ -961,7 +961,7 @@
 
 ## ios 
 
-- [flythenimbus/bramble](https://github.com/flythenimbus/bramble) - Local-first password manager with direct device-to-device sync
+- [bramble-sh/bramble](https://github.com/bramble-sh/bramble) - Local-first password manager with direct device-to-device sync
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
@@ -1031,7 +1031,7 @@
 - [timoxley/npm-run](https://github.com/timoxley/npm-run) - Run locally-installed node module executables.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ericwbailey/millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people) - 🐍 Chrome extension that replaces occurrences of 'Millennials' with 'Snake People'
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -2038,7 +2038,7 @@
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [coollabsio/fonts](https://github.com/coollabsio/fonts) - A privacy-friendly drop-in replacement for Google Fonts
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension made by EFF to stop companies from spying on you online
 
 ## productivity 
 
@@ -2189,7 +2189,7 @@
 
 ## security 
 
-- [flythenimbus/bramble](https://github.com/flythenimbus/bramble) - Local-first password manager with direct device-to-device sync
+- [bramble-sh/bramble](https://github.com/bramble-sh/bramble) - Local-first password manager with direct device-to-device sync
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
@@ -2201,7 +2201,7 @@
 
 ## security-tools 
 
-- [flythenimbus/bramble](https://github.com/flythenimbus/bramble) - Local-first password manager with direct device-to-device sync
+- [bramble-sh/bramble](https://github.com/bramble-sh/bramble) - Local-first password manager with direct device-to-device sync
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
 ## self-hosted 
