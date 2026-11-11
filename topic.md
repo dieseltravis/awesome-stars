@@ -1282,6 +1282,7 @@
 
 ## others 
 
+- [richstokes/meshtastic_terminal](https://github.com/richstokes/meshtastic_terminal) - 📡  A terminal interface for Meshtastic
 - [erindatkinson/emoji-archiver](https://github.com/erindatkinson/emoji-archiver) - Bulk import and export emoji into Slack
 - [vu-ls/tapioca](https://github.com/vu-ls/tapioca) - 
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
