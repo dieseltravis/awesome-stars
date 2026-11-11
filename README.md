@@ -984,6 +984,7 @@
 
 ## Python 
 
+- [richstokes/meshtastic_terminal](https://github.com/richstokes/meshtastic_terminal) - 📡  A terminal interface for Meshtastic
 - [vu-ls/tapioca](https://github.com/vu-ls/tapioca) - 
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
