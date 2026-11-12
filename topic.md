@@ -1781,7 +1781,6 @@
 - [benmccallum/AspNetBundling](https://github.com/benmccallum/AspNetBundling) - An assortment of bundling utility classes like custom transformers and fixes for the ASP.NET Web Optimization bundling framework.
 - [adamjvr/ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints) - Footprints for the Espressif ESP32 WiFi/BLE Chip and ESP3212 module, for KiCAD EDA
 - [ofbusiness/yoda-search](https://github.com/ofbusiness/yoda-search) - Slack search bot. Because saving 7$ per user per month matters.
-- [rey/stylish](https://github.com/rey/stylish) - 
 - [cnlohr/colorchord](https://github.com/cnlohr/colorchord) - Chromatic Sound to Light Conversion System
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [vosechu/bstshk-replacement](https://github.com/vosechu/bstshk-replacement) - Backend underpinnings of BSTSHK
