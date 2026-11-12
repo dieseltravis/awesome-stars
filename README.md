@@ -331,7 +331,6 @@
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 - [maxbeier/tawian-frontend](https://github.com/maxbeier/tawian-frontend) - A markdowny CSS framework
-- [rey/stylish](https://github.com/rey/stylish) - 
 - [ptraeg/ng2-rochesterjs](https://github.com/ptraeg/ng2-rochesterjs) - Angular 1 and Angular 2 demo code shown at the March 2016 Meeting of RochesterJS
 - [WhiteHouse/source-code-policy](https://github.com/WhiteHouse/source-code-policy) - Federal Source Code Policy
 - [TenetPartners/tenet-holiday-card-2015](https://github.com/TenetPartners/tenet-holiday-card-2015) - 
