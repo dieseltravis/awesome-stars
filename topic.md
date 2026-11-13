@@ -8,6 +8,7 @@
 - [agent](#agent)
 - [agent-skills](#agent-skills)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [android](#android)
 - [android-app](#android-app)
 - [angular](#angular)
@@ -69,6 +70,7 @@
 - [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
@@ -224,6 +226,10 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## ai-agents 
+
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 
 ## android 
 
@@ -723,6 +729,12 @@
 
 - [wow-signal-dev/metadata-remote](https://github.com/wow-signal-dev/metadata-remote) - Edit metadata on headless servers (or anywhere else) via a clean web interface without complicated music library ecosystems, command line surgery, or file transfers — just Docker, a browser, and zero 
 
+## flipperzero 
+
+- [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+
 ## flutter 
 
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin
@@ -1189,10 +1201,12 @@
 
 ## mcp 
 
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## mcp-server 
 
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microsoft 
@@ -1515,7 +1529,6 @@
 - [tmk/keyboard_parts.pretty](https://github.com/tmk/keyboard_parts.pretty) - KiCad modules for keyboard design
 - [tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk) - KiCad library for tmk project
 - [Firepal/stammer](https://github.com/Firepal/stammer) - Recreate any audio track by rearranging the frames of another video
-- [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
 - [mdrjr/c4_bootini](https://github.com/mdrjr/c4_bootini) - 
 - [satchelspencer/repsyps](https://github.com/satchelspencer/repsyps) - realtime playback and synchronization of periodic signals... or music
 - [Plebian-Linux/quartz64-images](https://github.com/Plebian-Linux/quartz64-images) - GitHub Actions Repository for automatically generated images for the Quartz64 family of single board computers
@@ -1594,7 +1607,6 @@
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [open-eats/OpenEats](https://github.com/open-eats/OpenEats) - :pizza: Self Hosted Recipe Management App :hamburger:
 - [MLTSHP/mltshp-patterns](https://github.com/MLTSHP/mltshp-patterns) - Pattern Library for MLTSHP Apps
-- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [gbigwood/Clippo](https://github.com/gbigwood/Clippo) - An Ascii Clippy for vim and terminal
 - [peterolson/BigInteger.js](https://github.com/peterolson/BigInteger.js) - An arbitrary length integer library for Javascript
@@ -2282,6 +2294,7 @@
 
 ## testing 
 
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2397,6 +2410,7 @@
 
 ## windows 
 
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
