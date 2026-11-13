@@ -62,7 +62,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Stylus](#stylus)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -520,6 +519,7 @@
 
 ## JavaScript 
 
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [mrnickpeer/Visage](https://github.com/mrnickpeer/Visage) - Personal Identity Intelligence, Executive Exposure & People OSINT Suite
 - [mrnickpeer/Vantage](https://github.com/mrnickpeer/Vantage) - Passive attack surface reconnaissance, corporate infrastructure mapping, and exposure audit suite.
@@ -1249,10 +1249,6 @@
 - [lynnandtonic/airport-codes](https://github.com/lynnandtonic/airport-codes) - ✈️ Making sense of those three-letter airport codes.
 - [whyaz/whyaz](https://github.com/whyaz/whyaz) - 🌵Reasons to love Arizona
 
-## Svelte 
-
-- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
-
 ## Swift 
 
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
@@ -1268,6 +1264,7 @@
 - [amcharts/amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
+- [Pokled/nodyx](https://github.com/Pokled/nodyx) - Self-hosted community platform: Forum + Chat + Voice + P2P + Whiteboard + Homepage Builder. One server, one community, forever. AGPL-3.0.
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
