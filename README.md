@@ -501,7 +501,7 @@
 - [redsolver/skydroid](https://github.com/redsolver/skydroid) - A decentralized domain-based App Store for Android.
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 - [me-no-dev/EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - Exception Stack Trace Decoder for ESP8266 and ESP32
-- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
+- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, STM32Cube, ESP32-IDF, PicoSDK, mbed6 with designer UI and IoT capabilities.
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
