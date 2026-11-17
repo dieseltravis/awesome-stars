@@ -279,7 +279,7 @@
 - [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [joe-scotto/scottokeebs](https://github.com/joe-scotto/scottokeebs) - A collection of free-to-build handwired keyboard and macropad projects.
 - [harbaum/galagino](https://github.com/harbaum/galagino) - A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32
-- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
+- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, STM32Cube, ESP32-IDF, PicoSDK, mbed6 with designer UI and IoT capabilities.
 - [schreibfaul1/ESP32-vs1053_ext](https://github.com/schreibfaul1/ESP32-vs1053_ext) - With this library You can easily build a WebRadio with a ESP32 board and a mp3-module.  See: https://www.youtube.com/watch?v=u4u9NvZvWRk
 - [dawidchyrzynski/arduino-home-assistant](https://github.com/dawidchyrzynski/arduino-home-assistant) - ArduinoHA allows to integrate an Arduino/ESP based device with Home Assistant using MQTT.
 - [PlummersSoftwareLLC/NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
@@ -984,7 +984,7 @@
 - [vladkorotnev/cd-player](https://github.com/vladkorotnev/cd-player) - ESP32 based CD player + Internet radio + Bluetooth receiver
 - [cheerlights/cheerlights-arduino-library](https://github.com/cheerlights/cheerlights-arduino-library) - An Arduino library to synchronize with the global CheerLights color by fetching the latest color from the CheerLights API.
 - [cheerlights/esp8266_neopixel_strip](https://github.com/cheerlights/esp8266_neopixel_strip) - This sketch periodically checks the CheerLights color that is stored in ThingSpeak channel 1417 and sets the color of each pixel of a WS2812-based NeoPixel strip.
-- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, mbed and ESP with designer UI and remote control capabilities.
+- [TcMenu/tcMenu](https://github.com/TcMenu/tcMenu) - Menu library for Arduino, STM32Cube, ESP32-IDF, PicoSDK, mbed6 with designer UI and IoT capabilities.
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
