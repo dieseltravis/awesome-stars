@@ -174,6 +174,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [skills](#skills)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -2260,6 +2261,12 @@
 ## skills 
 
 - [Mindrally/skills](https://github.com/Mindrally/skills) - 265+ Claude Code skills for every major framework and language. Install with: npx skills add Mindrally/skills
+
+## static-site-generator 
+
+- [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
+- [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
+- [Code52/pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## svelte 
 
