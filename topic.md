@@ -1297,6 +1297,7 @@
 
 ## others 
 
+- [jasoncoon/fibonacci64-one-inch](https://github.com/jasoncoon/fibonacci64-one-inch) - Demo Arduino firmware for One Inch Fibonacci64
 - [richstokes/meshtastic_terminal](https://github.com/richstokes/meshtastic_terminal) - 📡  A terminal interface for Meshtastic
 - [erindatkinson/emoji-archiver](https://github.com/erindatkinson/emoji-archiver) - Bulk import and export emoji into Slack
 - [vu-ls/tapioca](https://github.com/vu-ls/tapioca) - 
