@@ -983,6 +983,7 @@
 
 ## Python 
 
+- [FileSherlock/k15](https://github.com/FileSherlock/k15) - A folder of static files as a bootable x86-64 HTTPS server of a few KB. Serves https://15kb.org/
 - [richstokes/meshtastic_terminal](https://github.com/richstokes/meshtastic_terminal) - 📡  A terminal interface for Meshtastic
 - [vu-ls/tapioca](https://github.com/vu-ls/tapioca) - 
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
