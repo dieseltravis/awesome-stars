@@ -1330,7 +1330,7 @@
 - [Harmony-Messenger/Harmony-Frontend](https://github.com/Harmony-Messenger/Harmony-Frontend) - A self-hosted, open-source messaging platform with text, voice, and screen sharing.
 - [JamesW75/visual-studio-project-type-guid](https://github.com/JamesW75/visual-studio-project-type-guid) - List of the Project Type Guids in Visual Studio
 - [maltman23/TV-B-Gone-kit_V2](https://github.com/maltman23/TV-B-Gone-kit_V2) - TV-B-Gone kit V2
-- [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
+- [unsound/openrefs](https://github.com/unsound/openrefs) - ReFS Linux kernel driver, FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features which use Generative AI & content labeled as AI Generated.
