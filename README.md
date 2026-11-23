@@ -103,7 +103,7 @@
 - [jasoncoon/fibonacci64-one-inch](https://github.com/jasoncoon/fibonacci64-one-inch) - Demo Arduino firmware for One Inch Fibonacci64
 - [julpage/ESP32_CD_Player](https://github.com/julpage/ESP32_CD_Player) - Play music from cdda disc in USB drive
 - [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
-- [unsound/refsprogs](https://github.com/unsound/refsprogs) - ReFS FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
+- [unsound/openrefs](https://github.com/unsound/openrefs) - ReFS Linux kernel driver, FUSE driver and tools for Linux, macOS, BSD, Windows, Illumos, etc. License: GPLv2+
 - [shorepine/tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer and AMYboard - portable Python synthesizers
 - [hchunhui/tiny386](https://github.com/hchunhui/tiny386) - tiny 386 PC emulator; running win9x on esp32
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
