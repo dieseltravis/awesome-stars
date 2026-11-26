@@ -324,6 +324,7 @@
 
 ## CSS 
 
+- [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
 - [RealFaviconGenerator/realfavicongenerator](https://github.com/RealFaviconGenerator/realfavicongenerator) - Generate favicon for all major platforms
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [EthicalSource/hippocratic-license](https://github.com/EthicalSource/hippocratic-license) - An ethical license for open source.
@@ -524,7 +525,6 @@
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [mrnickpeer/Visage](https://github.com/mrnickpeer/Visage) - Personal Identity Intelligence, Executive Exposure & People OSINT Suite
 - [mrnickpeer/Vantage](https://github.com/mrnickpeer/Vantage) - Passive attack surface reconnaissance, corporate infrastructure mapping, and exposure audit suite.
-- [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests) - A correctness test suite for CSS minifiers.
 - [iamkirkbater/gmail-actions](https://github.com/iamkirkbater/gmail-actions) - A Google Script to help manage email, leveraging labels and custom action patterns for custom functionality.
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [car-kaboomer/footprints-kicad-ergogen](https://github.com/car-kaboomer/footprints-kicad-ergogen) - 
